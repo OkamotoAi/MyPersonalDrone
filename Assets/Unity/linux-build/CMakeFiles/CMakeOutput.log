@@ -1,0 +1,280 @@
+The system is: Darwin - 20.5.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/local/opt/llvm@8/bin/clang 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "/Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/3.20.1/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/local/opt/llvm@8/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/3.20.1/CompilerIdCXX/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_8403b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_8403b.dir/build.make CMakeFiles/cmTC_8403b.dir/build
+Building C object CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o
+/usr/local/opt/llvm@8/bin/clang   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk   -v -Wl,-v -MD -MT CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -c /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCCompilerABI.c
+clang version 8.0.1 (tags/RELEASE_801/final)
+Target: x86_64-apple-darwin20.5.0
+Thread model: posix
+InstalledDir: /usr/local/opt/llvm@8/bin
+clang-8: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
+ "/usr/local/Cellar/llvm@8/8.0.1_3/bin/clang-8" -cc1 -triple x86_64-apple-macosx10.16.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -masm-verbose -munwind-tables -target-sdk-version=11.3 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 650.9 -v -coverage-notes-file /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.gcno -resource-dir /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1 -dependency-file CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o.d -sys-header-deps -MT CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -fdebug-compilation-dir /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.16.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -x c /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCCompilerABI.c
+clang -cc1 version 8.0.1 based upon LLVM 8.0.1 default target x86_64-apple-darwin20.5.0
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+Linking C executable cmTC_8403b
+/usr/local/Cellar/cmake/3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8403b.dir/link.txt --verbose=1
+/usr/local/opt/llvm@8/bin/clang  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -o cmTC_8403b 
+clang version 8.0.1 (tags/RELEASE_801/final)
+Target: x86_64-apple-darwin20.5.0
+Thread model: posix
+InstalledDir: /usr/local/opt/llvm@8/bin
+ "/usr/bin/ld" -demangle -lto_library /usr/local/Cellar/llvm@8/8.0.1_3/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.16.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_8403b -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -lSystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a
+@(#)PROGRAM:ld  PROJECT:ld64-650.9
+BUILD 13:09:02 May 28 2021
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib
+Framework search paths:
+	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  end of search list found
+  collapse include dir [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include] ==> [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  implicit include dirs: [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_8403b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_8403b.dir/build.make CMakeFiles/cmTC_8403b.dir/build]
+  ignore line: [Building C object CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/local/opt/llvm@8/bin/clang   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk   -v -Wl -v -MD -MT CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -c /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang version 8.0.1 (tags/RELEASE_801/final)]
+  ignore line: [Target: x86_64-apple-darwin20.5.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/local/opt/llvm@8/bin]
+  ignore line: [clang-8: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
+  ignore line: [ "/usr/local/Cellar/llvm@8/8.0.1_3/bin/clang-8" -cc1 -triple x86_64-apple-macosx10.16.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -masm-verbose -munwind-tables -target-sdk-version=11.3 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 650.9 -v -coverage-notes-file /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.gcno -resource-dir /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1 -dependency-file CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o.d -sys-header-deps -MT CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -fdebug-compilation-dir /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.16.0 -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -x c /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 8.0.1 based upon LLVM 8.0.1 default target x86_64-apple-darwin20.5.0]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)]
+  ignore line: [End of search list.]
+  ignore line: [Linking C executable cmTC_8403b]
+  ignore line: [/usr/local/Cellar/cmake/3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8403b.dir/link.txt --verbose=1]
+  ignore line: [/usr/local/opt/llvm@8/bin/clang  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -Wl -search_paths_first -Wl -headerpad_max_install_names  -v -Wl -v CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -o cmTC_8403b ]
+  ignore line: [clang version 8.0.1 (tags/RELEASE_801/final)]
+  ignore line: [Target: x86_64-apple-darwin20.5.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/local/opt/llvm@8/bin]
+  link line: [ "/usr/bin/ld" -demangle -lto_library /usr/local/Cellar/llvm@8/8.0.1_3/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.16.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_8403b -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o -lSystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a]
+    arg [/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/usr/local/Cellar/llvm@8/8.0.1_3/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.16.0] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_8403b] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-v] ==> ignore
+    arg [CMakeFiles/cmTC_8403b.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a] ==> lib [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib]
+  Framework search paths: [;/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib] ==> [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib]
+  collapse framework dir [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/] ==> [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks]
+  implicit libs: []
+  implicit objs: []
+  implicit dirs: [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib]
+  implicit fwks: [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks]
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_2b9f0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_2b9f0.dir/build.make CMakeFiles/cmTC_2b9f0.dir/build
+Building CXX object CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o
+/usr/local/opt/llvm@8/bin/clang++   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk   -v -Wl,-v -MD -MT CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+clang version 8.0.1 (tags/RELEASE_801/final)
+Target: x86_64-apple-darwin20.5.0
+Thread model: posix
+InstalledDir: /usr/local/opt/llvm@8/bin
+clang-8: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
+ "/usr/local/Cellar/llvm@8/8.0.1_3/bin/clang-8" -cc1 -triple x86_64-apple-macosx10.16.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -masm-verbose -munwind-tables -target-sdk-version=11.3 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 650.9 -v -coverage-notes-file /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1 -dependency-file CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o.d -sys-header-deps -MT CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -stdlib=libc++ -internal-isystem /usr/local/opt/llvm@8/bin/../include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -fdeprecated-macro -fdebug-compilation-dir /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.16.0 -fcxx-exceptions -fexceptions -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+clang -cc1 version 8.0.1 based upon LLVM 8.0.1 default target x86_64-apple-darwin20.5.0
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/local/opt/llvm@8/bin/../include/c++/v1
+ /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+Linking CXX executable cmTC_2b9f0
+/usr/local/Cellar/cmake/3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2b9f0.dir/link.txt --verbose=1
+/usr/local/opt/llvm@8/bin/clang++  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_2b9f0 
+clang version 8.0.1 (tags/RELEASE_801/final)
+Target: x86_64-apple-darwin20.5.0
+Thread model: posix
+InstalledDir: /usr/local/opt/llvm@8/bin
+ "/usr/bin/ld" -demangle -lto_library /usr/local/Cellar/llvm@8/8.0.1_3/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.16.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_2b9f0 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a
+@(#)PROGRAM:ld  PROJECT:ld64-650.9
+BUILD 13:09:02 May 28 2021
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib
+Framework search paths:
+	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/local/opt/llvm@8/bin/../include/c++/v1]
+    add: [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include]
+    add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  end of search list found
+  collapse include dir [/usr/local/opt/llvm@8/bin/../include/c++/v1] ==> [/usr/local/opt/llvm@8/include/c++/v1]
+  collapse include dir [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include] ==> [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include]
+  collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  implicit include dirs: [/usr/local/opt/llvm@8/include/c++/v1;/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_2b9f0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_2b9f0.dir/build.make CMakeFiles/cmTC_2b9f0.dir/build]
+  ignore line: [Building CXX object CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/local/opt/llvm@8/bin/clang++   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk   -v -Wl -v -MD -MT CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang version 8.0.1 (tags/RELEASE_801/final)]
+  ignore line: [Target: x86_64-apple-darwin20.5.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/local/opt/llvm@8/bin]
+  ignore line: [clang-8: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
+  ignore line: [ "/usr/local/Cellar/llvm@8/8.0.1_3/bin/clang-8" -cc1 -triple x86_64-apple-macosx10.16.0 -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mthread-model posix -mdisable-fp-elim -masm-verbose -munwind-tables -target-sdk-version=11.3 -target-cpu penryn -dwarf-column-info -debugger-tuning=lldb -ggnu-pubnames -target-linker-version 650.9 -v -coverage-notes-file /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1 -dependency-file CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o.d -sys-header-deps -MT CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -stdlib=libc++ -internal-isystem /usr/local/opt/llvm@8/bin/../include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include -internal-isystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include -fdeprecated-macro -fdebug-compilation-dir /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fobjc-runtime=macosx-10.16.0 -fcxx-exceptions -fexceptions -fmax-type-align=16 -fdiagnostics-show-option -o CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/Cellar/cmake/3.20.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang -cc1 version 8.0.1 based upon LLVM 8.0.1 default target x86_64-apple-darwin20.5.0]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/Library/Frameworks"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/local/opt/llvm@8/bin/../include/c++/v1]
+  ignore line: [ /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include]
+  ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks (framework directory)]
+  ignore line: [End of search list.]
+  ignore line: [Linking CXX executable cmTC_2b9f0]
+  ignore line: [/usr/local/Cellar/cmake/3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2b9f0.dir/link.txt --verbose=1]
+  ignore line: [/usr/local/opt/llvm@8/bin/clang++  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -Wl -search_paths_first -Wl -headerpad_max_install_names  -v -Wl -v CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_2b9f0 ]
+  ignore line: [clang version 8.0.1 (tags/RELEASE_801/final)]
+  ignore line: [Target: x86_64-apple-darwin20.5.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/local/opt/llvm@8/bin]
+  link line: [ "/usr/bin/ld" -demangle -lto_library /usr/local/Cellar/llvm@8/8.0.1_3/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.16.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o cmTC_2b9f0 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a]
+    arg [/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/usr/local/Cellar/llvm@8/8.0.1_3/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.16.0] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_2b9f0] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-v] ==> ignore
+    arg [CMakeFiles/cmTC_2b9f0.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lc++] ==> lib [c++]
+    arg [-lSystem] ==> lib [System]
+    arg [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a] ==> lib [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib]
+  Framework search paths: [;/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/usr/local/Cellar/llvm@8/8.0.1_3/lib/clang/8.0.1/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib] ==> [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib]
+  collapse framework dir [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/] ==> [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks]
+  implicit libs: [c++]
+  implicit objs: []
+  implicit dirs: [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib]
+  implicit fwks: [/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks]
+
+
+Performing C++ SOURCE FILE Test UNUSED_LAMBDA_CAPTURE_WARN_SUPPORTED succeeded with the following output:
+Change Dir: /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b1dbf/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_b1dbf.dir/build.make CMakeFiles/cmTC_b1dbf.dir/build
+Building CXX object CMakeFiles/cmTC_b1dbf.dir/src.cxx.o
+/usr/local/opt/llvm@8/bin/clang++ -DUNUSED_LAMBDA_CAPTURE_WARN_SUPPORTED  -Werror -Wno-unused-lambda-capture -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -MD -MT CMakeFiles/cmTC_b1dbf.dir/src.cxx.o -MF CMakeFiles/cmTC_b1dbf.dir/src.cxx.o.d -o CMakeFiles/cmTC_b1dbf.dir/src.cxx.o -c /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_b1dbf
+/usr/local/Cellar/cmake/3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b1dbf.dir/link.txt --verbose=1
+/usr/local/opt/llvm@8/bin/clang++  -Werror -Wno-unused-lambda-capture -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_b1dbf.dir/src.cxx.o -o cmTC_b1dbf 
+
+
+Source file was:
+int main() {}
+Performing C++ SOURCE FILE Test ZERO_AS_NULL_POINTER_CONSTANT_WARN_SUPPORTED succeeded with the following output:
+Change Dir: /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_36345/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_36345.dir/build.make CMakeFiles/cmTC_36345.dir/build
+Building CXX object CMakeFiles/cmTC_36345.dir/src.cxx.o
+/usr/local/opt/llvm@8/bin/clang++ -DZERO_AS_NULL_POINTER_CONSTANT_WARN_SUPPORTED  -Werror -Wno-zero-as-null-pointer-constant -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -MD -MT CMakeFiles/cmTC_36345.dir/src.cxx.o -MF CMakeFiles/cmTC_36345.dir/src.cxx.o.d -o CMakeFiles/cmTC_36345.dir/src.cxx.o -c /Users/k20026kk/AirSim/Unity/linux-build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_36345
+/usr/local/Cellar/cmake/3.20.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_36345.dir/link.txt --verbose=1
+/usr/local/opt/llvm@8/bin/clang++  -Werror -Wno-zero-as-null-pointer-constant -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_36345.dir/src.cxx.o -o cmTC_36345 
+
+
+Source file was:
+int main() {}

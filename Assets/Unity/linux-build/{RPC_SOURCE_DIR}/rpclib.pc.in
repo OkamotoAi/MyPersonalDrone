@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=
+libdir=/usr/local/lib
+includedir=/usr/local/include
+
+Name: rpclib
+Description: rpclib is a msgpack-rpc library written using modern C++
+Version: 0
+Libs: -L${libdir} -l
+Cflags: -I${includedir} -Wall -Wextra -Wno-unused-function -Wno-c++98-compat -Wno-unknown-warning-option -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -pthread -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant
