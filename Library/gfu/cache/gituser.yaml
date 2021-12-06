@@ -13,12 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 8
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2021-12-07T03:55:41.374+09:00
-  initializedAtString: 2021-12-07T02:36:24.164+09:00
-=======
-  lastUpdatedAtString: 2021-12-07T07:16:22.478+09:00
-  initializedAtString: 2021-12-07T06:40:09.718+09:00
->>>>>>> Stashed changes
+  lastUpdatedAtString: 2021-12-07T07:47:17.774+09:00
+  initializedAtString: 2021-12-07T07:47:17.764+09:00
   gitName: OkamotoAi
   gitEmail: 52301721+OkamotoAi@users.noreply.github.com
