@@ -18,6 +18,28 @@ MonoBehaviour:
     - ProjectSettings/ProjectVersion.txt
     - 
     m_Values: 000000
+    - .collabignore
+    - Assets/Scenes/Image/sh_img.png
+    - Assets/Scenes/Image/sh_img.png.meta
+    - Assets/Scenes/MapSelect_Pra.unity
+    - Assets/Scenes/MapSelect_Pra.unity.meta
+    - Assets/Scenes/MapSelect_Rac.unity
+    - Assets/Scenes/MapSelect_Rac.unity.meta
+    - Assets/Scenes/ModeSelect.unity
+    - Assets/Scenes/ModeSelect.unity.meta
+    - Assets/Scenes/Start_Pra_Shr.unity
+    - Assets/Scenes/Start_Pra_Shr.unity.meta
+    - Assets/Scenes/Start_Rac_11.unity
+    - Assets/Scenes/Start_Rac_11.unity.meta
+    - Assets/Scenes/Start_Rac_Shr.unity
+    - Assets/Scenes/Start_Rac_Shr.unity.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
