@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-12-06T18:56:55.383+09:00
-  initializedAtString: 2021-12-06T18:56:55.383+09:00
+  lastUpdatedAtString: 2021-12-07T05:32:35.678+09:00
+  initializedAtString: 2021-12-07T05:32:35.678+09:00
   currentGitRemote:
     name: origin
     url: git@github.com:OkamotoAi/MyPersonalDrone.git

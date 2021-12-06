@@ -14,12 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/SimModeSelector.unity.meta
-    - Assets/Scripts/InitializeAirSim.cs.meta
-    - ProjectSettings/InputManager.asset
+    - Assets/Scenes/shDemo.unity
     - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 0000000000
+    m_Values: 000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

@@ -10,6 +10,8 @@ public class Racegame : MonoBehaviour
     public float start_time;
     public Text TimeText;
     public Text ClearLavel;
+    public Text CountLavel;
+    public GameObject selectPanel;
 
     // Start is called before the first frame update
     void Start()
@@ -26,12 +28,14 @@ public class Racegame : MonoBehaviour
 
         //3個のアイテムを取れていない間は実行
         if(start_time >= 4.5)
-            if (count < 3)
+            if (count < 10)
             {
                 time += Time.deltaTime;
                 TimeText.text = time.ToString("F2");
+                CountLavel.text = count.ToString();
             }else{
                 ClearLavel.text = time.ToString("F2");
+                selectPanel.SetActive(true);
             }
         }
 
