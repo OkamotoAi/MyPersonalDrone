@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -942,7 +942,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 798630196}
+      - m_Target: {fileID: 490270195}
         m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
         m_MethodName: TitleBack
         m_Mode: 1
@@ -1126,7 +1126,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 798630196}
+      - m_Target: {fileID: 497558649}
         m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
         m_MethodName: Mode_Rac
         m_Mode: 1
@@ -1270,19 +1270,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 744856575}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 798630192}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &798630192
 GameObject:
   m_ObjectHideFlags: 0
@@ -1294,7 +1282,6 @@ GameObject:
   - component: {fileID: 798630195}
   - component: {fileID: 798630194}
   - component: {fileID: 798630193}
-  - component: {fileID: 798630196}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -1350,18 +1337,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &798630196
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 798630192}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a32d742c5346e4dc9968c573eeba04e4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &992211068
 GameObject:
   m_ObjectHideFlags: 0
@@ -1484,9 +1459,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 798630196}
-        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
-        m_MethodName: Mode_Pra
+      - m_Target: {fileID: 992211073}
+        m_TargetAssemblyTypeName: Mode_PraScript, Assembly-CSharp
+        m_MethodName: OnClickStartButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -13,7 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-12-07T07:47:25.914+09:00
   initializedAtString: 2021-12-07T07:47:25.914+09:00
   ahead: 3
+=======
+<<<<<<< Updated upstream
+  lastUpdatedAtString: 2021-12-07T02:36:28.989+09:00
+  initializedAtString: 2021-12-07T02:36:28.989+09:00
+=======
+  lastUpdatedAtString: 2021-12-07T06:40:09.792+09:00
+  initializedAtString: 2021-12-07T06:40:09.792+09:00
+>>>>>>> Stashed changes
+  ahead: 0
+>>>>>>> parent of 2ee01a4a (Merge branch 'wadatakeru' into okamoto)
   behind: 0

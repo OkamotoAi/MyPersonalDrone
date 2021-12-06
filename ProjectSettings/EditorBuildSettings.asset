@@ -21,30 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Start_Pra_11.unity
     guid: a2f73deb4a8254a6dae02ae439de4938
   - enabled: 1
-    path: Assets/Scenes/Drone_Shr_Pra.unity
-    guid: ba6479c0233a44729ad40bc4a3402b7f
-  - enabled: 1
-    path: Assets/Scenes/Start_Pra_Shr.unity
-    guid: 1ccf5c4d7d7b640829432474314e88f2
-  - enabled: 1
-    path: Assets/Scenes/Start_Rac_11.unity
-    guid: a9fe1698121d14f199e89df7e085a410
-  - enabled: 1
-    path: Assets/Scenes/DroneRace.unity
-    guid: 7b1eef2bb6b8e4281bebdfc275b5afa4
-  - enabled: 1
-    path: Assets/Scenes/Drone_Shr_Race.unity
-    guid: f10108c0857144d85acf06bca90d4d9a
-  - enabled: 1
-    path: Assets/Scenes/MapSelect_Rac.unity
-    guid: 7e2929798b9e649d08658b72e583f269
-  - enabled: 1
-    path: Assets/Scenes/shDemo.unity
-    guid: cfad6a9b23d8a4c20b0a6e994939b1da
-  - enabled: 1
-    path: Assets/Scenes/Start_Rac_Shr.unity
-    guid: 0918f706a7fa240db8627bf1e3699dd1
-  - enabled: 1
     path: Assets/Scenes/DroneDemo.unity
     guid: 012f6bdfaada17042bf7917f7d4fcbd8
   m_configObjects: {}

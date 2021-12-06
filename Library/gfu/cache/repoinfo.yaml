@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-12-07T07:47:16.898+09:00
   initializedAtString: 2021-12-07T07:47:16.898+09:00
+=======
+  lastUpdatedAtString: 2021-12-07T05:32:35.678+09:00
+  initializedAtString: 2021-12-07T05:32:35.678+09:00
+>>>>>>> parent of 2ee01a4a (Merge branch 'wadatakeru' into okamoto)
   currentGitRemote:
     name: origin
     url: git@github.com:OkamotoAi/MyPersonalDrone.git
