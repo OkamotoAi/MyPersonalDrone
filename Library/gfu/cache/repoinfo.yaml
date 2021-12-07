@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-12-07T06:41:22.455+09:00
-  initializedAtString: 2021-12-07T06:41:22.455+09:00
+  lastUpdatedAtString: 2021-12-07T17:32:43.551+09:00
+  initializedAtString: 2021-12-07T17:32:43.551+09:00
   currentGitRemote:
     name: origin
-    url: https://github.com/OkamotoAi/MyPersonalDrone.git
+    url: git@github.com:OkamotoAi/MyPersonalDrone.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: wadatakeru
-    tracking: origin/wadatakeru
+    name: testInputSystem
+    tracking: 
   currentConfigBranch:
-    name: wadatakeru
+    name: testInputSystem
     remote:
-      name: origin
-      url: https://github.com/OkamotoAi/MyPersonalDrone.git
-    trackingBranch: wadatakeru
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
-    url: https://github.com/OkamotoAi/MyPersonalDrone.git
+    url: git@github.com:OkamotoAi/MyPersonalDrone.git
   currentHead: 
