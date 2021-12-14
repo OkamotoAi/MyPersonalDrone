@@ -14,6 +14,7 @@ public class droneobj : MonoBehaviour
     void Start()
     {
         rb = this.gameObject.GetComponent<Rigidbody>();
+        bool isGamePad = (Gamepad.current == null ? false:true);
     }
 
     // Update is called once per frame
@@ -30,16 +31,6 @@ public class droneobj : MonoBehaviour
 
 
         //ドローンが向いている方向を基準に移動　
-        // pos=this.transform.position;
-        // pos.x = pos.x + vert * Mathf.Sin(this.transform.eulerAngles.y * Mathf.Deg2Rad)
-        //                 +horz * Mathf.Cos(this.transform.eulerAngles.y * Mathf.Deg2Rad);
-        // if(dep<0) dep/=4; 
-        // pos.y+=dep/1.5f;
-        // pos.z = pos.z + vert * Mathf.Cos(this.transform.eulerAngles.y * Mathf.Deg2Rad)
-        //                 +horz * -Mathf.Sin(this.transform.eulerAngles.y * Mathf.Deg2Rad);
-        // this.transform.position = pos;
-        
-
         force.x = vert * Mathf.Sin(this.transform.eulerAngles.y * Mathf.Deg2Rad)
                         +horz * Mathf.Cos(this.transform.eulerAngles.y * Mathf.Deg2Rad);
         force.y=0f;
@@ -57,6 +48,18 @@ public class droneobj : MonoBehaviour
         rt = this.transform.rotation.eulerAngles;
         rt.y += yaw*10;
         this.transform.rotation = Quaternion.Euler(rt);
+
+
+
+        //input system
+        if (isGamePad){
+            //ゲームパッド入力
+            Vector2 move = gamepad.leftStick.ReadValue();
+           
+        }else{
+            //キーボード入力
+
+        }
         
 
 
