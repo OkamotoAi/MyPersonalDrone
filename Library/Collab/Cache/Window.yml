@@ -14,13 +14,42 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/ButtonScript.cs
-    - Assets/Scenes/Stage/window.fbx
-    - Assets/Scenes/Stage/window.fbx.meta
+    - Assets/Scenes/Folder.meta
+    - Assets/Scenes/Folder/New Scene.unity
+    - Assets/Scenes/Folder/New Scene.unity.meta
+    - Assets/Scenes/Image/NewBrush.brush
+    - Assets/Scenes/Image/NewBrush.brush.meta
+    - Assets/Scenes/InitAirSim.prefab
+    - Assets/Scenes/InitAirSim.prefab.meta
+    - Assets/Scenes/Scripts.meta
+    - Assets/Scenes/Scripts/CameraControll.cs
+    - Assets/Scenes/Scripts/CameraControll.cs.meta
+    - Assets/Scenes/Scripts/CountDown.anim
+    - Assets/Scenes/Scripts/CountDown.anim.meta
+    - Assets/Scenes/Scripts/Countdown 1.controller
+    - Assets/Scenes/Scripts/Countdown 1.controller.meta
+    - Assets/Scenes/Scripts/Home.cs
+    - Assets/Scenes/Scripts/Home.cs.meta
+    - Assets/Scenes/Scripts/InitializeAirSim.cs
+    - Assets/Scenes/Scripts/InitializeAirSim.cs.meta
+    - Assets/Scenes/Scripts/MyInitialize.cs
+    - Assets/Scenes/Scripts/MyInitialize.cs.meta
+    - Assets/Scenes/Scripts/Pause.cs
+    - Assets/Scenes/Scripts/Pause.cs.meta
+    - Assets/Scenes/Scripts/Racegame.cs
+    - Assets/Scenes/Scripts/Racegame.cs.meta
+    - Assets/Scenes/Scripts/ResetButton.cs
+    - Assets/Scenes/Scripts/ResetButton.cs.meta
+    - Assets/Scenes/Scripts/drone.cs
+    - Assets/Scenes/Scripts/drone.cs.meta
+    - Assets/Scenes/Scripts/droneobj.cs
+    - Assets/Scenes/Scripts/droneobj.cs.meta
+    - Assets/Scenes/Scripts/dronert.cs
+    - Assets/Scenes/Scripts/dronert.cs.meta
     - 
-    m_Values: 00000000
-  RevisionSummary: 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: merged
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
-  TabIndex: 0
+  TabIndex: 1

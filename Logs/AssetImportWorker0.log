@@ -495,3 +495,159 @@ Received Import Request.
 Start importing Assets/Scenes/DroneRace.unity using Guid(7b1eef2bb6b8e4281bebdfc275b5afa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a947f037f51608763651f7c7eea3bc29') in 0.004540 seconds 
   Import took 0.011235 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 307.714286 seconds.
+  path: Assets/Scenes/ButtonScript.cs
+  artifactKey: Guid(a32d742c5346e4dc9968c573eeba04e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ButtonScript.cs using Guid(a32d742c5346e4dc9968c573eeba04e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2363001b40a9085ecdc096eca08a5121') in 0.031637 seconds 
+  Import took 0.068398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003084 seconds.
+  path: Assets/Scenes/ButtonScript.cs
+  artifactKey: Guid(a32d742c5346e4dc9968c573eeba04e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ButtonScript.cs using Guid(a32d742c5346e4dc9968c573eeba04e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2363001b40a9085ecdc096eca08a5121') in 0.003517 seconds 
+  Import took 0.015413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.496434 seconds.
+  path: Assets/Scenes/Stage/window.fbx
+  artifactKey: Guid(42a8add16f7b7407183231c07d25531c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/window.fbx using Guid(42a8add16f7b7407183231c07d25531c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc854455521abb97f8ff9975d1c5f828') in 0.497844 seconds 
+  Import took 0.503228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Scenes/Stage/鳥居完成.fbx
+  artifactKey: Guid(95e2c93a816b144aca984d9546d4325d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/鳥居完成.fbx using Guid(95e2c93a816b144aca984d9546d4325d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88965b0da3d95e0797ada8978e20256b') in 0.111938 seconds 
+  Import took 0.116494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Scenes/Stage/window2.fbx
+  artifactKey: Guid(6ef9c4c133cf0444ba5ebafe9fe2e722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/window2.fbx using Guid(6ef9c4c133cf0444ba5ebafe9fe2e722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025e288a1ecc5c610a07715e2eb6bb27') in 0.059478 seconds 
+  Import took 0.068724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000820 seconds.
+  path: Assets/Scenes/Stage/灯篭完成.fbx
+  artifactKey: Guid(43c596c170ad04a40baea4f4e702979a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/灯篭完成.fbx using Guid(43c596c170ad04a40baea4f4e702979a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68e3b33e986677b80cc8d659d170ae0') in 0.097161 seconds 
+  Import took 0.107288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Scenes/Stage/柵完成.fbx
+  artifactKey: Guid(c2d3e5d221f15418cab429a97668d479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/柵完成.fbx using Guid(c2d3e5d221f15418cab429a97668d479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e239c6ff0deda799f993be71a7fa83') in 0.102853 seconds 
+  Import took 0.107721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Scenes/Stage/zinzya.fbx
+  artifactKey: Guid(0df1a2afd1b054738bcc85f539e6180b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/zinzya.fbx using Guid(0df1a2afd1b054738bcc85f539e6180b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ae27ad8351aa34fd71a246a8994665') in 1.169859 seconds 
+  Import took 1.189828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.567574 seconds.
+  path: Assets/Scenes/Folder/New Scene.unity
+  artifactKey: Guid(ab29ef886dd8741feb5ff43726ecd711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Folder/New Scene.unity using Guid(ab29ef886dd8741feb5ff43726ecd711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee54644b5a2451f0671ca6423ee6cc10') in 0.005289 seconds 
+  Import took 0.011694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.441611 seconds.
+  path: Assets/Scenes/DroneDemoSettings.lighting
+  artifactKey: Guid(176bca78014484d0587eff1b778ed194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemoSettings.lighting using Guid(176bca78014484d0587eff1b778ed194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ef55c48733ff3fd01390a10abed9ca') in 2.293383 seconds 
+  Import took 2.297477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.402130 seconds.
+  path: Assets/Scenes/Image
+  artifactKey: Guid(7df575b4f297c4f99bc3d307208df648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Image using Guid(7df575b4f297c4f99bc3d307208df648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9053263aa60885f3cdcf11f2fe51a2e') in 0.001416 seconds 
+  Import took 0.006547 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.391 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.70 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1495 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.6 MB.
+System memory in use after: 195.6 MB.
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 1999.
+Total: 2.905665 ms (FindLiveObjects: 0.238714 ms CreateObjectMapping: 0.063617 ms MarkObjects: 2.411583 ms  DeleteObjects: 0.190572 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016403 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 11.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1495 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.0 MB.
+System memory in use after: 195.9 MB.
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 2001.
+Total: 3.871242 ms (FindLiveObjects: 0.410941 ms CreateObjectMapping: 0.128395 ms MarkObjects: 3.158078 ms  DeleteObjects: 0.172339 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 249.053758 seconds.
+  path: Assets/Scenes/Scripts/ResetButton.cs
+  artifactKey: Guid(3ad19f4a157a14f73a49f14150bc85d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/ResetButton.cs using Guid(3ad19f4a157a14f73a49f14150bc85d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '079e0ee63d88fd6ae2db418ffca9834e') in 0.013753 seconds 
+  Import took 0.019526 seconds .
+
