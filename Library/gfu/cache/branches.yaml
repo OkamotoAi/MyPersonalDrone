@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-12-06T15:40:28.515+09:00
-  initializedAtString: 2021-12-06T15:40:28.466+09:00
+  lastUpdatedAtString: 2021-12-14T15:18:21.176+09:00
+  initializedAtString: 2021-12-14T15:18:21.158+09:00
   localBranches:
   - name: main
     tracking: 
@@ -22,12 +22,20 @@ MonoBehaviour:
     tracking: origin/newScript
   - name: okamoto
     tracking: origin/okamoto
+  - name: testInputSystem
+    tracking: origin/testInputSystem
+  - name: wadatakeru
+    tracking: origin/wadatakeru
   remoteBranches:
   - name: origin/main
     tracking: '[None]'
   - name: origin/newScript
     tracking: '[None]'
   - name: origin/okamoto
+    tracking: '[None]'
+  - name: origin/testInputSystem
+    tracking: '[None]'
+  - name: origin/wadatakeru
     tracking: '[None]'
   remotes:
   - name: origin
@@ -42,6 +50,8 @@ MonoBehaviour:
     - main
     - newScript
     - okamoto
+    - testInputSystem
+    - wadatakeru
     values:
     - name: main
       remote:
@@ -58,6 +68,16 @@ MonoBehaviour:
         name: origin
         url: git@github.com:OkamotoAi/MyPersonalDrone.git
       trackingBranch: okamoto
+    - name: testInputSystem
+      remote:
+        name: origin
+        url: git@github.com:OkamotoAi/MyPersonalDrone.git
+      trackingBranch: testInputSystem
+    - name: wadatakeru
+      remote:
+        name: origin
+        url: git@github.com:OkamotoAi/MyPersonalDrone.git
+      trackingBranch: wadatakeru
   remoteConfigBranches:
     keys:
     - origin
@@ -66,6 +86,8 @@ MonoBehaviour:
       - main
       - newScript
       - okamoto
+      - testInputSystem
+      - wadatakeru
     subKeyValues:
     - Values:
       - name: main
@@ -79,6 +101,16 @@ MonoBehaviour:
           url: git@github.com:OkamotoAi/MyPersonalDrone.git
         trackingBranch: 
       - name: okamoto
+        remote:
+          name: origin
+          url: git@github.com:OkamotoAi/MyPersonalDrone.git
+        trackingBranch: 
+      - name: testInputSystem
+        remote:
+          name: origin
+          url: git@github.com:OkamotoAi/MyPersonalDrone.git
+        trackingBranch: 
+      - name: wadatakeru
         remote:
           name: origin
           url: git@github.com:OkamotoAi/MyPersonalDrone.git

@@ -16,6 +16,7 @@ public class ButtonScript : MonoBehaviour
     public void TitleBack()
     {
         SceneManager.LoadScene("Title");
+        
     }
 
     // モード選択(Practice)→マップ選択

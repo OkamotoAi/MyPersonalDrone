@@ -14,7 +14,14 @@ public class ResetButton : MonoBehaviour
     public void OnClick()
     {
         Debug.Log("reset");
-        SceneManager.LoadScene ("DroneDemo");
+        if(SceneManager.GetActiveScene().name == "DroneDemo"){
+            SceneManager.LoadScene ("DroneDemo");
+        }else if(SceneManager.GetActiveScene().name == "shDemo"){
+            SceneManager.LoadScene ("shDemo");
+        }else if(SceneManager.GetActiveScene().name == "DroneRace"){
+            SceneManager.LoadScene ("DroneRace");
+        }
+        
         pauseUI.SetActive (false);
         
     }

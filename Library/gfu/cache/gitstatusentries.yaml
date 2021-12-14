@@ -13,60 +13,546 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-14T15:16:00.362+09:00
+  lastUpdatedAtString: 2021-12-14T15:46:32.608+09:00
   initializedAtString: 2021-12-14T15:16:00.362+09:00
   entries:
+  - path: Assets/Scenes/ButtonScript.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/ButtonScript.cs
+    projectPath: Assets/Scenes/ButtonScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/DroneRace.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/DroneRace.unity
+    projectPath: Assets/Scenes/DroneRace.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Image/sh_img.png
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Image/sh_img.png
+    projectPath: Assets/Scenes/Image/sh_img.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Image/sh_img.png.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Image/sh_img.png.meta
+    projectPath: Assets/Scenes/Image/sh_img.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/MapSelect_Pra.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/MapSelect_Pra.unity
+    projectPath: Assets/Scenes/MapSelect_Pra.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/MapSelect_Rac.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/MapSelect_Rac.unity
+    projectPath: Assets/Scenes/MapSelect_Rac.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/ModeSelect.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/ModeSelect.unity
+    projectPath: Assets/Scenes/ModeSelect.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/shDemo.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/shDemo.unity
+    projectPath: Assets/Scenes/shDemo.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/SimModeSelector.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/SimModeSelector.unity
+    projectPath: Assets/Scenes/SimModeSelector.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/SimModeSelector.unity.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/SimModeSelector.unity.meta
+    projectPath: Assets/Scenes/SimModeSelector.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/SimModeSelectorSettings.lighting
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/SimModeSelectorSettings.lighting
+    projectPath: Assets/Scenes/SimModeSelectorSettings.lighting
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/SimModeSelectorSettings.lighting.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/SimModeSelectorSettings.lighting.meta
+    projectPath: Assets/Scenes/SimModeSelectorSettings.lighting.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/Stage/window2.fbx
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Stage/window2.fbx
+    projectPath: Assets/Scenes/Stage/window2.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/window2.fbx.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Stage/window2.fbx.meta
+    projectPath: Assets/Scenes/Stage/window2.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Start_Pra_11.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Start_Pra_11.unity
+    projectPath: Assets/Scenes/Start_Pra_11.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Start_Pra_Shr.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Start_Pra_Shr.unity
+    projectPath: Assets/Scenes/Start_Pra_Shr.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Start_Rac_11.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Start_Rac_11.unity
+    projectPath: Assets/Scenes/Start_Rac_11.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Start_Rac_Shr.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Start_Rac_Shr.unity
+    projectPath: Assets/Scenes/Start_Rac_Shr.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Title.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scenes/Title.unity
+    projectPath: Assets/Scenes/Title.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/CameraControll.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scripts/CameraControll.cs
+    projectPath: Assets/Scripts/CameraControll.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/ResetButton.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Assets/Scripts/ResetButton.cs
+    projectPath: Assets/Scripts/ResetButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ArtifactDB
     fullPath: /Users/k20025/MyPersonalDrone/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ArtifactDB-lock
-    fullPath: /Users/k20025/MyPersonalDrone/Library/ArtifactDB-lock
-    projectPath: Library/ArtifactDB-lock
+  - path: Library/Artifacts/03/03dcae065aeb6d9ce62f7eec2cd413bf
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/03/03dcae065aeb6d9ce62f7eec2cd413bf
+    projectPath: Library/Artifacts/03/03dcae065aeb6d9ce62f7eec2cd413bf
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/09/09b45a6dfc852efaf0ef20b44fdfd602
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/09/09b45a6dfc852efaf0ef20b44fdfd602
+    projectPath: Library/Artifacts/09/09b45a6dfc852efaf0ef20b44fdfd602
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/11/115b7fc17b7ce3402931ddcebb845cd7
     fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/11/115b7fc17b7ce3402931ddcebb845cd7
     projectPath: Library/Artifacts/11/115b7fc17b7ce3402931ddcebb845cd7
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/1c/1cadd87f087b97974b7cce4b16522acd
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/1c/1cadd87f087b97974b7cce4b16522acd
+    projectPath: Library/Artifacts/1c/1cadd87f087b97974b7cce4b16522acd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/1d/1df1a138f1b8b5e50f2f290310b7d1dd
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/1d/1df1a138f1b8b5e50f2f290310b7d1dd
+    projectPath: Library/Artifacts/1d/1df1a138f1b8b5e50f2f290310b7d1dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/22/2219eb676e25b0219864288fa6fe9037
     fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/22/2219eb676e25b0219864288fa6fe9037
     projectPath: Library/Artifacts/22/2219eb676e25b0219864288fa6fe9037
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2b/2b5b9ee4f4f233c6e9e989677ab7370a
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/2b/2b5b9ee4f4f233c6e9e989677ab7370a
+    projectPath: Library/Artifacts/2b/2b5b9ee4f4f233c6e9e989677ab7370a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3c/3c9e5a60e708f21bfe2cbceb4a11519f
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/3c/3c9e5a60e708f21bfe2cbceb4a11519f
+    projectPath: Library/Artifacts/3c/3c9e5a60e708f21bfe2cbceb4a11519f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/58/585fd19f3d69971462ace91c434d1e2c
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/58/585fd19f3d69971462ace91c434d1e2c
+    projectPath: Library/Artifacts/58/585fd19f3d69971462ace91c434d1e2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/5a/5a1c1bd5678073479342e0f2fe82bacf
     fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/5a/5a1c1bd5678073479342e0f2fe82bacf
     projectPath: Library/Artifacts/5a/5a1c1bd5678073479342e0f2fe82bacf
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5a/5a35b3ce5ccc306ca0207deafb113563
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/5a/5a35b3ce5ccc306ca0207deafb113563
+    projectPath: Library/Artifacts/5a/5a35b3ce5ccc306ca0207deafb113563
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/63/6325f89dc789f5e1bf04c291ff77737b
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/63/6325f89dc789f5e1bf04c291ff77737b
+    projectPath: Library/Artifacts/63/6325f89dc789f5e1bf04c291ff77737b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/71/713cb3217cd6407d8b92c735872c276b
     fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/71/713cb3217cd6407d8b92c735872c276b
     projectPath: Library/Artifacts/71/713cb3217cd6407d8b92c735872c276b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/91/91a2cfc81b5bfbc02f0a982522260e31
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/91/91a2cfc81b5bfbc02f0a982522260e31
+    projectPath: Library/Artifacts/91/91a2cfc81b5bfbc02f0a982522260e31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/96/965f7ece35290499f1cf6f605a049e59
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/96/965f7ece35290499f1cf6f605a049e59
+    projectPath: Library/Artifacts/96/965f7ece35290499f1cf6f605a049e59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/99/9920c0815b4167eb44247f9a4cd412e6
     fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/99/9920c0815b4167eb44247f9a4cd412e6
     projectPath: Library/Artifacts/99/9920c0815b4167eb44247f9a4cd412e6
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a0/a07b62ad2269c00b96405e47733e3732
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/a0/a07b62ad2269c00b96405e47733e3732
+    projectPath: Library/Artifacts/a0/a07b62ad2269c00b96405e47733e3732
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ad/adf1ecaece780eb260ddc0a04348bf43
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/ad/adf1ecaece780eb260ddc0a04348bf43
+    projectPath: Library/Artifacts/ad/adf1ecaece780eb260ddc0a04348bf43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/af/af8116fe6e331e570bb346d1bb7a70f6
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/af/af8116fe6e331e570bb346d1bb7a70f6
+    projectPath: Library/Artifacts/af/af8116fe6e331e570bb346d1bb7a70f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/be/be20adc0d61840df223b041376200f59
     fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/be/be20adc0d61840df223b041376200f59
     projectPath: Library/Artifacts/be/be20adc0d61840df223b041376200f59
     originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c4/c4c7c215a4356f8c20641730d4727799
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/c4/c4c7c215a4356f8c20641730d4727799
+    projectPath: Library/Artifacts/c4/c4c7c215a4356f8c20641730d4727799
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cb/cbe7f7d2ef786244869e4a04b58586bd
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/cb/cbe7f7d2ef786244869e4a04b58586bd
+    projectPath: Library/Artifacts/cb/cbe7f7d2ef786244869e4a04b58586bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cd/cd7d05ce92c6429b6641412facaa8594
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/cd/cd7d05ce92c6429b6641412facaa8594
+    projectPath: Library/Artifacts/cd/cd7d05ce92c6429b6641412facaa8594
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d1/d13a269859df2c2a42fc33a755c67617
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/d1/d13a269859df2c2a42fc33a755c67617
+    projectPath: Library/Artifacts/d1/d13a269859df2c2a42fc33a755c67617
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
+    projectPath: Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f9/f91409b68419f66e81134116e4c11d05
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Artifacts/f9/f91409b68419f66e81134116e4c11d05
+    projectPath: Library/Artifacts/f9/f91409b68419f66e81134116e4c11d05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Cache/Window.yml
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Cache/Window.yml
+    projectPath: Library/Collab/Cache/Window.yml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Collab/CollabSnapshot_97a765c4-563c-410e-b3a9-3a50f040ed80.txt
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/CollabSnapshot_97a765c4-563c-410e-b3a9-3a50f040ed80.txt
+    projectPath: Library/Collab/CollabSnapshot_97a765c4-563c-410e-b3a9-3a50f040ed80.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Collab/Download/.collabignore
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/.collabignore
+    projectPath: Library/Collab/Download/.collabignore
+    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/EditorInstance.json
-    fullPath: /Users/k20025/MyPersonalDrone/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
+  - path: Library/Collab/Download/Assets/Packages.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Packages.meta
+    projectPath: Library/Collab/Download/Assets/Packages.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scenes/ButtonScript.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/ButtonScript.cs
+    projectPath: Library/Collab/Download/Assets/Scenes/ButtonScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/DroneDemo.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/DroneDemo.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/DroneDemo.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scenes/DroneRace.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/DroneRace.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/DroneRace.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/InitAirSim.prefab
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/InitAirSim.prefab
+    projectPath: Library/Collab/Download/Assets/Scenes/InitAirSim.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scenes/InitAirSim.prefab.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/InitAirSim.prefab.meta
+    projectPath: Library/Collab/Download/Assets/Scenes/InitAirSim.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scenes/MapSelect_Pra.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/MapSelect_Pra.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/MapSelect_Pra.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/MapSelect_Rac.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/MapSelect_Rac.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/MapSelect_Rac.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/ModeSelect.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/ModeSelect.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/ModeSelect.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/shDemo.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/shDemo.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/shDemo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/SimModeSelector.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/SimModeSelector.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/SimModeSelector.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scenes/SimModeSelector.unity.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/SimModeSelector.unity.meta
+    projectPath: Library/Collab/Download/Assets/Scenes/SimModeSelector.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scenes/Start_Pra_11.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/Start_Pra_11.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/Start_Pra_11.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/Start_Pra_Shr.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/Start_Pra_Shr.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/Start_Pra_Shr.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/Start_Rac_11.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/Start_Rac_11.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/Start_Rac_11.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scenes/Start_Rac_Shr.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scenes/Start_Rac_Shr.unity
+    projectPath: Library/Collab/Download/Assets/Scenes/Start_Rac_Shr.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scripts/CameraControll.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scripts/CameraControll.cs
+    projectPath: Library/Collab/Download/Assets/Scripts/CameraControll.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Download/Assets/Scripts/InitializeAirSim.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scripts/InitializeAirSim.cs
+    projectPath: Library/Collab/Download/Assets/Scripts/InitializeAirSim.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scripts/InitializeAirSim.cs.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scripts/InitializeAirSim.cs.meta
+    projectPath: Library/Collab/Download/Assets/Scripts/InitializeAirSim.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scripts/MyInitialize.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scripts/MyInitialize.cs
+    projectPath: Library/Collab/Download/Assets/Scripts/MyInitialize.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scripts/MyInitialize.cs.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scripts/MyInitialize.cs.meta
+    projectPath: Library/Collab/Download/Assets/Scripts/MyInitialize.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Scripts/ResetButton.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scripts/ResetButton.cs
+    projectPath: Library/Collab/Download/Assets/Scripts/ResetButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Collab/Download/Assets/Scripts/ResetButton.cs.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Scripts/ResetButton.cs.meta
+    projectPath: Library/Collab/Download/Assets/Scripts/ResetButton.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Unity/UnityDemo/Assets/AirSimAssets/Scripts/Vehicles/ResetButton.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Unity/UnityDemo/Assets/AirSimAssets/Scripts/Vehicles/ResetButton.cs
+    projectPath: Library/Collab/Download/Assets/Unity/UnityDemo/Assets/AirSimAssets/Scripts/Vehicles/ResetButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Download/Assets/Unity/UnityDemo/Assets/AirSimAssets/Scripts/Vehicles/ResetButton.cs.meta
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Download/Assets/Unity/UnityDemo/Assets/AirSimAssets/Scripts/Vehicles/ResetButton.cs.meta
+    projectPath: Library/Collab/Download/Assets/Unity/UnityDemo/Assets/AirSimAssets/Scripts/Vehicles/ResetButton.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Original/Assets/Scenes/ButtonScript.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/ButtonScript.cs
+    projectPath: Library/Collab/Original/Assets/Scenes/ButtonScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/DroneRace.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/DroneRace.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/DroneRace.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/MapSelect_Pra.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/MapSelect_Pra.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/MapSelect_Pra.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/MapSelect_Rac.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/MapSelect_Rac.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/MapSelect_Rac.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/ModeSelect.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/ModeSelect.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/ModeSelect.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/shDemo.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/shDemo.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/shDemo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/Start_Pra_11.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/Start_Pra_11.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/Start_Pra_11.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/Start_Pra_Shr.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/Start_Pra_Shr.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/Start_Pra_Shr.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/Start_Rac_11.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/Start_Rac_11.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/Start_Rac_11.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scenes/Start_Rac_Shr.unity
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scenes/Start_Rac_Shr.unity
+    projectPath: Library/Collab/Original/Assets/Scenes/Start_Rac_Shr.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scripts/CameraControll.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scripts/CameraControll.cs
+    projectPath: Library/Collab/Original/Assets/Scripts/CameraControll.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Collab/Original/Assets/Scripts/ResetButton.cs
+    fullPath: /Users/k20025/MyPersonalDrone/Library/Collab/Original/Assets/Scripts/ResetButton.cs
+    projectPath: Library/Collab/Original/Assets/Scripts/ResetButton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/k20025/MyPersonalDrone/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/k20025/MyPersonalDrone/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,21 +562,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/k20025/MyPersonalDrone/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/k20025/MyPersonalDrone/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/gfu/cache/gituser.yaml
-    fullPath: /Users/k20025/MyPersonalDrone/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/k20025/MyPersonalDrone/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/k20025/MyPersonalDrone/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/k20025/MyPersonalDrone/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,15 +616,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/ShaderCache/0/0ec6bef36bd67f2051e7b50e85bee833.bin
+    fullPath: /Users/k20025/MyPersonalDrone/Library/ShaderCache/0/0ec6bef36bd67f2051e7b50e85bee833.bin
+    projectPath: Library/ShaderCache/0/0ec6bef36bd67f2051e7b50e85bee833.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/9/9d5e16487dfc6029a999a447336a6445.bin
+    fullPath: /Users/k20025/MyPersonalDrone/Library/ShaderCache/9/9d5e16487dfc6029a999a447336a6445.bin
+    projectPath: Library/ShaderCache/9/9d5e16487dfc6029a999a447336a6445.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/k20025/MyPersonalDrone/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/k20025/MyPersonalDrone/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/SourceAssetDB-lock
-    fullPath: /Users/k20025/MyPersonalDrone/Library/SourceAssetDB-lock
-    projectPath: Library/SourceAssetDB-lock
+  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/k20025/MyPersonalDrone/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -140,647 +650,227 @@ MonoBehaviour:
     fullPath: /Users/k20025/MyPersonalDrone/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/AssetImportWorker0.log
     fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker0.log
     projectPath: Logs/AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker0-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker0-prev.log
-    projectPath: Logs/AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs/AssetImportWorker10-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker10-prev.log
-    projectPath: Logs/AssetImportWorker10-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker11-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker11-prev.log
-    projectPath: Logs/AssetImportWorker11-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker12-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker12-prev.log
-    projectPath: Logs/AssetImportWorker12-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker13-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker13-prev.log
-    projectPath: Logs/AssetImportWorker13-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker14-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker14-prev.log
-    projectPath: Logs/AssetImportWorker14-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker15-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker15-prev.log
-    projectPath: Logs/AssetImportWorker15-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker16-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker16-prev.log
-    projectPath: Logs/AssetImportWorker16-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker17-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker17-prev.log
-    projectPath: Logs/AssetImportWorker17-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker18-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker18-prev.log
-    projectPath: Logs/AssetImportWorker18-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker19-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker19-prev.log
-    projectPath: Logs/AssetImportWorker19-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker1-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker1-prev.log
-    projectPath: Logs/AssetImportWorker1-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker20-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker20-prev.log
-    projectPath: Logs/AssetImportWorker20-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker21-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker21-prev.log
-    projectPath: Logs/AssetImportWorker21-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker22-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker22-prev.log
-    projectPath: Logs/AssetImportWorker22-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker23-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker23-prev.log
-    projectPath: Logs/AssetImportWorker23-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker24-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker24-prev.log
-    projectPath: Logs/AssetImportWorker24-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker25-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker25-prev.log
-    projectPath: Logs/AssetImportWorker25-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker26-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker26-prev.log
-    projectPath: Logs/AssetImportWorker26-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker27-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker27-prev.log
-    projectPath: Logs/AssetImportWorker27-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker28-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker28-prev.log
-    projectPath: Logs/AssetImportWorker28-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker29-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker29-prev.log
-    projectPath: Logs/AssetImportWorker29-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker2-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker2-prev.log
-    projectPath: Logs/AssetImportWorker2-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker30-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker30-prev.log
-    projectPath: Logs/AssetImportWorker30-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker31-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker31-prev.log
-    projectPath: Logs/AssetImportWorker31-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker32-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker32-prev.log
-    projectPath: Logs/AssetImportWorker32-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker33-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker33-prev.log
-    projectPath: Logs/AssetImportWorker33-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker34-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker34-prev.log
-    projectPath: Logs/AssetImportWorker34-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker35-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker35-prev.log
-    projectPath: Logs/AssetImportWorker35-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker36-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker36-prev.log
-    projectPath: Logs/AssetImportWorker36-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker37-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker37-prev.log
-    projectPath: Logs/AssetImportWorker37-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker38-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker38-prev.log
-    projectPath: Logs/AssetImportWorker38-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker39-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker39-prev.log
-    projectPath: Logs/AssetImportWorker39-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker3-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker3-prev.log
-    projectPath: Logs/AssetImportWorker3-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker40-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker40-prev.log
-    projectPath: Logs/AssetImportWorker40-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker41-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker41-prev.log
-    projectPath: Logs/AssetImportWorker41-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker42-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker42-prev.log
-    projectPath: Logs/AssetImportWorker42-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker43-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker43-prev.log
-    projectPath: Logs/AssetImportWorker43-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker44-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker44-prev.log
-    projectPath: Logs/AssetImportWorker44-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker45-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker45-prev.log
-    projectPath: Logs/AssetImportWorker45-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker46-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker46-prev.log
-    projectPath: Logs/AssetImportWorker46-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker47-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker47-prev.log
-    projectPath: Logs/AssetImportWorker47-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker48-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker48-prev.log
-    projectPath: Logs/AssetImportWorker48-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker49-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker49-prev.log
-    projectPath: Logs/AssetImportWorker49-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker4-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker4-prev.log
-    projectPath: Logs/AssetImportWorker4-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker50-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker50-prev.log
-    projectPath: Logs/AssetImportWorker50-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker51-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker51-prev.log
-    projectPath: Logs/AssetImportWorker51-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker52-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker52-prev.log
-    projectPath: Logs/AssetImportWorker52-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker53-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker53-prev.log
-    projectPath: Logs/AssetImportWorker53-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker54-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker54-prev.log
-    projectPath: Logs/AssetImportWorker54-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker55-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker55-prev.log
-    projectPath: Logs/AssetImportWorker55-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker56-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker56-prev.log
-    projectPath: Logs/AssetImportWorker56-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker57-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker57-prev.log
-    projectPath: Logs/AssetImportWorker57-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker58-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker58-prev.log
-    projectPath: Logs/AssetImportWorker58-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker59-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker59-prev.log
-    projectPath: Logs/AssetImportWorker59-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker5-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker5-prev.log
-    projectPath: Logs/AssetImportWorker5-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker60-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker60-prev.log
-    projectPath: Logs/AssetImportWorker60-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker61-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker61-prev.log
-    projectPath: Logs/AssetImportWorker61-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker62-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker62-prev.log
-    projectPath: Logs/AssetImportWorker62-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker63-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker63-prev.log
-    projectPath: Logs/AssetImportWorker63-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker64-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker64-prev.log
-    projectPath: Logs/AssetImportWorker64-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker65-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker65-prev.log
-    projectPath: Logs/AssetImportWorker65-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker66-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker66-prev.log
-    projectPath: Logs/AssetImportWorker66-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker67-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker67-prev.log
-    projectPath: Logs/AssetImportWorker67-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker68-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker68-prev.log
-    projectPath: Logs/AssetImportWorker68-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker69-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker69-prev.log
-    projectPath: Logs/AssetImportWorker69-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker6-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker6-prev.log
-    projectPath: Logs/AssetImportWorker6-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker7-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker7-prev.log
-    projectPath: Logs/AssetImportWorker7-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker8-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker8-prev.log
-    projectPath: Logs/AssetImportWorker8-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker9-prev.log
-    fullPath: /Users/k20025/MyPersonalDrone/Logs/AssetImportWorker9-prev.log
-    projectPath: Logs/AssetImportWorker9-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/shadercompiler-AssetImportWorker0.log
     fullPath: /Users/k20025/MyPersonalDrone/Logs/shadercompiler-AssetImportWorker0.log
     projectPath: Logs/shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/shadercompiler-UnityShaderCompiler1.log
     fullPath: /Users/k20025/MyPersonalDrone/Logs/shadercompiler-UnityShaderCompiler1.log
     projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/shadercompiler-UnityShaderCompiler2.log
     fullPath: /Users/k20025/MyPersonalDrone/Logs/shadercompiler-UnityShaderCompiler2.log
     projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
     originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/k20025/MyPersonalDrone/Logs/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/k20025/MyPersonalDrone/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: ProjectSettings/InputManager.asset
+    fullPath: /Users/k20025/MyPersonalDrone/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/k20025/MyPersonalDrone/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Assembly-CSharp.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Assembly-CSharp.dll.hash
-    projectPath: Temp/Assembly-CSharp.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp/CompilationLog.txt
     fullPath: /Users/k20025/MyPersonalDrone/Temp/CompilationLog.txt
     projectPath: Temp/CompilationLog.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/Unity.CollabProxy.Editor.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.CollabProxy.Editor.dll.hash
-    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.PlasticSCM.Editor.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.PlasticSCM.Editor.dll.hash
-    projectPath: Temp/Unity.PlasticSCM.Editor.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.Rider.Editor.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.Rider.Editor.dll.hash
-    projectPath: Temp/Unity.Rider.Editor.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.TextMeshPro.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.TextMeshPro.dll.hash
-    projectPath: Temp/Unity.TextMeshPro.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.TextMeshPro.Editor.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.TextMeshPro.Editor.dll.hash
-    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.Timeline.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.Timeline.dll.hash
-    projectPath: Temp/Unity.Timeline.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.Timeline.Editor.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.Timeline.Editor.dll.hash
-    projectPath: Temp/Unity.Timeline.Editor.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.VisualStudio.Editor.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.VisualStudio.Editor.dll.hash
-    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/Unity.VSCode.Editor.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/Unity.VSCode.Editor.dll.hash
-    projectPath: Temp/Unity.VSCode.Editor.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityEditor.TestRunner.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityEditor.TestRunner.dll.hash
-    projectPath: Temp/UnityEditor.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityEditor.UI.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityEditor.UI.dll.hash
-    projectPath: Temp/UnityEditor.UI.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityEngine.TestRunner.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityEngine.TestRunner.dll.hash
-    projectPath: Temp/UnityEngine.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityEngine.UI.dll.hash
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityEngine.UI.dll.hash
-    projectPath: Temp/UnityEngine.UI.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-09f107bbc678b4d8ca34ee82d277ecff
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-09f107bbc678b4d8ca34ee82d277ecff
-    projectPath: Temp/UnityTempFile-09f107bbc678b4d8ca34ee82d277ecff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-1a8c4b509f1244569afdf9bdf2613d21
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-1a8c4b509f1244569afdf9bdf2613d21
-    projectPath: Temp/UnityTempFile-1a8c4b509f1244569afdf9bdf2613d21
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-20084accd32d8487ebfb8c5dc756a222
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-20084accd32d8487ebfb8c5dc756a222
-    projectPath: Temp/UnityTempFile-20084accd32d8487ebfb8c5dc756a222
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-31599608b1b464115840a7378f43ac02
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-31599608b1b464115840a7378f43ac02
-    projectPath: Temp/UnityTempFile-31599608b1b464115840a7378f43ac02
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-38f3a83dd26484b78b1e20f2faf290df
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-38f3a83dd26484b78b1e20f2faf290df
-    projectPath: Temp/UnityTempFile-38f3a83dd26484b78b1e20f2faf290df
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-3dc7499aeedf44ea8984fca609efdd26
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-3dc7499aeedf44ea8984fca609efdd26
-    projectPath: Temp/UnityTempFile-3dc7499aeedf44ea8984fca609efdd26
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-4d872606bc6ea4cd897e9dd0d5786e26
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-4d872606bc6ea4cd897e9dd0d5786e26
-    projectPath: Temp/UnityTempFile-4d872606bc6ea4cd897e9dd0d5786e26
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-5038d32fcecb04ed68524ac6f23846b2
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-5038d32fcecb04ed68524ac6f23846b2
-    projectPath: Temp/UnityTempFile-5038d32fcecb04ed68524ac6f23846b2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-543ef170eb9f04e9cbea396d7866e369
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-543ef170eb9f04e9cbea396d7866e369
-    projectPath: Temp/UnityTempFile-543ef170eb9f04e9cbea396d7866e369
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-78b75921cf2264cb0a847eb3bde4d214
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-78b75921cf2264cb0a847eb3bde4d214
-    projectPath: Temp/UnityTempFile-78b75921cf2264cb0a847eb3bde4d214
+  - path: Temp/ProcessJobs/24251dcd46e975649de58c02cfb3eb85.bakert
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/ProcessJobs/24251dcd46e975649de58c02cfb3eb85.bakert
+    projectPath: Temp/ProcessJobs/24251dcd46e975649de58c02cfb3eb85.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-87832dd5945e945e3bd453e6f309dc10
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-87832dd5945e945e3bd453e6f309dc10
-    projectPath: Temp/UnityTempFile-87832dd5945e945e3bd453e6f309dc10
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-9c202be88eda04d9abe4cd1b9c8fc183
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-9c202be88eda04d9abe4cd1b9c8fc183
-    projectPath: Temp/UnityTempFile-9c202be88eda04d9abe4cd1b9c8fc183
+  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-a31c94d0c05bf458dbf40e8a7d5b5fcc
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-a31c94d0c05bf458dbf40e8a7d5b5fcc
-    projectPath: Temp/UnityTempFile-a31c94d0c05bf458dbf40e8a7d5b5fcc
+  - path: Temp/UnityTempFile-06553a59288784f58b75e1882cb5fef4
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-06553a59288784f58b75e1882cb5fef4
+    projectPath: Temp/UnityTempFile-06553a59288784f58b75e1882cb5fef4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-19332020951194e6fb675dd80297fa58
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-19332020951194e6fb675dd80297fa58
+    projectPath: Temp/UnityTempFile-19332020951194e6fb675dd80297fa58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1eae127106b0c4b45b63249ab334ed3f
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-1eae127106b0c4b45b63249ab334ed3f
+    projectPath: Temp/UnityTempFile-1eae127106b0c4b45b63249ab334ed3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2a2320535becf420c84d47e959ae0d49
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-2a2320535becf420c84d47e959ae0d49
+    projectPath: Temp/UnityTempFile-2a2320535becf420c84d47e959ae0d49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-358267ed344a14b95a7df2a82e1d56ae
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-358267ed344a14b95a7df2a82e1d56ae
+    projectPath: Temp/UnityTempFile-358267ed344a14b95a7df2a82e1d56ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-394da4102428f42658485e24147f5674
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-394da4102428f42658485e24147f5674
+    projectPath: Temp/UnityTempFile-394da4102428f42658485e24147f5674
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-419b5468f32834df0b336adede6cb134
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-419b5468f32834df0b336adede6cb134
+    projectPath: Temp/UnityTempFile-419b5468f32834df0b336adede6cb134
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-58d61881370e54d27ab7d4ece091ceda
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-58d61881370e54d27ab7d4ece091ceda
+    projectPath: Temp/UnityTempFile-58d61881370e54d27ab7d4ece091ceda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-654f21eb8a46c455295407c653bca7a6
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-654f21eb8a46c455295407c653bca7a6
+    projectPath: Temp/UnityTempFile-654f21eb8a46c455295407c653bca7a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7448b6943b7b8425c9c4d7328feac2ec
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-7448b6943b7b8425c9c4d7328feac2ec
+    projectPath: Temp/UnityTempFile-7448b6943b7b8425c9c4d7328feac2ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7c20dbf7ea0994db7af360f4bb6fdc70
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-7c20dbf7ea0994db7af360f4bb6fdc70
+    projectPath: Temp/UnityTempFile-7c20dbf7ea0994db7af360f4bb6fdc70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8ea192da4cb2444e7bdebb73dc93b969
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-8ea192da4cb2444e7bdebb73dc93b969
+    projectPath: Temp/UnityTempFile-8ea192da4cb2444e7bdebb73dc93b969
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-905fe661285254df284088d0682bb988
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-905fe661285254df284088d0682bb988
+    projectPath: Temp/UnityTempFile-905fe661285254df284088d0682bb988
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-955c437f997834f119388d42bd09337e
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-955c437f997834f119388d42bd09337e
+    projectPath: Temp/UnityTempFile-955c437f997834f119388d42bd09337e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9dd7587b63da940aea76603fb8f0a34c
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-9dd7587b63da940aea76603fb8f0a34c
+    projectPath: Temp/UnityTempFile-9dd7587b63da940aea76603fb8f0a34c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a6b63e24745bc4c3b9ef2f3e1fa9ea2f
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-a6b63e24745bc4c3b9ef2f3e1fa9ea2f
+    projectPath: Temp/UnityTempFile-a6b63e24745bc4c3b9ef2f3e1fa9ea2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ae72c3a35b86347b09b9946b12bbe650
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-ae72c3a35b86347b09b9946b12bbe650
+    projectPath: Temp/UnityTempFile-ae72c3a35b86347b09b9946b12bbe650
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b11e8d61d7eef49fe8e9897f5e154762
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-b11e8d61d7eef49fe8e9897f5e154762
+    projectPath: Temp/UnityTempFile-b11e8d61d7eef49fe8e9897f5e154762
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b504ddefe7b0240d38f11c8d2a787534
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-b504ddefe7b0240d38f11c8d2a787534
+    projectPath: Temp/UnityTempFile-b504ddefe7b0240d38f11c8d2a787534
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bf310a6fc061d4704914d34db5697a44
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-bf310a6fc061d4704914d34db5697a44
+    projectPath: Temp/UnityTempFile-bf310a6fc061d4704914d34db5697a44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c9da6015c86d04f8c9af4ed82ac5da62
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-c9da6015c86d04f8c9af4ed82ac5da62
+    projectPath: Temp/UnityTempFile-c9da6015c86d04f8c9af4ed82ac5da62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-db6133014c51f466880aa1cfba1803a6
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-db6133014c51f466880aa1cfba1803a6
+    projectPath: Temp/UnityTempFile-db6133014c51f466880aa1cfba1803a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-dd4b6a524cef946c681f8721ed953f86
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-dd4b6a524cef946c681f8721ed953f86
+    projectPath: Temp/UnityTempFile-dd4b6a524cef946c681f8721ed953f86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e2e156c2026064358a7bcd2cad8991ac
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-e2e156c2026064358a7bcd2cad8991ac
+    projectPath: Temp/UnityTempFile-e2e156c2026064358a7bcd2cad8991ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-fa105ca5cfeef46ffa4dc2c4a1a91603
+    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-fa105ca5cfeef46ffa4dc2c4a1a91603
+    projectPath: Temp/UnityTempFile-fa105ca5cfeef46ffa4dc2c4a1a91603
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings/EditorUserSettings.asset
+    fullPath: /Users/k20025/MyPersonalDrone/UserSettings/EditorUserSettings.asset
+    projectPath: UserSettings/EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-ac6bc426b144d449e83864eeb867e96b
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-ac6bc426b144d449e83864eeb867e96b
-    projectPath: Temp/UnityTempFile-ac6bc426b144d449e83864eeb867e96b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-bffa24f35920e44fa926d7afff5d049d
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-bffa24f35920e44fa926d7afff5d049d
-    projectPath: Temp/UnityTempFile-bffa24f35920e44fa926d7afff5d049d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-c32f6f50aa25c46229d331b9ccd3fa32
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-c32f6f50aa25c46229d331b9ccd3fa32
-    projectPath: Temp/UnityTempFile-c32f6f50aa25c46229d331b9ccd3fa32
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-de2e62509111e47409374fbf3691e8fc
-    fullPath: /Users/k20025/MyPersonalDrone/Temp/UnityTempFile-de2e62509111e47409374fbf3691e8fc
-    projectPath: Temp/UnityTempFile-de2e62509111e47409374fbf3691e8fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
