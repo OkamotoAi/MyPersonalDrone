@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637750595390000000
+      ticks: 637770364500000000
     m_Hash: 1057299360
   m_LockFileStatus:
     m_FilePath: /Users/k20025/MyPersonalDrone/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637750595390000000
+      ticks: 637770364500000000
     m_Hash: 1016591461
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -193,6 +193,7 @@ m_PackageAssets:
         - 3.0.5
         - 3.0.6
         - 3.0.7
+        - 3.0.9
         compatible:
         - 1.0.2
         - 1.0.6
@@ -219,6 +220,7 @@ m_PackageAssets:
         - 3.0.5
         - 3.0.6
         - 3.0.7
+        - 3.0.9
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework

@@ -14,42 +14,63 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/InputSystem.inputsettings.asset
+    - Assets/InputSystem.inputsettings.asset.meta
+    - Assets/Scenes/ButtonScript.cs
+    - Assets/Scenes/ButtonScript.cs.meta
+    - Assets/Scenes/DroneDemo.unity
+    - Assets/Scenes/DroneRace.unity
     - Assets/Scenes/Folder.meta
     - Assets/Scenes/Folder/New Scene.unity
     - Assets/Scenes/Folder/New Scene.unity.meta
-    - Assets/Scenes/Image/NewBrush.brush
-    - Assets/Scenes/Image/NewBrush.brush.meta
     - Assets/Scenes/InitAirSim.prefab
     - Assets/Scenes/InitAirSim.prefab.meta
-    - Assets/Scenes/Scripts.meta
-    - Assets/Scenes/Scripts/CameraControll.cs
-    - Assets/Scenes/Scripts/CameraControll.cs.meta
-    - Assets/Scenes/Scripts/CountDown.anim
-    - Assets/Scenes/Scripts/CountDown.anim.meta
-    - Assets/Scenes/Scripts/Countdown 1.controller
-    - Assets/Scenes/Scripts/Countdown 1.controller.meta
-    - Assets/Scenes/Scripts/Home.cs
-    - Assets/Scenes/Scripts/Home.cs.meta
-    - Assets/Scenes/Scripts/InitializeAirSim.cs
-    - Assets/Scenes/Scripts/InitializeAirSim.cs.meta
-    - Assets/Scenes/Scripts/MyInitialize.cs
-    - Assets/Scenes/Scripts/MyInitialize.cs.meta
-    - Assets/Scenes/Scripts/Pause.cs
-    - Assets/Scenes/Scripts/Pause.cs.meta
-    - Assets/Scenes/Scripts/Racegame.cs
-    - Assets/Scenes/Scripts/Racegame.cs.meta
-    - Assets/Scenes/Scripts/ResetButton.cs
-    - Assets/Scenes/Scripts/ResetButton.cs.meta
-    - Assets/Scenes/Scripts/drone.cs
-    - Assets/Scenes/Scripts/drone.cs.meta
-    - Assets/Scenes/Scripts/droneobj.cs
-    - Assets/Scenes/Scripts/droneobj.cs.meta
-    - Assets/Scenes/Scripts/dronert.cs
-    - Assets/Scenes/Scripts/dronert.cs.meta
+    - Assets/Scenes/NewBrush.brush
+    - Assets/Scenes/NewBrush.brush.meta
+    - Assets/Scenes/SimModeSelectorSettings.lighting
+    - Assets/Scenes/SimModeSelectorSettings.lighting.meta
+    - Assets/Scenes/Stage/window2.fbx
+    - Assets/Scenes/Stage/window2.fbx.meta
+    - Assets/Scenes/Start_Rac_11.unity
+    - Assets/Scenes/Start_Rac_Shr.unity
+    - Assets/Scenes/Title.unity
+    - Assets/Scenes/shDemo.unity
+    - Assets/Scripts.meta
+    - Assets/Scripts/CameraControll.cs
+    - Assets/Scripts/CameraControll.cs.meta
+    - Assets/Scripts/CountDown.anim
+    - Assets/Scripts/CountDown.anim.meta
+    - Assets/Scripts/Countdown 1.controller
+    - Assets/Scripts/Countdown 1.controller.meta
+    - Assets/Scripts/Home.cs
+    - Assets/Scripts/Home.cs.meta
+    - Assets/Scripts/InitializeAirSim.cs
+    - Assets/Scripts/InitializeAirSim.cs.meta
+    - Assets/Scripts/MyInitialize.cs
+    - Assets/Scripts/MyInitialize.cs.meta
+    - Assets/Scripts/Pause.cs
+    - Assets/Scripts/Pause.cs.meta
+    - Assets/Scripts/Racegame.cs
+    - Assets/Scripts/Racegame.cs.meta
+    - Assets/Scripts/ResetButton.cs
+    - Assets/Scripts/ResetButton.cs.meta
+    - Assets/Scripts/drone.cs
+    - Assets/Scripts/drone.cs.meta
+    - Assets/Scripts/drone.inputactions
+    - Assets/Scripts/drone.inputactions.meta
+    - Assets/Scripts/droneobj.cs
+    - Assets/Scripts/droneobj.cs.meta
+    - Assets/Scripts/dronert.cs
+    - Assets/Scripts/dronert.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 010101010101010101010101010101010101010101010101010101010101010101
-  RevisionSummary: merged
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
-  TabIndex: 1
+  TabIndex: 0
