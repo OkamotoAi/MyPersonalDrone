@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637744626590000000
+      ticks: 637750618910000000
     m_Hash: 855230025
   m_LockFileStatus:
     m_FilePath: /Users/k20025/MyPersonalDrone/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637744626590000000
+      ticks: 637750618910000000
     m_Hash: 83670200
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -72,8 +72,10 @@ m_PackageAssets:
         - 1.13.5
         - 1.14.1
         - 1.14.4
+        - 1.14.7
         - 1.15.1
         - 1.15.4
+        - 1.15.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -92,6 +94,7 @@ m_PackageAssets:
         - 1.12.5
         - 1.14.1
         - 1.14.4
+        - 1.14.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15

@@ -1,20 +1,33 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
+
 
 public class droneobj : MonoBehaviour
 {
     Rigidbody rb;
+    Gamepad gp;
     float horz,vert,dep,yaw;
     float lhorz=0;
     float horzto;
     Vector3 pos,rt,force;
 
+    bool isGamePad;
+
     // Start is called before the first frame update
     void Start()
     {
         rb = this.gameObject.GetComponent<Rigidbody>();
-        bool isGamePad = (Gamepad.current == null ? false:true);
+        
+        if(Gamepad.current == null){
+            isGamePad = false;
+            gp=null;
+        }else{
+            isGamePad = true;
+            gp = Gamepad.current;
+        }
+        
     }
 
     // Update is called once per frame
@@ -54,7 +67,6 @@ public class droneobj : MonoBehaviour
         //input system
         if (isGamePad){
             //ゲームパッド入力
-            Vector2 move = gamepad.leftStick.ReadValue();
            
         }else{
             //キーボード入力
