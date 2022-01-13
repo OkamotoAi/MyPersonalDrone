@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 
+
 public class droneobj : MonoBehaviour
 {
     Rigidbody rb;
@@ -14,6 +15,9 @@ public class droneobj : MonoBehaviour
     Vector3 pos,rt,force;
 
     bool isGamePad;
+    InputAction _moveAction;
+    InputAction _lookAction;
+    InputAction _fireAction;
 
     // Start is called before the first frame update
     void Start()
@@ -27,20 +31,25 @@ public class droneobj : MonoBehaviour
             isGamePad = true;
             gp = Gamepad.current;
         }
+
+        //アクションマップの取得
+        var actionMap = GetComponent<PlayerInput>().currentActionMap;
+        _moveAction = actionMap["Move"];//左スティック
+        _lookAction = actionMap["Look"];//右スティック
         
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        horz=Input.GetAxis("Horizontal"); //左右LR
-        vert=Input.GetAxis("Vertical"); //前後UpDown
-        dep=Input.GetAxis("Depth"); //上下ws
-        yaw=Input.GetAxis("Yaw"); //回転ad
-        //Debug.Log("dep"+dep);
-        //Debug.Log("yaw"+yaw);
-        //Debug.Log("horz"+horz);
-        //Debug.Log("vert"+vert);
+        // horz=Input.GetAxis("Horizontal"); //左右LR
+        // vert=Input.GetAxis("Vertical"); //前後UpDown
+        // dep=Input.GetAxis("Depth"); //上下ws
+        // yaw=Input.GetAxis("Yaw"); //回転ad
+        // //Debug.Log("dep"+dep);
+        // //Debug.Log("yaw"+yaw);
+        // //Debug.Log("horz"+horz);
+        // //Debug.Log("vert"+vert);
 
 
         //ドローンが向いている方向を基準に移動　
@@ -72,9 +81,31 @@ public class droneobj : MonoBehaviour
             //キーボード入力
 
         }
-        
+
+        // horz=_lookAction.ReadValue<Vector2>().x; //左右LR
+        // vert=_lookAction.ReadValue<Vector2>().y; //前後UpDown
+        // dep=_moveAction.ReadValue<Vector2>().y; //上下ws
+        // yaw=_moveAction.ReadValue<Vector2>().x; //回転ad
+        Debug.Log("horz"+horz);
+        Debug.Log("yaw"+yaw);
+        Debug.Log("horz"+horz);
+        Debug.Log("vert"+vert);
 
 
+    }
+
+    private void OnMove(InputValue value)
+    {
+        // 左スティック
+        dep = value.Get<Vector2>().y;
+        yaw = value.Get<Vector2>().x;
+    }
+
+    private void OnLook(InputValue value)
+    {
+        // 右スティック
+        vert = value.Get<Vector2>().y;
+        horz = value.Get<Vector2>().x;
     }
 
 

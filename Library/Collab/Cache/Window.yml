@@ -23,12 +23,12 @@ MonoBehaviour:
     - Assets/Scenes/Folder.meta
     - Assets/Scenes/Folder/New Scene.unity
     - Assets/Scenes/Folder/New Scene.unity.meta
-    - Assets/Scenes/Image/explain.png
-    - Assets/Scenes/Image/explain.png.meta
     - Assets/Scenes/InitAirSim.prefab
     - Assets/Scenes/InitAirSim.prefab.meta
     - Assets/Scenes/NewBrush.brush
     - Assets/Scenes/NewBrush.brush.meta
+    - Assets/Scenes/Scripts/drone.cs
+    - Assets/Scenes/Scripts/drone.cs.meta
     - Assets/Scenes/SimModeSelectorSettings.lighting
     - Assets/Scenes/SimModeSelectorSettings.lighting.meta
     - Assets/Scenes/Stage/window2.fbx
@@ -56,8 +56,6 @@ MonoBehaviour:
     - Assets/Scripts/Racegame.cs.meta
     - Assets/Scripts/ResetButton.cs
     - Assets/Scripts/ResetButton.cs.meta
-    - Assets/Scripts/drone.cs
-    - Assets/Scripts/drone.cs.meta
     - Assets/Scripts/drone.inputactions
     - Assets/Scripts/drone.inputactions.meta
     - Assets/Scripts/droneobj.cs
@@ -70,7 +68,7 @@ MonoBehaviour:
     - ProjectSettings/InputManager.asset
     - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

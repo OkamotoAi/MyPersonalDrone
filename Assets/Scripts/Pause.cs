@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.InputSystem;
 
 public class Pause : MonoBehaviour
 {
@@ -16,7 +17,8 @@ public class Pause : MonoBehaviour
 
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetButtonDown("pause")) {
+			//キーボード
+			if (Keyboard.current.spaceKey.wasPressedThisFrame) {
 			//　ポーズUIのアクティブ、非アクティブを切り替え
 			pauseUI.SetActive (true);
 			Time.timeScale = 0f;

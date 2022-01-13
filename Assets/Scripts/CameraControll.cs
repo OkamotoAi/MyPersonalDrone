@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
  
 public class CameraControll : MonoBehaviour {
  
@@ -20,7 +21,7 @@ public class CameraControll : MonoBehaviour {
 	//単位時間ごとに実行される関数
 	void Update () {
         
-         if(Input.GetButtonDown("reset")){
+         if(Keyboard.current.cKey.wasPressedThisFrame){
             mainCamera.SetActive (!mainCamera.activeSelf);
             fpsCamera.SetActive (!fpsCamera.activeSelf);
         }
