@@ -1849,3 +1849,97 @@ Received Import Request.
 Start importing Assets/Scenes/DroneDemo/LightingData.asset using Guid(964343353e14c43d2ae0c9726b50971c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3d5ba3d590b0d46d265c2092807a2fe') in 0.015060 seconds 
   Import took 0.026096 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1591.884372 seconds.
+  path: Assets/Scenes/DroneDemo/LightingData.asset
+  artifactKey: Guid(964343353e14c43d2ae0c9726b50971c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/LightingData.asset using Guid(964343353e14c43d2ae0c9726b50971c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298d45b9cfefce9810819afb713799aa') in 0.027421 seconds 
+  Import took 0.063755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/Scenes/DroneDemo/Lightmap-2_comp_light.exr
+  artifactKey: Guid(5c66803a5eafb4fb0a0f8c6dca016bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/Lightmap-2_comp_light.exr using Guid(5c66803a5eafb4fb0a0f8c6dca016bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb0fcc9195b1516abbe3c277d308ab3') in 0.401217 seconds 
+  Import took 0.409401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000592 seconds.
+  path: Assets/Scenes/DroneDemo/Lightmap-0_comp_light.exr
+  artifactKey: Guid(9c2578629bc424e3f81fd4159a1c3325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/Lightmap-0_comp_light.exr using Guid(9c2578629bc424e3f81fd4159a1c3325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f63bbdb6c8550cf53c42064364fdf6') in 0.023093 seconds 
+  Import took 0.029736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Scenes/DroneDemo/Lightmap-4_comp_light.exr
+  artifactKey: Guid(fce3c9f3e16bc4ea9b7bf39def7f51c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/Lightmap-4_comp_light.exr using Guid(fce3c9f3e16bc4ea9b7bf39def7f51c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e919c5ffcda7c6d9ce3101727d2b56a') in 0.031218 seconds 
+  Import took 0.038841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000949 seconds.
+  path: Assets/Scenes/DroneDemo/Lightmap-3_comp_light.exr
+  artifactKey: Guid(ecf63d3ec1d7d45c08571896b8f85e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/Lightmap-3_comp_light.exr using Guid(ecf63d3ec1d7d45c08571896b8f85e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f576a3dd36d160914c82c9f479d9b3') in 0.028575 seconds 
+  Import took 0.039328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003896 seconds.
+  path: Assets/Scenes/DroneDemo/Lightmap-1_comp_light.exr
+  artifactKey: Guid(ec5f7d86df3ec4a1aa411321f01783ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/Lightmap-1_comp_light.exr using Guid(ec5f7d86df3ec4a1aa411321f01783ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a301d9b01fe4fed1f08b8298fea8f89d') in 0.016566 seconds 
+  Import took 0.024895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005140 seconds.
+  path: Assets/Scenes/DroneDemo/Lightmap-6_comp_light.exr
+  artifactKey: Guid(d986447445c9048cca42d3a188ae126d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/Lightmap-6_comp_light.exr using Guid(d986447445c9048cca42d3a188ae126d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e5c2f85c805b103bb6f464427a9ca8') in 0.022794 seconds 
+  Import took 0.034833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/Scenes/DroneDemo/Lightmap-5_comp_light.exr
+  artifactKey: Guid(a969f3c03b63e4be597bb7b2d3327108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DroneDemo/Lightmap-5_comp_light.exr using Guid(a969f3c03b63e4be597bb7b2d3327108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c0771fe46941a7ef4ccac8cd8d96a8') in 0.021760 seconds 
+  Import took 0.033136 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022309 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.6 MB.
+System memory in use after: 228.5 MB.
+
+Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 2382.
+Total: 5.201484 ms (FindLiveObjects: 1.044509 ms CreateObjectMapping: 0.204183 ms MarkObjects: 3.569803 ms  DeleteObjects: 0.381364 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
