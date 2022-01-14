@@ -7,6 +7,7 @@ TagManager:
   - CaptureCameras
   - ViewCameras
   - race_object
+  - ceil
   layers:
   - Default
   - TransparentFX

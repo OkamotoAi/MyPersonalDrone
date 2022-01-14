@@ -41,4 +41,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DroneRace.unity
     guid: 7b1eef2bb6b8e4281bebdfc275b5afa4
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9bb977081aee047ed9c30e4fa128aa48, type: 2}
