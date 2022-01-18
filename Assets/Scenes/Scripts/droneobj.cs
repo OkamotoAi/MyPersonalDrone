@@ -34,37 +34,37 @@ public class droneobj : MonoBehaviour
         
     }
 
-    public void OnMove(InputAction.CallbackContext context)
-    {
-        // 左スティック
-        dep = context.ReadValue<Vector2>().y;
-        yaw = context.ReadValue<Vector2>().x;
-        if(dep>1) dep = 1;
-        if(yaw>1) yaw = 1;
-        if(dep<-1) dep = -1;
-        if(yaw<-1) yaw = -1;
+    // public void OnMove(InputAction.CallbackContext context)
+    // {
+    //     // 左スティック
+    //     dep = context.ReadValue<Vector2>().y;
+    //     yaw = context.ReadValue<Vector2>().x;
+    //     if(dep>1) dep = 1;
+    //     if(yaw>1) yaw = 1;
+    //     if(dep<-1) dep = -1;
+    //     if(yaw<-1) yaw = -1;
 
-    }
+    // }
 
-    public void OnLook(InputAction.CallbackContext context)
-    {
-        // 右スティック
-        vert = context.ReadValue<Vector2>().y;
-        horz = context.ReadValue<Vector2>().x;
-        if(vert>1) vert = 1;
-        if(horz>1) horz = 1;
-        if(vert<-1) vert = -1;
-        if(horz<-1) horz = -1;
+    // public void OnLook(InputAction.CallbackContext context)
+    // {
+    //     // 右スティック
+    //     vert = context.ReadValue<Vector2>().y;
+    //     horz = context.ReadValue<Vector2>().x;
+    //     if(vert>1) vert = 1;
+    //     if(horz>1) horz = 1;
+    //     if(vert<-1) vert = -1;
+    //     if(horz<-1) horz = -1;
 
-    }
+    // }
 
     // Update is called once per frame
     void Update()
     {
-        // horz=Input.GetAxis("Horizontal"); //左右LR
-        // vert=Input.GetAxis("Vertical"); //前後UpDown
-        // dep=Input.GetAxis("Depth"); //上下ws
-        // yaw=Input.GetAxis("Yaw"); //回転ad
+        horz=Input.GetAxis("Horizontal"); //左右LR
+        vert=Input.GetAxis("Vertical"); //前後UpDown
+        dep=Input.GetAxis("Depth"); //上下ws
+        yaw=Input.GetAxis("Yaw"); //回転ad
         Debug.Log("dep"+dep);
         Debug.Log("yaw"+yaw);
         Debug.Log("horz"+horz);
