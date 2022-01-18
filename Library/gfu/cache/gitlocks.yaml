@@ -13,6 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 7
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-09-08T22:15:14.755+09:00
   initializedAtString: 2021-09-08T22:15:14.755+09:00
+=======
+  lastUpdatedAtString: 2022-01-18T21:21:43.077+09:00
+  initializedAtString: 2022-01-18T15:01:19.883+09:00
+>>>>>>> okamoto
   gitLocks: []

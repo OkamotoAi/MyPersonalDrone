@@ -15,6 +15,15 @@ namespace AirSimUnity {
      *
      * NOTE : All the variable names has to match the attribute names(case sensitive) in the json file
      * struct  names are customizable unlike variable names, and make sure all the structs are serializable.
+     
+     
+     * settings.jsonファイルのコンテナクラス。このクラスは、UnityのJSONUtilityを利用してjsonファイルを解析します。
+     * settings.jsonファイルがまだ存在しない場合は、新しいファイルが作成されます。
+     *
+     *現在のファイルの場所はDocuments \ AirSim \ settings.jsonです
+     *
+     *注：すべての変数名は、jsonファイルの属性名（大文字と小文字を区別）と一致する必要があります
+     *構造体名は変数名とは異なりカスタマイズ可能であり、すべての構造体がシリアル化可能であることを確認してください。
      */
 
     [Serializable]

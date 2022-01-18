@@ -7,6 +7,10 @@ namespace AirSimUnity {
      * HUD class responsible for all the UI related elements. The Settings initialization is also being done in this class.
      * To Enable UI in the simulation, make sure this class is attached to one of the game objects in the scene.
      * Else use the AirSimHUD prefab in the scene which has all the UI related components.
+
+     UI関連のすべての要素を担当するHUDクラス。設定の初期化もこのクラスで行われています。
+     *シミュレーションでUIを有効にするには、このクラスがシーン内のゲームオブジェクトの1つにアタッチされていることを確認してください。
+     *それ以外の場合は、UI関連のすべてのコンポーネントがあるシーンでAirSimHUDプレハブを使用します。
      */
 
     public class AirSimHUDScript : MonoBehaviour {

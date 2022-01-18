@@ -2,6 +2,7 @@
 -a="/Users/k20025/MyPersonalDrone/Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll"
 -a="/Users/k20025/MyPersonalDrone/Library/PlayerScriptAssemblies/Unity.Timeline.dll"
 -a="/Users/k20025/MyPersonalDrone/Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+-a="/Users/k20025/MyPersonalDrone/Library/PlayerScriptAssemblies/Unity.InputSystem.dll"
 -a="/Users/k20025/MyPersonalDrone/Library/PlayerScriptAssemblies/UnityEngine.UI.dll"
 -a="/Users/k20025/MyPersonalDrone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT/Newtonsoft.Json.dll"
 -a="/Users/k20025/MyPersonalDrone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable/Newtonsoft.Json.dll"

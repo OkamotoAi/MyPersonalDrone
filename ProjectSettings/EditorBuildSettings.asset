@@ -5,6 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< HEAD
   - enabled: 1
     path: Assets/Scenes/SimModeSelector.unity
     guid: 2a2adab4f94d2a8428812b3c4db5f357
@@ -15,3 +16,43 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   m_configObjects: {}
+=======
+  - enabled: 0
+    path: Assets/Scenes/SimModeSelector.unity
+    guid: 2a2adab4f94d2a8428812b3c4db5f357
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: e3affb2d630374a00bac8bf523fa5028
+  - enabled: 1
+    path: Assets/Scenes/ModeSelect.unity
+    guid: e091febd3ea2e447894b276f1039905e
+  - enabled: 1
+    path: Assets/Scenes/MapSelect_Pra.unity
+    guid: 5e466db7c047d4b039317a8f592e23ad
+  - enabled: 1
+    path: Assets/Scenes/Start_Pra_11.unity
+    guid: a2f73deb4a8254a6dae02ae439de4938
+  - enabled: 1
+    path: Assets/Scenes/DroneDemo.unity
+    guid: 012f6bdfaada17042bf7917f7d4fcbd8
+  - enabled: 1
+    path: Assets/Scenes/MapSelect_Rac.unity
+    guid: 7e2929798b9e649d08658b72e583f269
+  - enabled: 1
+    path: Assets/Scenes/Start_Rac_Shr.unity
+    guid: 0918f706a7fa240db8627bf1e3699dd1
+  - enabled: 1
+    path: Assets/Scenes/Start_Rac_11.unity
+    guid: a9fe1698121d14f199e89df7e085a410
+  - enabled: 1
+    path: Assets/Scenes/Start_Pra_Shr.unity
+    guid: 1ccf5c4d7d7b640829432474314e88f2
+  - enabled: 1
+    path: Assets/Scenes/shDemo.unity
+    guid: cfad6a9b23d8a4c20b0a6e994939b1da
+  - enabled: 1
+    path: Assets/Scenes/DroneRace.unity
+    guid: 7b1eef2bb6b8e4281bebdfc275b5afa4
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9bb977081aee047ed9c30e4fa128aa48, type: 2}
+>>>>>>> okamoto

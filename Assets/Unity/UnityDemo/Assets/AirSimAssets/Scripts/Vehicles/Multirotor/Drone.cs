@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+// using System.Runtime.ConstrainedExecution;
+// using System.Runtime.InteropServices;
+// using System.Runtime.Remoting;
 using AirSimUnity.DroneStructs;
 using UnityEngine;
 
@@ -14,11 +17,13 @@ namespace AirSimUnity {
         public Transform[] rotors;
         private List<RotorInfo> rotorInfos = new List<RotorInfo>();
         private float rotationFactor = 0.1f;
+
         
         private new void Start() {
             base.Start(); 
 
-            for (int i = 0; i < rotors.Length; i++) {
+            //for (int i = 0; i < rotors.Length; i++) {
+            for (int i = 0; i < 4; i++) {
                 rotorInfos.Add(new RotorInfo());
             }
         }
@@ -41,11 +46,15 @@ namespace AirSimUnity {
                 transform.position = position;
                 transform.rotation = rotation;
 
-                for (int i = 0; i < rotors.Length; i++)
+                //for (int i = 1; i < rotors.Length; i++)
+                for (int i = 0; i < 4; i++)
                 {
-                    float rotorSpeed = (float) (rotorInfos[i].rotorSpeed * rotorInfos[i].rotorDirection * 180 /
-                                                Math.PI * rotationFactor);
-                    rotors[i].Rotate(Vector3.up, rotorSpeed * Time.deltaTime, Space.Self);
+                    //float rotorSpeed = (float) (rotorInfos[i].rotorSpeed * rotorInfos[i].rotorDirection * 180 / Math.PI * rotationFactor);
+                    //rotors[i].Rotate(Vector3.up, rotorSpeed * Time.deltaTime, Space.Self);
+                    rotors[i].Rotate(Vector3.up * Time.deltaTime, Space.Self);
+                    //こっちなら2020でも動くかもしれない
+                    Debug.Log(Time.deltaTime);
+                    
                 }
             }
         }

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"root":[]}
+=======
+{"root":[{"assemblyName":"Unity.InputSystem","nameSpace":"UnityEngine.InputSystem","className":"InputSystem","methodName":"RunInitializeInPlayer","loadTypes":1,"isUnityClass":true}]}
+>>>>>>> okamoto

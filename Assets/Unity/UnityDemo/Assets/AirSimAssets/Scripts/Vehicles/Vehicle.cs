@@ -280,7 +280,7 @@ namespace AirSimUnity {
             foreach(DataCaptureScript capture in captureCameras) {
                 if (capture.GetCameraName() == cameraName) {
                     capture.SetFoV(fov_degrees);
-                    return true;;
+                    return true;
                 }
             }
             return false;
