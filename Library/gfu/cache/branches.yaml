@@ -13,44 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-<<<<<<< HEAD
-  lastUpdatedAtString: 2021-09-06T00:48:40.823+09:00
-  initializedAtString: 2021-09-06T00:40:27.411+09:00
+  lastUpdatedAtString: 2022-06-17T14:36:43.964+09:00
+  initializedAtString: 2022-06-17T14:36:43.949+09:00
   localBranches:
+  - name: fix
+    tracking: origin/fix
   - name: main
-    tracking: 
-  remoteBranches:
-  - name: origin/main
-    tracking: '[None]'
-=======
-  lastUpdatedAtString: 2022-01-14T16:24:30.673+09:00
-  initializedAtString: 2022-01-14T16:24:30.638+09:00
-  localBranches:
-  - name: main
-    tracking: 
-  - name: newScript
-    tracking: origin/newScript
+    tracking: origin/main
   - name: okamoto
     tracking: origin/okamoto
-  - name: testInputSystem
-    tracking: origin/testInputSystem
-  - name: wadatakeru
-    tracking: origin/wadatakeru
   remoteBranches:
-  - name: origin/main
+  - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/newScript
+  - name: origin/fix
     tracking: '[None]'
-  - name: origin/okamoto
-    tracking: '[None]'
-  - name: origin/testInputSystem
-    tracking: '[None]'
-  - name: origin/wadatakeru
-    tracking: '[None]'
->>>>>>> okamoto
   remotes:
   - name: origin
-    url: git@github.com:OkamotoAi/MyPersonalDrone.git
+    url: https://github.com/OkamotoAi/MyPersonalDrone.git
     login: 
     user: 
     host: 
@@ -58,89 +37,47 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - fix
     - main
-<<<<<<< HEAD
-=======
-    - newScript
     - okamoto
-    - testInputSystem
-    - wadatakeru
->>>>>>> okamoto
     values:
-    - name: main
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
-<<<<<<< HEAD
-=======
-    - name: newScript
+    - name: fix
       remote:
         name: origin
-        url: git@github.com:OkamotoAi/MyPersonalDrone.git
-      trackingBranch: newScript
+        url: https://github.com/OkamotoAi/MyPersonalDrone.git
+      trackingBranch: fix
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/OkamotoAi/MyPersonalDrone.git
+      trackingBranch: main
     - name: okamoto
       remote:
         name: origin
-        url: git@github.com:OkamotoAi/MyPersonalDrone.git
+        url: https://github.com/OkamotoAi/MyPersonalDrone.git
       trackingBranch: okamoto
-    - name: testInputSystem
-      remote:
-        name: origin
-        url: git@github.com:OkamotoAi/MyPersonalDrone.git
-      trackingBranch: testInputSystem
-    - name: wadatakeru
-      remote:
-        name: origin
-        url: git@github.com:OkamotoAi/MyPersonalDrone.git
-      trackingBranch: wadatakeru
->>>>>>> okamoto
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - main
-<<<<<<< HEAD
-=======
-      - newScript
-      - okamoto
-      - testInputSystem
-      - wadatakeru
->>>>>>> okamoto
+      - HEAD
+      - fix
     subKeyValues:
     - Values:
-      - name: main
+      - name: HEAD
         remote:
           name: origin
-          url: git@github.com:OkamotoAi/MyPersonalDrone.git
+          url: https://github.com/OkamotoAi/MyPersonalDrone.git
         trackingBranch: 
-<<<<<<< HEAD
-=======
-      - name: newScript
+      - name: fix
         remote:
           name: origin
-          url: git@github.com:OkamotoAi/MyPersonalDrone.git
+          url: https://github.com/OkamotoAi/MyPersonalDrone.git
         trackingBranch: 
-      - name: okamoto
-        remote:
-          name: origin
-          url: git@github.com:OkamotoAi/MyPersonalDrone.git
-        trackingBranch: 
-      - name: testInputSystem
-        remote:
-          name: origin
-          url: git@github.com:OkamotoAi/MyPersonalDrone.git
-        trackingBranch: 
-      - name: wadatakeru
-        remote:
-          name: origin
-          url: git@github.com:OkamotoAi/MyPersonalDrone.git
-        trackingBranch: 
->>>>>>> okamoto
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: git@github.com:OkamotoAi/MyPersonalDrone.git
+      url: https://github.com/OkamotoAi/MyPersonalDrone.git
