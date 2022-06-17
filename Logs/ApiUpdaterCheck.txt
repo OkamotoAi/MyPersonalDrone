@@ -151,3 +151,13 @@ candidates check time : 34ms
 console write time    : 0ms
 
 >>>>>>> okamoto
+[api-updater (non-obsolete-error-filter)] 2022/06/17 11:40:41 : Starting /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 403.949ms
+moved types parse time: 198ms
+candidates parse time : 23ms
+C# parse time         : 511ms
+candidates check time : 325ms
+console write time    : 1ms
+

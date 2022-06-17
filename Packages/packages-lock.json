@@ -1,11 +1,7 @@
 {
   "dependencies": {
     "com.unity.collab-proxy": {
-<<<<<<< HEAD
-      "version": "1.5.7",
-=======
       "version": "1.7.1",
->>>>>>> okamoto
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -45,8 +41,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.inputsystem": {
       "version": "1.0.2",
       "depth": 0,
@@ -54,7 +48,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
->>>>>>> okamoto
     "com.unity.nuget.newtonsoft-json": {
       "version": "2.0.0",
       "depth": 1,
@@ -63,11 +56,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-<<<<<<< HEAD
-      "version": "1.1.24",
-=======
       "version": "1.1.27",
->>>>>>> okamoto
       "depth": 0,
       "source": "registry",
       "dependencies": {

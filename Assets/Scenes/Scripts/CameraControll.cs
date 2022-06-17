@@ -2,8 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Controls;
+// using UnityEngine.InputSystem;
+// using UnityEngine.InputSystem.Controls;
 public class CameraControll : MonoBehaviour {
  
     public GameObject mainCamera;      //メインカメラ格納用
@@ -21,7 +21,7 @@ public class CameraControll : MonoBehaviour {
 	//単位時間ごとに実行される関数
 	void Update () {
         
-         if(Input.GetButton("camera")){
+         if(Input.GetKey(KeyCode.Space)){
              Debug.Log("changed");
             mainCamera.SetActive (!mainCamera.activeSelf);
             fpsCamera.SetActive (!fpsCamera.activeSelf);

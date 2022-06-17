@@ -10,9 +10,9 @@ public class droneobj : MonoBehaviour
     Rigidbody rb;
     float horz,vert,dep,yaw;
     Vector3 pos,rt,force;
-    InputAction _moveAction;
-    InputAction _lookAction;
-    InputAction _fireAction;
+    // InputAction _moveAction;
+    // InputAction _lookAction;
+    // InputAction _fireAction;
 
     // Start is called before the first frame update
     void Start()
@@ -28,9 +28,9 @@ public class droneobj : MonoBehaviour
         // }
 
         //アクションマップの取得
-        var actionMap = GetComponent<PlayerInput>().currentActionMap;
-        _moveAction = actionMap["Move"];//左スティック
-        _lookAction = actionMap["Look"];//右スティック
+        // var actionMap = GetComponent<PlayerInput>().currentActionMap;
+        // _moveAction = actionMap["Move"];//左スティック
+        // _lookAction = actionMap["Look"];//右スティック
         
     }
 
@@ -87,7 +87,7 @@ public class droneobj : MonoBehaviour
         this.transform.position = pos;
 
         rt = this.transform.rotation.eulerAngles;
-        rt.y += yaw*10;
+        rt.y += yaw*4;
         this.transform.rotation = Quaternion.Euler(rt);
 
 
