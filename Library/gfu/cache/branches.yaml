@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-06-17T14:36:43.964+09:00
-  initializedAtString: 2022-06-17T14:36:43.949+09:00
+  lastUpdatedAtString: 2022-06-18T07:52:10.182+09:00
+  initializedAtString: 2022-06-18T07:45:48.715+09:00
   localBranches:
+  - name: InputSystemTester
+    tracking: origin/InputSystemTester
   - name: fix
     tracking: origin/fix
   - name: main
@@ -25,7 +27,11 @@ MonoBehaviour:
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
+  - name: origin/InputSystemTester
+    tracking: '[None]'
   - name: origin/fix
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -37,10 +43,16 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - InputSystemTester
     - fix
     - main
     - okamoto
     values:
+    - name: InputSystemTester
+      remote:
+        name: origin
+        url: https://github.com/OkamotoAi/MyPersonalDrone.git
+      trackingBranch: InputSystemTester
     - name: fix
       remote:
         name: origin
@@ -62,7 +74,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - InputSystemTester
       - fix
+      - main
     subKeyValues:
     - Values:
       - name: HEAD
@@ -70,7 +84,17 @@ MonoBehaviour:
           name: origin
           url: https://github.com/OkamotoAi/MyPersonalDrone.git
         trackingBranch: 
+      - name: InputSystemTester
+        remote:
+          name: origin
+          url: https://github.com/OkamotoAi/MyPersonalDrone.git
+        trackingBranch: 
       - name: fix
+        remote:
+          name: origin
+          url: https://github.com/OkamotoAi/MyPersonalDrone.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/OkamotoAi/MyPersonalDrone.git
