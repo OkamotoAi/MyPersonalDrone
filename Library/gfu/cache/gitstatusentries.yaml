@@ -13,99 +13,2939 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-06-18T09:24:14.992+09:00
-  initializedAtString: 2022-06-17T21:43:05.062+09:00
+  lastUpdatedAtString: 2022-10-07T17:58:08.807+09:00
+  initializedAtString: 2022-10-07T17:09:54.786+09:00
   entries:
-  - path: Assets/New Terrain.asset
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/New Terrain.asset
-    projectPath: Assets/New Terrain.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Scenes/Canvas.prefab
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Canvas.prefab
-    projectPath: Assets/Scenes/Canvas.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/Canvas.prefab.meta
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Canvas.prefab.meta
-    projectPath: Assets/Scenes/Canvas.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets/Scenes/Drone_Shr_Pra.unity
     fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Drone_Shr_Pra.unity
     projectPath: Assets/Scenes/Drone_Shr_Pra.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Scenes/Drone_Shr_Race.unity
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Drone_Shr_Race.unity
-    projectPath: Assets/Scenes/Drone_Shr_Race.unity
+    workTreeStatus: 5
+  - path: Assets/Scenes/Drone_Shr_Pra.unity.meta
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Drone_Shr_Pra.unity.meta
+    projectPath: Assets/Scenes/Drone_Shr_Pra.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/DroneDemo.unity
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/DroneDemo.unity
+    projectPath: Assets/Scenes/DroneDemo.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scenes/DroneRace.unity
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/DroneRace.unity
-    projectPath: Assets/Scenes/DroneRace.unity
+  - path: Assets/Scenes/Scripts/ButtonScript.cs
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Scripts/ButtonScript.cs
+    projectPath: Assets/Scenes/Scripts/ButtonScript.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scenes/RacegameObject/Canvas.prefab
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/RacegameObject/Canvas.prefab
-    projectPath: Assets/Scenes/RacegameObject/Canvas.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/RacegameObject/Canvas.prefab.meta
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/RacegameObject/Canvas.prefab.meta
-    projectPath: Assets/Scenes/RacegameObject/Canvas.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/RacegameObject/Race_Object.prefab
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/RacegameObject/Race_Object.prefab
-    projectPath: Assets/Scenes/RacegameObject/Race_Object.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/RacegameObject/Race_Object.prefab.meta
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/RacegameObject/Race_Object.prefab.meta
-    projectPath: Assets/Scenes/RacegameObject/Race_Object.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/shDemo.unity
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/shDemo.unity
-    projectPath: Assets/Scenes/shDemo.unity
+  - path: Assets/Scenes/Scripts/CameraControll.cs
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Scripts/CameraControll.cs
+    projectPath: Assets/Scenes/Scripts/CameraControll.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scenes/Stage/Environment.prefab
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/Environment.prefab
-    projectPath: Assets/Scenes/Stage/Environment.prefab
+  - path: Assets/Scenes/Scripts/Pause.cs
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Scripts/Pause.cs
+    projectPath: Assets/Scenes/Scripts/Pause.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Stage/chair_blue.shadergraph
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/chair_blue.shadergraph
+    projectPath: Assets/Scenes/Stage/chair_blue.shadergraph
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scenes/Stage/Environment.prefab.meta
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/Environment.prefab.meta
-    projectPath: Assets/Scenes/Stage/Environment.prefab.meta
+  - path: Assets/Scenes/Stage/chair_blue.shadergraph.meta
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/chair_blue.shadergraph.meta
+    projectPath: Assets/Scenes/Stage/chair_blue.shadergraph.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scenes/Stage/StageObject.prefab
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/StageObject.prefab
-    projectPath: Assets/Scenes/Stage/StageObject.prefab
+  - path: Assets/Scenes/Stage/Stage1_plane 1.mat
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/Stage1_plane
+      1.mat
+    projectPath: Assets/Scenes/Stage/Stage1_plane 1.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scenes/Stage/StageObject.prefab.meta
-    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/StageObject.prefab.meta
-    projectPath: Assets/Scenes/Stage/StageObject.prefab.meta
+  - path: Assets/Scenes/Stage/Stage1_plane 1.mat.meta
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/Stage1_plane
+      1.mat.meta
+    projectPath: Assets/Scenes/Stage/Stage1_plane 1.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets/Scenes/Stage/Stage1_plane.mat
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/Stage1_plane.mat
+    projectPath: Assets/Scenes/Stage/Stage1_plane.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/Stage1_plane.mat.meta
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/Stage1_plane.mat.meta
+    projectPath: Assets/Scenes/Stage/Stage1_plane.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/UniversalRenderPipelineAsset.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/UniversalRenderPipelineAsset.asset
+    projectPath: Assets/Scenes/Stage/UniversalRenderPipelineAsset.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/UniversalRenderPipelineAsset.asset.meta
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/UniversalRenderPipelineAsset.asset.meta
+    projectPath: Assets/Scenes/Stage/UniversalRenderPipelineAsset.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/UniversalRenderPipelineAsset_Renderer.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/UniversalRenderPipelineAsset_Renderer.asset
+    projectPath: Assets/Scenes/Stage/UniversalRenderPipelineAsset_Renderer.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/UniversalRenderPipelineAsset_Renderer.asset.meta
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/UniversalRenderPipelineAsset_Renderer.asset.meta
+    projectPath: Assets/Scenes/Stage/UniversalRenderPipelineAsset_Renderer.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/window2.mat
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/window2.mat
+    projectPath: Assets/Scenes/Stage/window2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/Stage/window2.mat.meta
+    fullPath: /Users/k20025/github/MyPersonalDrone/Assets/Scenes/Stage/window2.mat.meta
+    projectPath: Assets/Scenes/Stage/window2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB-lock
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/00/005b280aeb1fcd3c1d51dc5ad37f7245
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/00/005b280aeb1fcd3c1d51dc5ad37f7245
+    projectPath: Library/Artifacts/00/005b280aeb1fcd3c1d51dc5ad37f7245
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/01/01723b208a914bcbd5efd3a9ba6ad41f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/01/01723b208a914bcbd5efd3a9ba6ad41f
+    projectPath: Library/Artifacts/01/01723b208a914bcbd5efd3a9ba6ad41f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/01/01c8d80eda80aa7e8c8e7cb2c18290ac
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/01/01c8d80eda80aa7e8c8e7cb2c18290ac
+    projectPath: Library/Artifacts/01/01c8d80eda80aa7e8c8e7cb2c18290ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/01/01ef9e13f5c5a16c66d4d349f6e2405c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/01/01ef9e13f5c5a16c66d4d349f6e2405c
+    projectPath: Library/Artifacts/01/01ef9e13f5c5a16c66d4d349f6e2405c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/02/0232c84c5aafac30312a097dd1842be3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/02/0232c84c5aafac30312a097dd1842be3
+    projectPath: Library/Artifacts/02/0232c84c5aafac30312a097dd1842be3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/02/02fff105b6c76402d66ce38e956ab05e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/02/02fff105b6c76402d66ce38e956ab05e
+    projectPath: Library/Artifacts/02/02fff105b6c76402d66ce38e956ab05e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/03/0308706f38b960c1ec902410d465c141
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/03/0308706f38b960c1ec902410d465c141
+    projectPath: Library/Artifacts/03/0308706f38b960c1ec902410d465c141
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/03/0367216fc25bb8f464151c694604fe5e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/03/0367216fc25bb8f464151c694604fe5e
+    projectPath: Library/Artifacts/03/0367216fc25bb8f464151c694604fe5e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/03/0383ddd4de56724866929a447879476d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/03/0383ddd4de56724866929a447879476d
+    projectPath: Library/Artifacts/03/0383ddd4de56724866929a447879476d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/03/0383f24b9f02a71554c515b88e6ba711
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/03/0383f24b9f02a71554c515b88e6ba711
+    projectPath: Library/Artifacts/03/0383f24b9f02a71554c515b88e6ba711
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/03/038ab934da77dbdd4a9e21a497e41076
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/03/038ab934da77dbdd4a9e21a497e41076
+    projectPath: Library/Artifacts/03/038ab934da77dbdd4a9e21a497e41076
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/03/03c59a39ba33dcf40fd1b7f8983e5c08
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/03/03c59a39ba33dcf40fd1b7f8983e5c08
+    projectPath: Library/Artifacts/03/03c59a39ba33dcf40fd1b7f8983e5c08
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/05/057e6477a6813cfc552c425dac96dab0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/05/057e6477a6813cfc552c425dac96dab0
+    projectPath: Library/Artifacts/05/057e6477a6813cfc552c425dac96dab0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/06/0600d8d935d3595e23f7aad8ae6b9ae7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/06/0600d8d935d3595e23f7aad8ae6b9ae7
+    projectPath: Library/Artifacts/06/0600d8d935d3595e23f7aad8ae6b9ae7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/06/061abad0f15cdc4c62249af78bd8709a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/06/061abad0f15cdc4c62249af78bd8709a
+    projectPath: Library/Artifacts/06/061abad0f15cdc4c62249af78bd8709a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/06/061aec9c44c537501d3694c2431fe73c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/06/061aec9c44c537501d3694c2431fe73c
+    projectPath: Library/Artifacts/06/061aec9c44c537501d3694c2431fe73c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/07/074e6bcb1aa88856c0a3fd6b63a70630
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/07/074e6bcb1aa88856c0a3fd6b63a70630
+    projectPath: Library/Artifacts/07/074e6bcb1aa88856c0a3fd6b63a70630
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/07/07bb39afaaa36840c1e14573c3934eee
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/07/07bb39afaaa36840c1e14573c3934eee
+    projectPath: Library/Artifacts/07/07bb39afaaa36840c1e14573c3934eee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/08/084ae4477de520ddadb8a33ad38acaaa
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/08/084ae4477de520ddadb8a33ad38acaaa
+    projectPath: Library/Artifacts/08/084ae4477de520ddadb8a33ad38acaaa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0a/0a3bdb9b010c2ec103ff60b5977921e4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0a/0a3bdb9b010c2ec103ff60b5977921e4
+    projectPath: Library/Artifacts/0a/0a3bdb9b010c2ec103ff60b5977921e4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0a/0ab613ee6d7c09b5289288632200e7d8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0a/0ab613ee6d7c09b5289288632200e7d8
+    projectPath: Library/Artifacts/0a/0ab613ee6d7c09b5289288632200e7d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0a/0ad1fbc7fce1e80c393572087c857dda
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0a/0ad1fbc7fce1e80c393572087c857dda
+    projectPath: Library/Artifacts/0a/0ad1fbc7fce1e80c393572087c857dda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0b/0b355447a69b11243f3e9b1b6d8b0788
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0b/0b355447a69b11243f3e9b1b6d8b0788
+    projectPath: Library/Artifacts/0b/0b355447a69b11243f3e9b1b6d8b0788
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0b/0b4f5fe049d99d285cd1abf83d83c521
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0b/0b4f5fe049d99d285cd1abf83d83c521
+    projectPath: Library/Artifacts/0b/0b4f5fe049d99d285cd1abf83d83c521
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0b/0bcc30a63caa98bf628efcd66e5d377f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0b/0bcc30a63caa98bf628efcd66e5d377f
+    projectPath: Library/Artifacts/0b/0bcc30a63caa98bf628efcd66e5d377f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0b/0bfc6cc07522f9be1a003b16edd27f6f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0b/0bfc6cc07522f9be1a003b16edd27f6f
+    projectPath: Library/Artifacts/0b/0bfc6cc07522f9be1a003b16edd27f6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0c/0c031004ef0606262ddff519774c0cc5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0c/0c031004ef0606262ddff519774c0cc5
+    projectPath: Library/Artifacts/0c/0c031004ef0606262ddff519774c0cc5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0d/0d24687256af7ae59d27744b5515c330
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0d/0d24687256af7ae59d27744b5515c330
+    projectPath: Library/Artifacts/0d/0d24687256af7ae59d27744b5515c330
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0e/0ec7a5ed9a67ebd2bce0c7a8b84fd708
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0e/0ec7a5ed9a67ebd2bce0c7a8b84fd708
+    projectPath: Library/Artifacts/0e/0ec7a5ed9a67ebd2bce0c7a8b84fd708
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0e/0eca1ab7f1ebf7b113670ee8e9cd1fea
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0e/0eca1ab7f1ebf7b113670ee8e9cd1fea
+    projectPath: Library/Artifacts/0e/0eca1ab7f1ebf7b113670ee8e9cd1fea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0e/0ee11413f49c3a98c1eed4b30fe07de0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0e/0ee11413f49c3a98c1eed4b30fe07de0
+    projectPath: Library/Artifacts/0e/0ee11413f49c3a98c1eed4b30fe07de0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0f/0f768f8b7dbedf0d4a0ed135f9b8d2dd
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0f/0f768f8b7dbedf0d4a0ed135f9b8d2dd
+    projectPath: Library/Artifacts/0f/0f768f8b7dbedf0d4a0ed135f9b8d2dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0f/0fbc74b9a004f6a737388ef4d72e176d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0f/0fbc74b9a004f6a737388ef4d72e176d
+    projectPath: Library/Artifacts/0f/0fbc74b9a004f6a737388ef4d72e176d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0f/0fc50045699e17cde3390139d0021d04
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/0f/0fc50045699e17cde3390139d0021d04
+    projectPath: Library/Artifacts/0f/0fc50045699e17cde3390139d0021d04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/10/10025c477d78dd4d7bad37bbfd01c6da
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/10/10025c477d78dd4d7bad37bbfd01c6da
+    projectPath: Library/Artifacts/10/10025c477d78dd4d7bad37bbfd01c6da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/10/10a73d0a2be8215707e2ccf01b421f72
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/10/10a73d0a2be8215707e2ccf01b421f72
+    projectPath: Library/Artifacts/10/10a73d0a2be8215707e2ccf01b421f72
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/11/11631f9f1bf4e50bfadfdfd62154adb0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/11/11631f9f1bf4e50bfadfdfd62154adb0
+    projectPath: Library/Artifacts/11/11631f9f1bf4e50bfadfdfd62154adb0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/11/116f3cafcad6069e5c268eb116fbbb0a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/11/116f3cafcad6069e5c268eb116fbbb0a
+    projectPath: Library/Artifacts/11/116f3cafcad6069e5c268eb116fbbb0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/11/11babe1d46409ddd9ca3c2b9dddac8c4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/11/11babe1d46409ddd9ca3c2b9dddac8c4
+    projectPath: Library/Artifacts/11/11babe1d46409ddd9ca3c2b9dddac8c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/12/121ae1dd3b19eda2062c73bb397b27ba
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/12/121ae1dd3b19eda2062c73bb397b27ba
+    projectPath: Library/Artifacts/12/121ae1dd3b19eda2062c73bb397b27ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/14/14e7041ef1428d52cd131169a2afe458
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/14/14e7041ef1428d52cd131169a2afe458
+    projectPath: Library/Artifacts/14/14e7041ef1428d52cd131169a2afe458
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/16/16b6b620fe612455fe13bdc2b727f8d2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/16/16b6b620fe612455fe13bdc2b727f8d2
+    projectPath: Library/Artifacts/16/16b6b620fe612455fe13bdc2b727f8d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/18/185f81e2f97e147401bd478a3a6971f3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/18/185f81e2f97e147401bd478a3a6971f3
+    projectPath: Library/Artifacts/18/185f81e2f97e147401bd478a3a6971f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/18/18f89cf22328ded6e497c2f3983be718
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/18/18f89cf22328ded6e497c2f3983be718
+    projectPath: Library/Artifacts/18/18f89cf22328ded6e497c2f3983be718
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/19/1994b6445cfd9a7719b53064479e8331
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/19/1994b6445cfd9a7719b53064479e8331
+    projectPath: Library/Artifacts/19/1994b6445cfd9a7719b53064479e8331
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/19/199bc3c47778913360871dd338158c99
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/19/199bc3c47778913360871dd338158c99
+    projectPath: Library/Artifacts/19/199bc3c47778913360871dd338158c99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1a/1a0ca3c79e264d0032be21937ab78271
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1a/1a0ca3c79e264d0032be21937ab78271
+    projectPath: Library/Artifacts/1a/1a0ca3c79e264d0032be21937ab78271
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1a/1a7ed34c63457f373d22c2d7aa2e1c45
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1a/1a7ed34c63457f373d22c2d7aa2e1c45
+    projectPath: Library/Artifacts/1a/1a7ed34c63457f373d22c2d7aa2e1c45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1a/1ab11b793ff30cd3c63dbae44c145356
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1a/1ab11b793ff30cd3c63dbae44c145356
+    projectPath: Library/Artifacts/1a/1ab11b793ff30cd3c63dbae44c145356
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1b/1b7b204a9006c2db2de59b2a3b91d956
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1b/1b7b204a9006c2db2de59b2a3b91d956
+    projectPath: Library/Artifacts/1b/1b7b204a9006c2db2de59b2a3b91d956
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1c/1c3098d0691a7da6e0c4df6ac630f38e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1c/1c3098d0691a7da6e0c4df6ac630f38e
+    projectPath: Library/Artifacts/1c/1c3098d0691a7da6e0c4df6ac630f38e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1c/1c808cc41d295e0d7267a601c833c6d3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1c/1c808cc41d295e0d7267a601c833c6d3
+    projectPath: Library/Artifacts/1c/1c808cc41d295e0d7267a601c833c6d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1c/1ca7e93ef9187e5ded9c029970ffaf12
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1c/1ca7e93ef9187e5ded9c029970ffaf12
+    projectPath: Library/Artifacts/1c/1ca7e93ef9187e5ded9c029970ffaf12
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1d/1d4b9ee0b9dbd1aa8e2a751688ab4a2e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1d/1d4b9ee0b9dbd1aa8e2a751688ab4a2e
+    projectPath: Library/Artifacts/1d/1d4b9ee0b9dbd1aa8e2a751688ab4a2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1e/1e203730bc49fe3fd60cdaac6837eb71
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1e/1e203730bc49fe3fd60cdaac6837eb71
+    projectPath: Library/Artifacts/1e/1e203730bc49fe3fd60cdaac6837eb71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1e/1e22dcc33021d95885323b3ae22ff5d3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1e/1e22dcc33021d95885323b3ae22ff5d3
+    projectPath: Library/Artifacts/1e/1e22dcc33021d95885323b3ae22ff5d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1e/1ec6d29599b65af797f3b1c41f005a8f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/1e/1ec6d29599b65af797f3b1c41f005a8f
+    projectPath: Library/Artifacts/1e/1ec6d29599b65af797f3b1c41f005a8f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/20/206cd3c721b2c95413ef788aa246209d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/20/206cd3c721b2c95413ef788aa246209d
+    projectPath: Library/Artifacts/20/206cd3c721b2c95413ef788aa246209d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/20/209e6469c197e616fbd2df26eb0de135
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/20/209e6469c197e616fbd2df26eb0de135
+    projectPath: Library/Artifacts/20/209e6469c197e616fbd2df26eb0de135
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/21/2166711b7bfb6f5d9e456f1c4599a9ff
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/21/2166711b7bfb6f5d9e456f1c4599a9ff
+    projectPath: Library/Artifacts/21/2166711b7bfb6f5d9e456f1c4599a9ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/21/21c2b3082217f92c8f54f5f8c66cdb60
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/21/21c2b3082217f92c8f54f5f8c66cdb60
+    projectPath: Library/Artifacts/21/21c2b3082217f92c8f54f5f8c66cdb60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/22/22270bc7a8ecf473466b2fb4e2fe02d4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/22/22270bc7a8ecf473466b2fb4e2fe02d4
+    projectPath: Library/Artifacts/22/22270bc7a8ecf473466b2fb4e2fe02d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/22/2279399078e797fefa166783281b4f95
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/22/2279399078e797fefa166783281b4f95
+    projectPath: Library/Artifacts/22/2279399078e797fefa166783281b4f95
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/23/23168eef7af2305a7a1a23ab3b5f7dfb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/23/23168eef7af2305a7a1a23ab3b5f7dfb
+    projectPath: Library/Artifacts/23/23168eef7af2305a7a1a23ab3b5f7dfb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/23/232fe5f5b92d45e1774a690002c4a512
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/23/232fe5f5b92d45e1774a690002c4a512
+    projectPath: Library/Artifacts/23/232fe5f5b92d45e1774a690002c4a512
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/23/23fa3c79f97631ce1cc348090489952c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/23/23fa3c79f97631ce1cc348090489952c
+    projectPath: Library/Artifacts/23/23fa3c79f97631ce1cc348090489952c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/24/2497bc251a9ab9883fcd5798ae1b007b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/24/2497bc251a9ab9883fcd5798ae1b007b
+    projectPath: Library/Artifacts/24/2497bc251a9ab9883fcd5798ae1b007b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/24/249bc4d8c5c77a8f45d22eb2b37eaada
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/24/249bc4d8c5c77a8f45d22eb2b37eaada
+    projectPath: Library/Artifacts/24/249bc4d8c5c77a8f45d22eb2b37eaada
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/26/2650d64f9865065115d18d48afe19638
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/26/2650d64f9865065115d18d48afe19638
+    projectPath: Library/Artifacts/26/2650d64f9865065115d18d48afe19638
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/26/269bdccc296bea174df9e64ebf43d030
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/26/269bdccc296bea174df9e64ebf43d030
+    projectPath: Library/Artifacts/26/269bdccc296bea174df9e64ebf43d030
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/28/2828e9bb6cfdda02cc6489f4c10e63b8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/28/2828e9bb6cfdda02cc6489f4c10e63b8
+    projectPath: Library/Artifacts/28/2828e9bb6cfdda02cc6489f4c10e63b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/28/2882d3e03565279aa3513484bcf0ac9c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/28/2882d3e03565279aa3513484bcf0ac9c
+    projectPath: Library/Artifacts/28/2882d3e03565279aa3513484bcf0ac9c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/29/29b7e75b2f920419b5c5b677b53e6621
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/29/29b7e75b2f920419b5c5b677b53e6621
+    projectPath: Library/Artifacts/29/29b7e75b2f920419b5c5b677b53e6621
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2b/2ba218b2ac193a0599202602944bef50
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2b/2ba218b2ac193a0599202602944bef50
+    projectPath: Library/Artifacts/2b/2ba218b2ac193a0599202602944bef50
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2b/2bafce4ddd14e5df26581ebe308d5cb8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2b/2bafce4ddd14e5df26581ebe308d5cb8
+    projectPath: Library/Artifacts/2b/2bafce4ddd14e5df26581ebe308d5cb8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2b/2bd049bb0a527683fac41ceae565dd33
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2b/2bd049bb0a527683fac41ceae565dd33
+    projectPath: Library/Artifacts/2b/2bd049bb0a527683fac41ceae565dd33
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2c/2c7f225602639babff1738ebf250783b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2c/2c7f225602639babff1738ebf250783b
+    projectPath: Library/Artifacts/2c/2c7f225602639babff1738ebf250783b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2d/2d63e1cdcebe48e9e836a9748930308d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2d/2d63e1cdcebe48e9e836a9748930308d
+    projectPath: Library/Artifacts/2d/2d63e1cdcebe48e9e836a9748930308d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2d/2d70f238baef6e1f83229b6febb4f1b3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2d/2d70f238baef6e1f83229b6febb4f1b3
+    projectPath: Library/Artifacts/2d/2d70f238baef6e1f83229b6febb4f1b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2f/2f363609a2fa369f3c10923f0e8a0396
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2f/2f363609a2fa369f3c10923f0e8a0396
+    projectPath: Library/Artifacts/2f/2f363609a2fa369f3c10923f0e8a0396
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2f/2f4c2e9f4e0ef9c3cb97109110dcfbeb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2f/2f4c2e9f4e0ef9c3cb97109110dcfbeb
+    projectPath: Library/Artifacts/2f/2f4c2e9f4e0ef9c3cb97109110dcfbeb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2f/2fb311ab5c1565b5e150250a04b9304e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/2f/2fb311ab5c1565b5e150250a04b9304e
+    projectPath: Library/Artifacts/2f/2fb311ab5c1565b5e150250a04b9304e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/30/30841cf1f0e95d80d86db7e020a82233
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/30/30841cf1f0e95d80d86db7e020a82233
+    projectPath: Library/Artifacts/30/30841cf1f0e95d80d86db7e020a82233
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/31/313f0d2fcbe7c713901ba628ad095c77
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/31/313f0d2fcbe7c713901ba628ad095c77
+    projectPath: Library/Artifacts/31/313f0d2fcbe7c713901ba628ad095c77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/31/31561217c004782db6da692581720698
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/31/31561217c004782db6da692581720698
+    projectPath: Library/Artifacts/31/31561217c004782db6da692581720698
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/31/3184c795023454e7d4b8bde0ab35b35b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/31/3184c795023454e7d4b8bde0ab35b35b
+    projectPath: Library/Artifacts/31/3184c795023454e7d4b8bde0ab35b35b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/32/32978b0a9fad2d9ba08fbae598507ea2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/32/32978b0a9fad2d9ba08fbae598507ea2
+    projectPath: Library/Artifacts/32/32978b0a9fad2d9ba08fbae598507ea2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/32/32b60600e17ac7f1ed1608582a48ce77
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/32/32b60600e17ac7f1ed1608582a48ce77
+    projectPath: Library/Artifacts/32/32b60600e17ac7f1ed1608582a48ce77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/32/32d39e8b1f437f179047239fa696ff7e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/32/32d39e8b1f437f179047239fa696ff7e
+    projectPath: Library/Artifacts/32/32d39e8b1f437f179047239fa696ff7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/33/33c2fa528c9848b410420f5b10fede1e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/33/33c2fa528c9848b410420f5b10fede1e
+    projectPath: Library/Artifacts/33/33c2fa528c9848b410420f5b10fede1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/33/33fc1850b33aa27e3ccc984bcdac03d9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/33/33fc1850b33aa27e3ccc984bcdac03d9
+    projectPath: Library/Artifacts/33/33fc1850b33aa27e3ccc984bcdac03d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/34/34e940a7c93ddf1a7b928d2c1a0d4703
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/34/34e940a7c93ddf1a7b928d2c1a0d4703
+    projectPath: Library/Artifacts/34/34e940a7c93ddf1a7b928d2c1a0d4703
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/35/358dc5d04e282a3c35a081aaabf9d606
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/35/358dc5d04e282a3c35a081aaabf9d606
+    projectPath: Library/Artifacts/35/358dc5d04e282a3c35a081aaabf9d606
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/35/359226a7c21585313583a094e9b50cf8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/35/359226a7c21585313583a094e9b50cf8
+    projectPath: Library/Artifacts/35/359226a7c21585313583a094e9b50cf8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/35/35947ded0447a8c1dbbbf28be3fe0ab6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/35/35947ded0447a8c1dbbbf28be3fe0ab6
+    projectPath: Library/Artifacts/35/35947ded0447a8c1dbbbf28be3fe0ab6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/35/35da63e1865f1a9ef4a0726198c3a798
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/35/35da63e1865f1a9ef4a0726198c3a798
+    projectPath: Library/Artifacts/35/35da63e1865f1a9ef4a0726198c3a798
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/35/35f6d6038fc95bf0c5718a1beaba8cb2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/35/35f6d6038fc95bf0c5718a1beaba8cb2
+    projectPath: Library/Artifacts/35/35f6d6038fc95bf0c5718a1beaba8cb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/37/3777853ef4d306c28ece6be70d35606b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/37/3777853ef4d306c28ece6be70d35606b
+    projectPath: Library/Artifacts/37/3777853ef4d306c28ece6be70d35606b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/39/39222120dac90f401a982c1fc3d4d4fd
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/39/39222120dac90f401a982c1fc3d4d4fd
+    projectPath: Library/Artifacts/39/39222120dac90f401a982c1fc3d4d4fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/39/395d2d54d5163444aa2d3408c366b632
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/39/395d2d54d5163444aa2d3408c366b632
+    projectPath: Library/Artifacts/39/395d2d54d5163444aa2d3408c366b632
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/39/39dad984c9799480b95be076cb8c1f26
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/39/39dad984c9799480b95be076cb8c1f26
+    projectPath: Library/Artifacts/39/39dad984c9799480b95be076cb8c1f26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3a/3a3fdf5782ca5fbf544eb78d78762431
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3a/3a3fdf5782ca5fbf544eb78d78762431
+    projectPath: Library/Artifacts/3a/3a3fdf5782ca5fbf544eb78d78762431
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3a/3a9458e341cf24288ed246c08bb1c540
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3a/3a9458e341cf24288ed246c08bb1c540
+    projectPath: Library/Artifacts/3a/3a9458e341cf24288ed246c08bb1c540
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3a/3abb2709b4b260d48dc85a465668a9d6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3a/3abb2709b4b260d48dc85a465668a9d6
+    projectPath: Library/Artifacts/3a/3abb2709b4b260d48dc85a465668a9d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3b/3b2793760c54b7c5e440d197bcefb3a9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3b/3b2793760c54b7c5e440d197bcefb3a9
+    projectPath: Library/Artifacts/3b/3b2793760c54b7c5e440d197bcefb3a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3b/3b652ec70bff1432536ab27147a66f02
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3b/3b652ec70bff1432536ab27147a66f02
+    projectPath: Library/Artifacts/3b/3b652ec70bff1432536ab27147a66f02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3c/3c0c7a2188aa82ba8e582cfc3d42e4ff
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3c/3c0c7a2188aa82ba8e582cfc3d42e4ff
+    projectPath: Library/Artifacts/3c/3c0c7a2188aa82ba8e582cfc3d42e4ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3c/3c8f17a3bcc4e1bc24460d22c6a9aa3e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3c/3c8f17a3bcc4e1bc24460d22c6a9aa3e
+    projectPath: Library/Artifacts/3c/3c8f17a3bcc4e1bc24460d22c6a9aa3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3c/3c9bb6f6ac4bfab59a96edbc3f943ec0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3c/3c9bb6f6ac4bfab59a96edbc3f943ec0
+    projectPath: Library/Artifacts/3c/3c9bb6f6ac4bfab59a96edbc3f943ec0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3d/3d11a44111781457f3055f681ec09339
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3d/3d11a44111781457f3055f681ec09339
+    projectPath: Library/Artifacts/3d/3d11a44111781457f3055f681ec09339
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3e/3ea215861e505ba7aa808c66b33e48f9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3e/3ea215861e505ba7aa808c66b33e48f9
+    projectPath: Library/Artifacts/3e/3ea215861e505ba7aa808c66b33e48f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3e/3efaee56c52000829377bbdba9a1e03f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3e/3efaee56c52000829377bbdba9a1e03f
+    projectPath: Library/Artifacts/3e/3efaee56c52000829377bbdba9a1e03f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3f/3f74ce9cd219d16ac979ada91678b45b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3f/3f74ce9cd219d16ac979ada91678b45b
+    projectPath: Library/Artifacts/3f/3f74ce9cd219d16ac979ada91678b45b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3f/3f9bb0955afd1bf8c58c746130a1a6df
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3f/3f9bb0955afd1bf8c58c746130a1a6df
+    projectPath: Library/Artifacts/3f/3f9bb0955afd1bf8c58c746130a1a6df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3f/3fc07e4cd354b6aba2ec8a150ab7d7b6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/3f/3fc07e4cd354b6aba2ec8a150ab7d7b6
+    projectPath: Library/Artifacts/3f/3fc07e4cd354b6aba2ec8a150ab7d7b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/40/408e8e803492c72367d22619ccac518c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/40/408e8e803492c72367d22619ccac518c
+    projectPath: Library/Artifacts/40/408e8e803492c72367d22619ccac518c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/41/41f84845a5ff377b93afb7c016d8901e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/41/41f84845a5ff377b93afb7c016d8901e
+    projectPath: Library/Artifacts/41/41f84845a5ff377b93afb7c016d8901e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/43/43a395bc57021baf0e895776ff761365
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/43/43a395bc57021baf0e895776ff761365
+    projectPath: Library/Artifacts/43/43a395bc57021baf0e895776ff761365
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/45/45cafc832c33c24adee3b70b95186514
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/45/45cafc832c33c24adee3b70b95186514
+    projectPath: Library/Artifacts/45/45cafc832c33c24adee3b70b95186514
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/47/47341813c27cf7e30071ebdbb1b55b04
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/47/47341813c27cf7e30071ebdbb1b55b04
+    projectPath: Library/Artifacts/47/47341813c27cf7e30071ebdbb1b55b04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/47/4749a054ab1cb51096bec674d97cf34c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/47/4749a054ab1cb51096bec674d97cf34c
+    projectPath: Library/Artifacts/47/4749a054ab1cb51096bec674d97cf34c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/48/48095aa50e6f201828f15c6dd0c6f62b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/48/48095aa50e6f201828f15c6dd0c6f62b
+    projectPath: Library/Artifacts/48/48095aa50e6f201828f15c6dd0c6f62b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/48/480e7f0f27966bf784fad5f37d1c507a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/48/480e7f0f27966bf784fad5f37d1c507a
+    projectPath: Library/Artifacts/48/480e7f0f27966bf784fad5f37d1c507a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/48/486cb513a53d57de36639a283edc4d56
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/48/486cb513a53d57de36639a283edc4d56
+    projectPath: Library/Artifacts/48/486cb513a53d57de36639a283edc4d56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/48/48f2550d4157e1bdcff107439ba0bf40
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/48/48f2550d4157e1bdcff107439ba0bf40
+    projectPath: Library/Artifacts/48/48f2550d4157e1bdcff107439ba0bf40
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/49/4902c39fd42563ad09eef3a02965edb2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/49/4902c39fd42563ad09eef3a02965edb2
+    projectPath: Library/Artifacts/49/4902c39fd42563ad09eef3a02965edb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/49/49806184e889d7c1fb3ff50b4c67f287
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/49/49806184e889d7c1fb3ff50b4c67f287
+    projectPath: Library/Artifacts/49/49806184e889d7c1fb3ff50b4c67f287
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/49/49e7852f199ad36376fc3e9c8455a53e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/49/49e7852f199ad36376fc3e9c8455a53e
+    projectPath: Library/Artifacts/49/49e7852f199ad36376fc3e9c8455a53e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4a/4a29d1c6c20dd1d00b1130a74c5ebe74
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4a/4a29d1c6c20dd1d00b1130a74c5ebe74
+    projectPath: Library/Artifacts/4a/4a29d1c6c20dd1d00b1130a74c5ebe74
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4a/4aa028c70382d7d04d69dfaf6abe634f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4a/4aa028c70382d7d04d69dfaf6abe634f
+    projectPath: Library/Artifacts/4a/4aa028c70382d7d04d69dfaf6abe634f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4b/4b6e8b2402e1e07a080671698500fd71
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4b/4b6e8b2402e1e07a080671698500fd71
+    projectPath: Library/Artifacts/4b/4b6e8b2402e1e07a080671698500fd71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4b/4b94760cb785101ed6458446ca1cdf08
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4b/4b94760cb785101ed6458446ca1cdf08
+    projectPath: Library/Artifacts/4b/4b94760cb785101ed6458446ca1cdf08
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4b/4b9b1dbfeb7bf2127b570e65b2a490c4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4b/4b9b1dbfeb7bf2127b570e65b2a490c4
+    projectPath: Library/Artifacts/4b/4b9b1dbfeb7bf2127b570e65b2a490c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4c/4c513744f18001e7b838b6bd22064fc6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4c/4c513744f18001e7b838b6bd22064fc6
+    projectPath: Library/Artifacts/4c/4c513744f18001e7b838b6bd22064fc6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4c/4c52b83dc2f3476def1e61ae03bf4669
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4c/4c52b83dc2f3476def1e61ae03bf4669
+    projectPath: Library/Artifacts/4c/4c52b83dc2f3476def1e61ae03bf4669
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4d/4d283ad3187f6e508f10dee60709e1b6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4d/4d283ad3187f6e508f10dee60709e1b6
+    projectPath: Library/Artifacts/4d/4d283ad3187f6e508f10dee60709e1b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4d/4db80ace6fb9a796deb309f35c7aa2ce
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4d/4db80ace6fb9a796deb309f35c7aa2ce
+    projectPath: Library/Artifacts/4d/4db80ace6fb9a796deb309f35c7aa2ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4d/4df6d36ac09895435f8c7c1958ec1943
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4d/4df6d36ac09895435f8c7c1958ec1943
+    projectPath: Library/Artifacts/4d/4df6d36ac09895435f8c7c1958ec1943
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4e/4e5b4e703e8a1564ab5ee227820aac01
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4e/4e5b4e703e8a1564ab5ee227820aac01
+    projectPath: Library/Artifacts/4e/4e5b4e703e8a1564ab5ee227820aac01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4f/4f512d65f79bfa1c068b9154ed0bf795
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/4f/4f512d65f79bfa1c068b9154ed0bf795
+    projectPath: Library/Artifacts/4f/4f512d65f79bfa1c068b9154ed0bf795
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/50/50458e5bbc53d66ffe068c8149802465
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/50/50458e5bbc53d66ffe068c8149802465
+    projectPath: Library/Artifacts/50/50458e5bbc53d66ffe068c8149802465
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/50/50b66dbc706255f952e798675e09052a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/50/50b66dbc706255f952e798675e09052a
+    projectPath: Library/Artifacts/50/50b66dbc706255f952e798675e09052a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/53/5329a8d033a5a7404d50ab6f7c37bccb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/53/5329a8d033a5a7404d50ab6f7c37bccb
+    projectPath: Library/Artifacts/53/5329a8d033a5a7404d50ab6f7c37bccb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/53/533649fd4cc19a3b3d1fa14b6ad732ce
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/53/533649fd4cc19a3b3d1fa14b6ad732ce
+    projectPath: Library/Artifacts/53/533649fd4cc19a3b3d1fa14b6ad732ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/53/53afd91c172e1a9a115d855c035aa950
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/53/53afd91c172e1a9a115d855c035aa950
+    projectPath: Library/Artifacts/53/53afd91c172e1a9a115d855c035aa950
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/53/53bb1dd360be4d2f5756f6d07082ac47
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/53/53bb1dd360be4d2f5756f6d07082ac47
+    projectPath: Library/Artifacts/53/53bb1dd360be4d2f5756f6d07082ac47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/54/5468277b84e70b1ab43f98fdfe3e4c63
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/54/5468277b84e70b1ab43f98fdfe3e4c63
+    projectPath: Library/Artifacts/54/5468277b84e70b1ab43f98fdfe3e4c63
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/54/54c650883d8a32506a37fb3df5a406ca
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/54/54c650883d8a32506a37fb3df5a406ca
+    projectPath: Library/Artifacts/54/54c650883d8a32506a37fb3df5a406ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/54/54ccf8157d552ea671bd4dc428cb70a4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/54/54ccf8157d552ea671bd4dc428cb70a4
+    projectPath: Library/Artifacts/54/54ccf8157d552ea671bd4dc428cb70a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/54/54f160f45001a5d6f3780abb321dd041
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/54/54f160f45001a5d6f3780abb321dd041
+    projectPath: Library/Artifacts/54/54f160f45001a5d6f3780abb321dd041
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/56/569d0199499a0bbb12bebed6932783c1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/56/569d0199499a0bbb12bebed6932783c1
+    projectPath: Library/Artifacts/56/569d0199499a0bbb12bebed6932783c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/57/570b9ad723386d766a433e420b36733f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/57/570b9ad723386d766a433e420b36733f
+    projectPath: Library/Artifacts/57/570b9ad723386d766a433e420b36733f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/58/5833f51a2b51710b2cfc366d7b2e9a92
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/58/5833f51a2b51710b2cfc366d7b2e9a92
+    projectPath: Library/Artifacts/58/5833f51a2b51710b2cfc366d7b2e9a92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/58/5896576517297a0839d3a5a69ecbe94d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/58/5896576517297a0839d3a5a69ecbe94d
+    projectPath: Library/Artifacts/58/5896576517297a0839d3a5a69ecbe94d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/58/58c6dcc25cffd56b25983674e19e7ed3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/58/58c6dcc25cffd56b25983674e19e7ed3
+    projectPath: Library/Artifacts/58/58c6dcc25cffd56b25983674e19e7ed3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/58/58ebe2c0c9558278b06998235e045905
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/58/58ebe2c0c9558278b06998235e045905
+    projectPath: Library/Artifacts/58/58ebe2c0c9558278b06998235e045905
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/59/594b9fe6c4ae36b89a534759de0dbb83
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/59/594b9fe6c4ae36b89a534759de0dbb83
+    projectPath: Library/Artifacts/59/594b9fe6c4ae36b89a534759de0dbb83
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/59/596637fc6edbd9e2d34aca3de8c1f3eb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/59/596637fc6edbd9e2d34aca3de8c1f3eb
+    projectPath: Library/Artifacts/59/596637fc6edbd9e2d34aca3de8c1f3eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/59/5969f24a266b95344c24de77712733d1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/59/5969f24a266b95344c24de77712733d1
+    projectPath: Library/Artifacts/59/5969f24a266b95344c24de77712733d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/59/59852555ff6398d0c33983514c7b7a98
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/59/59852555ff6398d0c33983514c7b7a98
+    projectPath: Library/Artifacts/59/59852555ff6398d0c33983514c7b7a98
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/59/59ed107214a0b3f9a3a744a9238b4ade
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/59/59ed107214a0b3f9a3a744a9238b4ade
+    projectPath: Library/Artifacts/59/59ed107214a0b3f9a3a744a9238b4ade
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5a/5a4a9679629ba8d0546f0d6fed4e21a5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5a/5a4a9679629ba8d0546f0d6fed4e21a5
+    projectPath: Library/Artifacts/5a/5a4a9679629ba8d0546f0d6fed4e21a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5a/5a5ebdc210d309e4c95352be02e568c1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5a/5a5ebdc210d309e4c95352be02e568c1
+    projectPath: Library/Artifacts/5a/5a5ebdc210d309e4c95352be02e568c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5a/5a624e05dc55f32c7ea5bd62fe8d5dc3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5a/5a624e05dc55f32c7ea5bd62fe8d5dc3
+    projectPath: Library/Artifacts/5a/5a624e05dc55f32c7ea5bd62fe8d5dc3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5c/5c0e303481f01f13277da6bef6f2fa13
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5c/5c0e303481f01f13277da6bef6f2fa13
+    projectPath: Library/Artifacts/5c/5c0e303481f01f13277da6bef6f2fa13
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5c/5c6c708c5d040ebff289c134fecfcc44
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5c/5c6c708c5d040ebff289c134fecfcc44
+    projectPath: Library/Artifacts/5c/5c6c708c5d040ebff289c134fecfcc44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5c/5cb58b22ad108ddeb0e27398aa65d63e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5c/5cb58b22ad108ddeb0e27398aa65d63e
+    projectPath: Library/Artifacts/5c/5cb58b22ad108ddeb0e27398aa65d63e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5c/5cf04bff04ca2c0cc56cfeb304d2787f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5c/5cf04bff04ca2c0cc56cfeb304d2787f
+    projectPath: Library/Artifacts/5c/5cf04bff04ca2c0cc56cfeb304d2787f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5d/5d2cc5b88d326198ad6425f8019442c9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5d/5d2cc5b88d326198ad6425f8019442c9
+    projectPath: Library/Artifacts/5d/5d2cc5b88d326198ad6425f8019442c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5d/5dde1913d0856e0a1432b7fc3c93d288
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5d/5dde1913d0856e0a1432b7fc3c93d288
+    projectPath: Library/Artifacts/5d/5dde1913d0856e0a1432b7fc3c93d288
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5e/5e6ee6e99b0c2d00ad918aa7c786149b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5e/5e6ee6e99b0c2d00ad918aa7c786149b
+    projectPath: Library/Artifacts/5e/5e6ee6e99b0c2d00ad918aa7c786149b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5e/5e8f8e10dcd22fde9a401f8f8d8eb496
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5e/5e8f8e10dcd22fde9a401f8f8d8eb496
+    projectPath: Library/Artifacts/5e/5e8f8e10dcd22fde9a401f8f8d8eb496
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5e/5eba4c5e1faef29ecf941a736d4799b2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5e/5eba4c5e1faef29ecf941a736d4799b2
+    projectPath: Library/Artifacts/5e/5eba4c5e1faef29ecf941a736d4799b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5f/5f2541b3138eeb28663fdfa3a66d2cb2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5f/5f2541b3138eeb28663fdfa3a66d2cb2
+    projectPath: Library/Artifacts/5f/5f2541b3138eeb28663fdfa3a66d2cb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5f/5f44351580910e84f3ca86b396819738
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5f/5f44351580910e84f3ca86b396819738
+    projectPath: Library/Artifacts/5f/5f44351580910e84f3ca86b396819738
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5f/5f9160fd603a0a4e31a72c2f49107e3a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/5f/5f9160fd603a0a4e31a72c2f49107e3a
+    projectPath: Library/Artifacts/5f/5f9160fd603a0a4e31a72c2f49107e3a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/60/6002ffe37ee2203cc6a986433e046841
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/60/6002ffe37ee2203cc6a986433e046841
+    projectPath: Library/Artifacts/60/6002ffe37ee2203cc6a986433e046841
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/60/608bf8a7cad8f96588537ff6003766b8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/60/608bf8a7cad8f96588537ff6003766b8
+    projectPath: Library/Artifacts/60/608bf8a7cad8f96588537ff6003766b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/60/60a459540800c006da70f7db158ed94f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/60/60a459540800c006da70f7db158ed94f
+    projectPath: Library/Artifacts/60/60a459540800c006da70f7db158ed94f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/60/60df3453ebbb76b3f4af0c95d57e02fd
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/60/60df3453ebbb76b3f4af0c95d57e02fd
+    projectPath: Library/Artifacts/60/60df3453ebbb76b3f4af0c95d57e02fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/62/62db397568e71bba5c311914eb44c5b1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/62/62db397568e71bba5c311914eb44c5b1
+    projectPath: Library/Artifacts/62/62db397568e71bba5c311914eb44c5b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/64/64998edca490398954f06bf974e3c0d9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/64/64998edca490398954f06bf974e3c0d9
+    projectPath: Library/Artifacts/64/64998edca490398954f06bf974e3c0d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/64/64eddf864bed6e3b698358645691c72c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/64/64eddf864bed6e3b698358645691c72c
+    projectPath: Library/Artifacts/64/64eddf864bed6e3b698358645691c72c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/65/6513c1616269ae25a98f8eb1661a62d2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/65/6513c1616269ae25a98f8eb1661a62d2
+    projectPath: Library/Artifacts/65/6513c1616269ae25a98f8eb1661a62d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/66/6621b7d2b5aaa6d36c119efe88993e56
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/66/6621b7d2b5aaa6d36c119efe88993e56
+    projectPath: Library/Artifacts/66/6621b7d2b5aaa6d36c119efe88993e56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/66/6687c020eb1717d7e559da1c03db97e0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/66/6687c020eb1717d7e559da1c03db97e0
+    projectPath: Library/Artifacts/66/6687c020eb1717d7e559da1c03db97e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/66/66b489713ca526a9c6681650103e953d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/66/66b489713ca526a9c6681650103e953d
+    projectPath: Library/Artifacts/66/66b489713ca526a9c6681650103e953d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/66/66c2f1175108e4a724a973d337b59637
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/66/66c2f1175108e4a724a973d337b59637
+    projectPath: Library/Artifacts/66/66c2f1175108e4a724a973d337b59637
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/66/66ee77f6729db62f6d9b322912bb3c4d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/66/66ee77f6729db62f6d9b322912bb3c4d
+    projectPath: Library/Artifacts/66/66ee77f6729db62f6d9b322912bb3c4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/66/66fa422f80b853e2875aa6eae554e704
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/66/66fa422f80b853e2875aa6eae554e704
+    projectPath: Library/Artifacts/66/66fa422f80b853e2875aa6eae554e704
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/67/676f6a79df93a01c3330eef524ee24a7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/67/676f6a79df93a01c3330eef524ee24a7
+    projectPath: Library/Artifacts/67/676f6a79df93a01c3330eef524ee24a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/68/688760de5c8e0bf1ad85fc9408c40fc3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/68/688760de5c8e0bf1ad85fc9408c40fc3
+    projectPath: Library/Artifacts/68/688760de5c8e0bf1ad85fc9408c40fc3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/69/6998bfaa501737ba6e3a3df7c4037c47
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/69/6998bfaa501737ba6e3a3df7c4037c47
+    projectPath: Library/Artifacts/69/6998bfaa501737ba6e3a3df7c4037c47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/69/69adcb879fb348369711b898d468971f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/69/69adcb879fb348369711b898d468971f
+    projectPath: Library/Artifacts/69/69adcb879fb348369711b898d468971f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6a/6a005a88901ab2742649c589c22b9754
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6a/6a005a88901ab2742649c589c22b9754
+    projectPath: Library/Artifacts/6a/6a005a88901ab2742649c589c22b9754
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6b/6bad4c759872e4030cac6e851a5ad690
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6b/6bad4c759872e4030cac6e851a5ad690
+    projectPath: Library/Artifacts/6b/6bad4c759872e4030cac6e851a5ad690
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6b/6bdbd65068429d1341a673a80ae0cafe
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6b/6bdbd65068429d1341a673a80ae0cafe
+    projectPath: Library/Artifacts/6b/6bdbd65068429d1341a673a80ae0cafe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6b/6bf3b18e6f14cb73bebbaba10ce84af9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6b/6bf3b18e6f14cb73bebbaba10ce84af9
+    projectPath: Library/Artifacts/6b/6bf3b18e6f14cb73bebbaba10ce84af9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6c/6c3423ced95acf48e6e7911aa00ed27c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6c/6c3423ced95acf48e6e7911aa00ed27c
+    projectPath: Library/Artifacts/6c/6c3423ced95acf48e6e7911aa00ed27c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6e/6e8ff2a9a01f5caf5b91d7e1d9d0d16d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6e/6e8ff2a9a01f5caf5b91d7e1d9d0d16d
+    projectPath: Library/Artifacts/6e/6e8ff2a9a01f5caf5b91d7e1d9d0d16d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6e/6edd42062f53a6379d4237fefee58504
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6e/6edd42062f53a6379d4237fefee58504
+    projectPath: Library/Artifacts/6e/6edd42062f53a6379d4237fefee58504
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6e/6eddcb4f16d48140ae61eb2b97654620
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6e/6eddcb4f16d48140ae61eb2b97654620
+    projectPath: Library/Artifacts/6e/6eddcb4f16d48140ae61eb2b97654620
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6f/6f9fa48ffa110debefd631a03c2ad998
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/6f/6f9fa48ffa110debefd631a03c2ad998
+    projectPath: Library/Artifacts/6f/6f9fa48ffa110debefd631a03c2ad998
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/71/715c910d78f3c1da926c0d810f4c1063
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/71/715c910d78f3c1da926c0d810f4c1063
+    projectPath: Library/Artifacts/71/715c910d78f3c1da926c0d810f4c1063
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/71/71de97835cf9efc19f1bbb5fde56a853
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/71/71de97835cf9efc19f1bbb5fde56a853
+    projectPath: Library/Artifacts/71/71de97835cf9efc19f1bbb5fde56a853
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/71/71e35d8d129654816b97b8202bb2787e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/71/71e35d8d129654816b97b8202bb2787e
+    projectPath: Library/Artifacts/71/71e35d8d129654816b97b8202bb2787e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/71/71ebdefd9f0e52b8280120d7ed401d47
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/71/71ebdefd9f0e52b8280120d7ed401d47
+    projectPath: Library/Artifacts/71/71ebdefd9f0e52b8280120d7ed401d47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/72/724f3f70e4a158b30619fd05f43855cc
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/72/724f3f70e4a158b30619fd05f43855cc
+    projectPath: Library/Artifacts/72/724f3f70e4a158b30619fd05f43855cc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/72/728a0c84277cb3c1a846f74f00935624
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/72/728a0c84277cb3c1a846f74f00935624
+    projectPath: Library/Artifacts/72/728a0c84277cb3c1a846f74f00935624
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/72/72d2c6f87e6df542b60190d0789fbd9a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/72/72d2c6f87e6df542b60190d0789fbd9a
+    projectPath: Library/Artifacts/72/72d2c6f87e6df542b60190d0789fbd9a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/73/73b22fe4c9b96e3a8c90366da8fdf2e1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/73/73b22fe4c9b96e3a8c90366da8fdf2e1
+    projectPath: Library/Artifacts/73/73b22fe4c9b96e3a8c90366da8fdf2e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/74/7442b36310fe17667e84863be70d039a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/74/7442b36310fe17667e84863be70d039a
+    projectPath: Library/Artifacts/74/7442b36310fe17667e84863be70d039a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/74/74f23cb80cb016a9fc5dc9f22bac80d4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/74/74f23cb80cb016a9fc5dc9f22bac80d4
+    projectPath: Library/Artifacts/74/74f23cb80cb016a9fc5dc9f22bac80d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/76/76f6bbcceff99cdf37a929df5bed148d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/76/76f6bbcceff99cdf37a929df5bed148d
+    projectPath: Library/Artifacts/76/76f6bbcceff99cdf37a929df5bed148d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/77/7703581499a37580d911c409ae4c7ba5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/77/7703581499a37580d911c409ae4c7ba5
+    projectPath: Library/Artifacts/77/7703581499a37580d911c409ae4c7ba5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/78/78b095c27b87c57209e0c6b6868a547e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/78/78b095c27b87c57209e0c6b6868a547e
+    projectPath: Library/Artifacts/78/78b095c27b87c57209e0c6b6868a547e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/79/795d10d8170297cf70ae39db376333f0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/79/795d10d8170297cf70ae39db376333f0
+    projectPath: Library/Artifacts/79/795d10d8170297cf70ae39db376333f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7a/7a6282f7761e0a5bd5ea187479f6acc5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7a/7a6282f7761e0a5bd5ea187479f6acc5
+    projectPath: Library/Artifacts/7a/7a6282f7761e0a5bd5ea187479f6acc5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7a/7adfe848c2ab6d94fa07e2995daa3244
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7a/7adfe848c2ab6d94fa07e2995daa3244
+    projectPath: Library/Artifacts/7a/7adfe848c2ab6d94fa07e2995daa3244
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7b/7b1a566a6f4663cccc805df6556c2d6f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7b/7b1a566a6f4663cccc805df6556c2d6f
+    projectPath: Library/Artifacts/7b/7b1a566a6f4663cccc805df6556c2d6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7b/7b30a1505cfd94103fe0ac78036d1264
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7b/7b30a1505cfd94103fe0ac78036d1264
+    projectPath: Library/Artifacts/7b/7b30a1505cfd94103fe0ac78036d1264
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7b/7b47329031845b138a4ff211a4e13b32
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7b/7b47329031845b138a4ff211a4e13b32
+    projectPath: Library/Artifacts/7b/7b47329031845b138a4ff211a4e13b32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7b/7b816c62679b6e1a37767697ed2b4504
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7b/7b816c62679b6e1a37767697ed2b4504
+    projectPath: Library/Artifacts/7b/7b816c62679b6e1a37767697ed2b4504
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7b/7b82d97c9fc2f6a8e940650a71c6d32b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7b/7b82d97c9fc2f6a8e940650a71c6d32b
+    projectPath: Library/Artifacts/7b/7b82d97c9fc2f6a8e940650a71c6d32b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7b/7bdc737785e29d3e01d461c5ef561f5d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7b/7bdc737785e29d3e01d461c5ef561f5d
+    projectPath: Library/Artifacts/7b/7bdc737785e29d3e01d461c5ef561f5d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7c/7c993a5bb81387e76d1257d7d23ae9a1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7c/7c993a5bb81387e76d1257d7d23ae9a1
+    projectPath: Library/Artifacts/7c/7c993a5bb81387e76d1257d7d23ae9a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7c/7cbab5e1ab31039dab228a73f7009407
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7c/7cbab5e1ab31039dab228a73f7009407
+    projectPath: Library/Artifacts/7c/7cbab5e1ab31039dab228a73f7009407
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7c/7cdc6eba7cc0d07add341d2fcfd629af
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7c/7cdc6eba7cc0d07add341d2fcfd629af
+    projectPath: Library/Artifacts/7c/7cdc6eba7cc0d07add341d2fcfd629af
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7c/7ce5967c628e28e056b65abbb72f5ba6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7c/7ce5967c628e28e056b65abbb72f5ba6
+    projectPath: Library/Artifacts/7c/7ce5967c628e28e056b65abbb72f5ba6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7d/7d565f59d5dba6e72fabe0e05de7d469
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7d/7d565f59d5dba6e72fabe0e05de7d469
+    projectPath: Library/Artifacts/7d/7d565f59d5dba6e72fabe0e05de7d469
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7d/7db4a1050c95e9a42e68c9d823e6bed6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7d/7db4a1050c95e9a42e68c9d823e6bed6
+    projectPath: Library/Artifacts/7d/7db4a1050c95e9a42e68c9d823e6bed6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7e/7e305177d30060c3c1a7d7cfd1baa629
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7e/7e305177d30060c3c1a7d7cfd1baa629
+    projectPath: Library/Artifacts/7e/7e305177d30060c3c1a7d7cfd1baa629
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7e/7e604103ab05aae432643b44b6d1ae7a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/7e/7e604103ab05aae432643b44b6d1ae7a
+    projectPath: Library/Artifacts/7e/7e604103ab05aae432643b44b6d1ae7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/81/811b70edc728c2aed85b2361a0cb0f01
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/81/811b70edc728c2aed85b2361a0cb0f01
+    projectPath: Library/Artifacts/81/811b70edc728c2aed85b2361a0cb0f01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/82/826f2aabceceef3c66ee8e042c10a2e4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/82/826f2aabceceef3c66ee8e042c10a2e4
+    projectPath: Library/Artifacts/82/826f2aabceceef3c66ee8e042c10a2e4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/83/835589efd2e1d65d64b88a9c960c819f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/83/835589efd2e1d65d64b88a9c960c819f
+    projectPath: Library/Artifacts/83/835589efd2e1d65d64b88a9c960c819f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/84/84776e77cba3697e67f92594eae33aa0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/84/84776e77cba3697e67f92594eae33aa0
+    projectPath: Library/Artifacts/84/84776e77cba3697e67f92594eae33aa0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/84/84932af6bf5bfe1bb6de7f49ee967654
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/84/84932af6bf5bfe1bb6de7f49ee967654
+    projectPath: Library/Artifacts/84/84932af6bf5bfe1bb6de7f49ee967654
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/85/854f9abc867dcb6f94c7c34a34deecb0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/85/854f9abc867dcb6f94c7c34a34deecb0
+    projectPath: Library/Artifacts/85/854f9abc867dcb6f94c7c34a34deecb0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/86/8648c721bf9fda8fdaa06d52fa6c2df8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/86/8648c721bf9fda8fdaa06d52fa6c2df8
+    projectPath: Library/Artifacts/86/8648c721bf9fda8fdaa06d52fa6c2df8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/86/867fbc263b5255c8d5049f899d22c342
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/86/867fbc263b5255c8d5049f899d22c342
+    projectPath: Library/Artifacts/86/867fbc263b5255c8d5049f899d22c342
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/86/8692e20b116b5718f6dfc857962c8969
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/86/8692e20b116b5718f6dfc857962c8969
+    projectPath: Library/Artifacts/86/8692e20b116b5718f6dfc857962c8969
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/87/87affe4d51083cb79baf867b2f46aac0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/87/87affe4d51083cb79baf867b2f46aac0
+    projectPath: Library/Artifacts/87/87affe4d51083cb79baf867b2f46aac0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/88/88838055f8a13f54cdb46bc456175985
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/88/88838055f8a13f54cdb46bc456175985
+    projectPath: Library/Artifacts/88/88838055f8a13f54cdb46bc456175985
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/89/8903d32d6d516dc5aa631a8efb6da903
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/89/8903d32d6d516dc5aa631a8efb6da903
+    projectPath: Library/Artifacts/89/8903d32d6d516dc5aa631a8efb6da903
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8a/8ae5f3f4673ba62b217b11caf8149260
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8a/8ae5f3f4673ba62b217b11caf8149260
+    projectPath: Library/Artifacts/8a/8ae5f3f4673ba62b217b11caf8149260
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8a/8af2bae39b766dfceee3978b881d7db7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8a/8af2bae39b766dfceee3978b881d7db7
+    projectPath: Library/Artifacts/8a/8af2bae39b766dfceee3978b881d7db7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8b/8bc5a781422cc69fb26e39ba3828daf7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8b/8bc5a781422cc69fb26e39ba3828daf7
+    projectPath: Library/Artifacts/8b/8bc5a781422cc69fb26e39ba3828daf7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8b/8bd05d1a9f58c629b40a7bfa5ba98acd
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8b/8bd05d1a9f58c629b40a7bfa5ba98acd
+    projectPath: Library/Artifacts/8b/8bd05d1a9f58c629b40a7bfa5ba98acd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8c/8c306827a9f152fd6a784ae788e74eb5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8c/8c306827a9f152fd6a784ae788e74eb5
+    projectPath: Library/Artifacts/8c/8c306827a9f152fd6a784ae788e74eb5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8c/8c6d794b8c8f44ac102f18c870de76de
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8c/8c6d794b8c8f44ac102f18c870de76de
+    projectPath: Library/Artifacts/8c/8c6d794b8c8f44ac102f18c870de76de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8c/8c78900ea17f5fd469c2cea5a4a6a7f8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8c/8c78900ea17f5fd469c2cea5a4a6a7f8
+    projectPath: Library/Artifacts/8c/8c78900ea17f5fd469c2cea5a4a6a7f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8c/8ca5ad991ad35f106b4bf37723ffeb95
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8c/8ca5ad991ad35f106b4bf37723ffeb95
+    projectPath: Library/Artifacts/8c/8ca5ad991ad35f106b4bf37723ffeb95
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8c/8cce97518545f4ce91b660df2ee0e810
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8c/8cce97518545f4ce91b660df2ee0e810
+    projectPath: Library/Artifacts/8c/8cce97518545f4ce91b660df2ee0e810
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8d/8d03bc7019702600e65de67bb1f5a6e2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8d/8d03bc7019702600e65de67bb1f5a6e2
+    projectPath: Library/Artifacts/8d/8d03bc7019702600e65de67bb1f5a6e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8d/8d45218ebfbb1b9491399fa22d8e3d34
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8d/8d45218ebfbb1b9491399fa22d8e3d34
+    projectPath: Library/Artifacts/8d/8d45218ebfbb1b9491399fa22d8e3d34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8e/8e3f5454d1929e2e6b235a56f76e20b6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8e/8e3f5454d1929e2e6b235a56f76e20b6
+    projectPath: Library/Artifacts/8e/8e3f5454d1929e2e6b235a56f76e20b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8e/8e7ad64d6fc6c702dfcdf0acd075dd3a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8e/8e7ad64d6fc6c702dfcdf0acd075dd3a
+    projectPath: Library/Artifacts/8e/8e7ad64d6fc6c702dfcdf0acd075dd3a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8e/8eb924de4476aff0d79186994e63f700
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/8e/8eb924de4476aff0d79186994e63f700
+    projectPath: Library/Artifacts/8e/8eb924de4476aff0d79186994e63f700
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/91/91cd2f58b34009df3dc02cb6eb64d7b9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/91/91cd2f58b34009df3dc02cb6eb64d7b9
+    projectPath: Library/Artifacts/91/91cd2f58b34009df3dc02cb6eb64d7b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/92/92141c5946966c84b3d00b6c640ec6ed
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/92/92141c5946966c84b3d00b6c640ec6ed
+    projectPath: Library/Artifacts/92/92141c5946966c84b3d00b6c640ec6ed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/92/927fe99f54a46794ef10f50de53deacb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/92/927fe99f54a46794ef10f50de53deacb
+    projectPath: Library/Artifacts/92/927fe99f54a46794ef10f50de53deacb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/92/92b989bb3bd134b83786efc25cc1b651
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/92/92b989bb3bd134b83786efc25cc1b651
+    projectPath: Library/Artifacts/92/92b989bb3bd134b83786efc25cc1b651
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/92/92fc3509361e461a6ddba0d7150cebd6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/92/92fc3509361e461a6ddba0d7150cebd6
+    projectPath: Library/Artifacts/92/92fc3509361e461a6ddba0d7150cebd6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/93/93482da1a0ded4505bad0632a869a85b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/93/93482da1a0ded4505bad0632a869a85b
+    projectPath: Library/Artifacts/93/93482da1a0ded4505bad0632a869a85b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/93/93511d73508b3f2dd17d609b373100bf
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/93/93511d73508b3f2dd17d609b373100bf
+    projectPath: Library/Artifacts/93/93511d73508b3f2dd17d609b373100bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/93/939d24ee30ea3a87529c32f15bedb901
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/93/939d24ee30ea3a87529c32f15bedb901
+    projectPath: Library/Artifacts/93/939d24ee30ea3a87529c32f15bedb901
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/94/94766ba0a9f321a7a30b1d90d6bffbcf
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/94/94766ba0a9f321a7a30b1d90d6bffbcf
+    projectPath: Library/Artifacts/94/94766ba0a9f321a7a30b1d90d6bffbcf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/94/9488560d7dbb915d89e2aa99ced44f71
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/94/9488560d7dbb915d89e2aa99ced44f71
+    projectPath: Library/Artifacts/94/9488560d7dbb915d89e2aa99ced44f71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/95/951d66c1d3bc6b2419c45ab48b86ba9f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/95/951d66c1d3bc6b2419c45ab48b86ba9f
+    projectPath: Library/Artifacts/95/951d66c1d3bc6b2419c45ab48b86ba9f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/95/95b608bff50d97378b04fef972615a99
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/95/95b608bff50d97378b04fef972615a99
+    projectPath: Library/Artifacts/95/95b608bff50d97378b04fef972615a99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/95/95f3bcd7abc7ad166208caa6232bb495
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/95/95f3bcd7abc7ad166208caa6232bb495
+    projectPath: Library/Artifacts/95/95f3bcd7abc7ad166208caa6232bb495
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/96/9600897476940e604de21df433e03b95
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/96/9600897476940e604de21df433e03b95
+    projectPath: Library/Artifacts/96/9600897476940e604de21df433e03b95
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/96/96bcc80b73b26628faae10d41ca86dfc
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/96/96bcc80b73b26628faae10d41ca86dfc
+    projectPath: Library/Artifacts/96/96bcc80b73b26628faae10d41ca86dfc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/98/981653be5612cf98fb15faf4f70c130e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/98/981653be5612cf98fb15faf4f70c130e
+    projectPath: Library/Artifacts/98/981653be5612cf98fb15faf4f70c130e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/99/9918bdd1b99c299f54e3ba49ee8728c5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/99/9918bdd1b99c299f54e3ba49ee8728c5
+    projectPath: Library/Artifacts/99/9918bdd1b99c299f54e3ba49ee8728c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/99/99af8c8cc2e0f229c2eb90f9ca074893
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/99/99af8c8cc2e0f229c2eb90f9ca074893
+    projectPath: Library/Artifacts/99/99af8c8cc2e0f229c2eb90f9ca074893
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9a/9a2bd299612402a267a30bca37c7e3fd
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9a/9a2bd299612402a267a30bca37c7e3fd
+    projectPath: Library/Artifacts/9a/9a2bd299612402a267a30bca37c7e3fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9a/9a443d7ce5d85fc7e021fbb1788d2956
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9a/9a443d7ce5d85fc7e021fbb1788d2956
+    projectPath: Library/Artifacts/9a/9a443d7ce5d85fc7e021fbb1788d2956
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9b/9ba769c76f7d03b173a2230183212be0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9b/9ba769c76f7d03b173a2230183212be0
+    projectPath: Library/Artifacts/9b/9ba769c76f7d03b173a2230183212be0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9b/9ba944b617537954c97061ff706261e8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9b/9ba944b617537954c97061ff706261e8
+    projectPath: Library/Artifacts/9b/9ba944b617537954c97061ff706261e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9b/9be824627a49dad699c2dc351d34b09a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9b/9be824627a49dad699c2dc351d34b09a
+    projectPath: Library/Artifacts/9b/9be824627a49dad699c2dc351d34b09a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9c/9c0d2f8e01afa46f6c4c3d618449b1e8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9c/9c0d2f8e01afa46f6c4c3d618449b1e8
+    projectPath: Library/Artifacts/9c/9c0d2f8e01afa46f6c4c3d618449b1e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9c/9c25c25da767c3fe5493407acbe63627
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9c/9c25c25da767c3fe5493407acbe63627
+    projectPath: Library/Artifacts/9c/9c25c25da767c3fe5493407acbe63627
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9d/9dd46a8f6a6fe1b7c0f13bd780dbdcef
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9d/9dd46a8f6a6fe1b7c0f13bd780dbdcef
+    projectPath: Library/Artifacts/9d/9dd46a8f6a6fe1b7c0f13bd780dbdcef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9e/9e0713861d33a30a2d9d727fb6fa23e0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9e/9e0713861d33a30a2d9d727fb6fa23e0
+    projectPath: Library/Artifacts/9e/9e0713861d33a30a2d9d727fb6fa23e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9f/9f36a21f253e4cda24cdf2c7f019c2f4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9f/9f36a21f253e4cda24cdf2c7f019c2f4
+    projectPath: Library/Artifacts/9f/9f36a21f253e4cda24cdf2c7f019c2f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/9f/9f58585c0cfc488760d78be2a2a78fc9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/9f/9f58585c0cfc488760d78be2a2a78fc9
+    projectPath: Library/Artifacts/9f/9f58585c0cfc488760d78be2a2a78fc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a0/a0391c0a81e37ad0bbaaef0cbd54158d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a0/a0391c0a81e37ad0bbaaef0cbd54158d
+    projectPath: Library/Artifacts/a0/a0391c0a81e37ad0bbaaef0cbd54158d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a1/a1b1f2b9f4badcc6a7ab09a75d37290f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a1/a1b1f2b9f4badcc6a7ab09a75d37290f
+    projectPath: Library/Artifacts/a1/a1b1f2b9f4badcc6a7ab09a75d37290f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a2/a2b77bffce89ee90128152100408bd57
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a2/a2b77bffce89ee90128152100408bd57
+    projectPath: Library/Artifacts/a2/a2b77bffce89ee90128152100408bd57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a3/a3a124961d33d5927800a976e11604ec
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a3/a3a124961d33d5927800a976e11604ec
+    projectPath: Library/Artifacts/a3/a3a124961d33d5927800a976e11604ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a4/a43572edc77f9104cd1dc45b66da5103
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a4/a43572edc77f9104cd1dc45b66da5103
+    projectPath: Library/Artifacts/a4/a43572edc77f9104cd1dc45b66da5103
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a4/a48731ba6f5743acd06a94bd1f229a4b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a4/a48731ba6f5743acd06a94bd1f229a4b
+    projectPath: Library/Artifacts/a4/a48731ba6f5743acd06a94bd1f229a4b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a4/a4a357ad2d87a7b75c60a8af85e7344d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a4/a4a357ad2d87a7b75c60a8af85e7344d
+    projectPath: Library/Artifacts/a4/a4a357ad2d87a7b75c60a8af85e7344d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a4/a4fe8e76c89ac0232e36f80c351e6d43
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a4/a4fe8e76c89ac0232e36f80c351e6d43
+    projectPath: Library/Artifacts/a4/a4fe8e76c89ac0232e36f80c351e6d43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a5/a5dd2931c7583aed3e1cefe9133401b8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a5/a5dd2931c7583aed3e1cefe9133401b8
+    projectPath: Library/Artifacts/a5/a5dd2931c7583aed3e1cefe9133401b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a7/a70fee0d1765e99e71066b99a79536b0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a7/a70fee0d1765e99e71066b99a79536b0
+    projectPath: Library/Artifacts/a7/a70fee0d1765e99e71066b99a79536b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a7/a78d6c00b6f4ff5faec6a1bd83380e98
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a7/a78d6c00b6f4ff5faec6a1bd83380e98
+    projectPath: Library/Artifacts/a7/a78d6c00b6f4ff5faec6a1bd83380e98
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a7/a7f328d3bcd13989078857b19e5bf7b9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a7/a7f328d3bcd13989078857b19e5bf7b9
+    projectPath: Library/Artifacts/a7/a7f328d3bcd13989078857b19e5bf7b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a8/a84d4aadaab1b0675fb538cc95bc86f1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a8/a84d4aadaab1b0675fb538cc95bc86f1
+    projectPath: Library/Artifacts/a8/a84d4aadaab1b0675fb538cc95bc86f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a8/a8dd4d9c55a9fc219955cd5d4991fbba
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a8/a8dd4d9c55a9fc219955cd5d4991fbba
+    projectPath: Library/Artifacts/a8/a8dd4d9c55a9fc219955cd5d4991fbba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a9/a9cc4b43582cbb31a6ec83d0e9e23a5d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a9/a9cc4b43582cbb31a6ec83d0e9e23a5d
+    projectPath: Library/Artifacts/a9/a9cc4b43582cbb31a6ec83d0e9e23a5d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a9/a9d5c55429e8948240335f8702a48c94
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a9/a9d5c55429e8948240335f8702a48c94
+    projectPath: Library/Artifacts/a9/a9d5c55429e8948240335f8702a48c94
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a9/a9d8c5d234bccfd7bed6e17b9ef13a73
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/a9/a9d8c5d234bccfd7bed6e17b9ef13a73
+    projectPath: Library/Artifacts/a9/a9d8c5d234bccfd7bed6e17b9ef13a73
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/aa/aac4c9410eb8a8bbe2a65dcb08a4132f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/aa/aac4c9410eb8a8bbe2a65dcb08a4132f
+    projectPath: Library/Artifacts/aa/aac4c9410eb8a8bbe2a65dcb08a4132f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/aa/aae39f83294837ce6f094cdefdf25ef7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/aa/aae39f83294837ce6f094cdefdf25ef7
+    projectPath: Library/Artifacts/aa/aae39f83294837ce6f094cdefdf25ef7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ac/ac490587ea2cf0c78f0d3981b028b482
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ac/ac490587ea2cf0c78f0d3981b028b482
+    projectPath: Library/Artifacts/ac/ac490587ea2cf0c78f0d3981b028b482
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ac/ac853ab9198d6c8116f967ec288f2db1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ac/ac853ab9198d6c8116f967ec288f2db1
+    projectPath: Library/Artifacts/ac/ac853ab9198d6c8116f967ec288f2db1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ac/ac9650ca577d83ff11a5db3774d71f59
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ac/ac9650ca577d83ff11a5db3774d71f59
+    projectPath: Library/Artifacts/ac/ac9650ca577d83ff11a5db3774d71f59
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ac/acc94d0de302e7791541cb4fc2aa7b58
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ac/acc94d0de302e7791541cb4fc2aa7b58
+    projectPath: Library/Artifacts/ac/acc94d0de302e7791541cb4fc2aa7b58
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ad/ad5adaf57c3335199b4c5c470ef91d80
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ad/ad5adaf57c3335199b4c5c470ef91d80
+    projectPath: Library/Artifacts/ad/ad5adaf57c3335199b4c5c470ef91d80
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ad/ad5e73c0625ab5a46179458646fdfc1f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ad/ad5e73c0625ab5a46179458646fdfc1f
+    projectPath: Library/Artifacts/ad/ad5e73c0625ab5a46179458646fdfc1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ad/adae65f43a3cb936e1c321de803df24d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ad/adae65f43a3cb936e1c321de803df24d
+    projectPath: Library/Artifacts/ad/adae65f43a3cb936e1c321de803df24d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ad/adf1ecaece780eb260ddc0a04348bf43
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ad/adf1ecaece780eb260ddc0a04348bf43
+    projectPath: Library/Artifacts/ad/adf1ecaece780eb260ddc0a04348bf43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/af/af4099ce8066cd9dd4fde7f5d3f921f2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/af/af4099ce8066cd9dd4fde7f5d3f921f2
+    projectPath: Library/Artifacts/af/af4099ce8066cd9dd4fde7f5d3f921f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b1/b10be1983f99238400767bcaf621eac6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b1/b10be1983f99238400767bcaf621eac6
+    projectPath: Library/Artifacts/b1/b10be1983f99238400767bcaf621eac6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b1/b13035635edb758a559f8f87afeef74e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b1/b13035635edb758a559f8f87afeef74e
+    projectPath: Library/Artifacts/b1/b13035635edb758a559f8f87afeef74e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b1/b143039fea6512a2e84049336dc2a282
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b1/b143039fea6512a2e84049336dc2a282
+    projectPath: Library/Artifacts/b1/b143039fea6512a2e84049336dc2a282
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b4/b4c40654e840fc263d3d48fb1fd3fbb4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b4/b4c40654e840fc263d3d48fb1fd3fbb4
+    projectPath: Library/Artifacts/b4/b4c40654e840fc263d3d48fb1fd3fbb4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b7/b73330df3931d631491df4b9899bb151
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b7/b73330df3931d631491df4b9899bb151
+    projectPath: Library/Artifacts/b7/b73330df3931d631491df4b9899bb151
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b7/b77e71b5c36547f7256afaba6cc1b5e7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b7/b77e71b5c36547f7256afaba6cc1b5e7
+    projectPath: Library/Artifacts/b7/b77e71b5c36547f7256afaba6cc1b5e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b7/b7b548f27a5a66d997897740830adad2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b7/b7b548f27a5a66d997897740830adad2
+    projectPath: Library/Artifacts/b7/b7b548f27a5a66d997897740830adad2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b8/b8115c65c23ef72e6a310b7381fe9cc0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b8/b8115c65c23ef72e6a310b7381fe9cc0
+    projectPath: Library/Artifacts/b8/b8115c65c23ef72e6a310b7381fe9cc0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b8/b865ff5ce0c1debdb5e751bce1ef77e0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b8/b865ff5ce0c1debdb5e751bce1ef77e0
+    projectPath: Library/Artifacts/b8/b865ff5ce0c1debdb5e751bce1ef77e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b8/b8710beaf839e7ec6aa059e8407160bf
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b8/b8710beaf839e7ec6aa059e8407160bf
+    projectPath: Library/Artifacts/b8/b8710beaf839e7ec6aa059e8407160bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b8/b8803793b8d5f4897818f01a85f5bd18
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b8/b8803793b8d5f4897818f01a85f5bd18
+    projectPath: Library/Artifacts/b8/b8803793b8d5f4897818f01a85f5bd18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b8/b8d13ab03c140fb70884326632e2851a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b8/b8d13ab03c140fb70884326632e2851a
+    projectPath: Library/Artifacts/b8/b8d13ab03c140fb70884326632e2851a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b9/b9481a6ebf7408d13d81a8d69c5a5920
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b9/b9481a6ebf7408d13d81a8d69c5a5920
+    projectPath: Library/Artifacts/b9/b9481a6ebf7408d13d81a8d69c5a5920
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b9/b9b9ddb2852cb42d4e3b99af407f8b4e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b9/b9b9ddb2852cb42d4e3b99af407f8b4e
+    projectPath: Library/Artifacts/b9/b9b9ddb2852cb42d4e3b99af407f8b4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b9/b9f39a32c70a30e874444b39ea839492
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/b9/b9f39a32c70a30e874444b39ea839492
+    projectPath: Library/Artifacts/b9/b9f39a32c70a30e874444b39ea839492
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ba/ba34d8c8366b7b631ffd5a4573a315f4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ba/ba34d8c8366b7b631ffd5a4573a315f4
+    projectPath: Library/Artifacts/ba/ba34d8c8366b7b631ffd5a4573a315f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ba/bac9b619e2e3437af632d4665b4f7452
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ba/bac9b619e2e3437af632d4665b4f7452
+    projectPath: Library/Artifacts/ba/bac9b619e2e3437af632d4665b4f7452
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bb/bb067570afbf9b9d17e4bb4e028c94a0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/bb/bb067570afbf9b9d17e4bb4e028c94a0
+    projectPath: Library/Artifacts/bb/bb067570afbf9b9d17e4bb4e028c94a0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bb/bb0bf9fefbad412237b653f7a9de35ae
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/bb/bb0bf9fefbad412237b653f7a9de35ae
+    projectPath: Library/Artifacts/bb/bb0bf9fefbad412237b653f7a9de35ae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bc/bc4083c9f4f82ecc3d924efee79c0ee6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/bc/bc4083c9f4f82ecc3d924efee79c0ee6
+    projectPath: Library/Artifacts/bc/bc4083c9f4f82ecc3d924efee79c0ee6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bc/bcd83a5ce291d6364f78b3b8ab5d1c78
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/bc/bcd83a5ce291d6364f78b3b8ab5d1c78
+    projectPath: Library/Artifacts/bc/bcd83a5ce291d6364f78b3b8ab5d1c78
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bd/bd1488ccb65a76fbb38400d938b1cf7f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/bd/bd1488ccb65a76fbb38400d938b1cf7f
+    projectPath: Library/Artifacts/bd/bd1488ccb65a76fbb38400d938b1cf7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bd/bdee0373638f20e77201bfbbfd1c9acf
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/bd/bdee0373638f20e77201bfbbfd1c9acf
+    projectPath: Library/Artifacts/bd/bdee0373638f20e77201bfbbfd1c9acf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bf/bfb0407cc565d95a74a58e59a6158bb9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/bf/bfb0407cc565d95a74a58e59a6158bb9
+    projectPath: Library/Artifacts/bf/bfb0407cc565d95a74a58e59a6158bb9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c0/c0038c8d410ef98cf6637c70b93eb2f9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c0/c0038c8d410ef98cf6637c70b93eb2f9
+    projectPath: Library/Artifacts/c0/c0038c8d410ef98cf6637c70b93eb2f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c2/c2e9397207548821b520a50af5dd0d70
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c2/c2e9397207548821b520a50af5dd0d70
+    projectPath: Library/Artifacts/c2/c2e9397207548821b520a50af5dd0d70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c3/c3bbfe01884a641640f23048d2eb3a8d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c3/c3bbfe01884a641640f23048d2eb3a8d
+    projectPath: Library/Artifacts/c3/c3bbfe01884a641640f23048d2eb3a8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c3/c3df6f12c9c94fccec834914af1a83f5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c3/c3df6f12c9c94fccec834914af1a83f5
+    projectPath: Library/Artifacts/c3/c3df6f12c9c94fccec834914af1a83f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c4/c488e3b1dbec6a39469592ec6e421d45
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c4/c488e3b1dbec6a39469592ec6e421d45
+    projectPath: Library/Artifacts/c4/c488e3b1dbec6a39469592ec6e421d45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c4/c49375255b0ec7e9cb881bc2c4c13c24
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c4/c49375255b0ec7e9cb881bc2c4c13c24
+    projectPath: Library/Artifacts/c4/c49375255b0ec7e9cb881bc2c4c13c24
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c4/c49f1407859304a1623a659787a7588b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c4/c49f1407859304a1623a659787a7588b
+    projectPath: Library/Artifacts/c4/c49f1407859304a1623a659787a7588b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c4/c4ca84c5106012d5ff0374e9c75ba578
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c4/c4ca84c5106012d5ff0374e9c75ba578
+    projectPath: Library/Artifacts/c4/c4ca84c5106012d5ff0374e9c75ba578
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c4/c4ea26c9398f43f2723b4c1847110c7a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c4/c4ea26c9398f43f2723b4c1847110c7a
+    projectPath: Library/Artifacts/c4/c4ea26c9398f43f2723b4c1847110c7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c5/c5f429659b9842ff7707bb80cfb4090a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c5/c5f429659b9842ff7707bb80cfb4090a
+    projectPath: Library/Artifacts/c5/c5f429659b9842ff7707bb80cfb4090a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c7/c7183bca28757755824ad85b38046d8d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c7/c7183bca28757755824ad85b38046d8d
+    projectPath: Library/Artifacts/c7/c7183bca28757755824ad85b38046d8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c7/c76ea0cc7a7e7ed04cc1be64ded29b49
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c7/c76ea0cc7a7e7ed04cc1be64ded29b49
+    projectPath: Library/Artifacts/c7/c76ea0cc7a7e7ed04cc1be64ded29b49
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c8/c83e7bed418817b6843c54a67e99e457
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c8/c83e7bed418817b6843c54a67e99e457
+    projectPath: Library/Artifacts/c8/c83e7bed418817b6843c54a67e99e457
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c8/c84d3d65914e7b05b670a3adfbdbbee6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c8/c84d3d65914e7b05b670a3adfbdbbee6
+    projectPath: Library/Artifacts/c8/c84d3d65914e7b05b670a3adfbdbbee6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c8/c8bf5861a0dbe0b368767bbab394f8df
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/c8/c8bf5861a0dbe0b368767bbab394f8df
+    projectPath: Library/Artifacts/c8/c8bf5861a0dbe0b368767bbab394f8df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ca/ca1109a581259d8f16e7990ef795a76b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ca/ca1109a581259d8f16e7990ef795a76b
+    projectPath: Library/Artifacts/ca/ca1109a581259d8f16e7990ef795a76b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ca/ca2bea4a930e6fb979938e67f41c751b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ca/ca2bea4a930e6fb979938e67f41c751b
+    projectPath: Library/Artifacts/ca/ca2bea4a930e6fb979938e67f41c751b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ca/caa5b56b5a3cbb69b735f376d1cb85f1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ca/caa5b56b5a3cbb69b735f376d1cb85f1
+    projectPath: Library/Artifacts/ca/caa5b56b5a3cbb69b735f376d1cb85f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ca/cab69341d45d6aeb7a1af424556c1317
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ca/cab69341d45d6aeb7a1af424556c1317
+    projectPath: Library/Artifacts/ca/cab69341d45d6aeb7a1af424556c1317
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ca/cafc3f806dab75bb00cd2a226f6511a2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ca/cafc3f806dab75bb00cd2a226f6511a2
+    projectPath: Library/Artifacts/ca/cafc3f806dab75bb00cd2a226f6511a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cb/cb09b7dbea138b7ab19ecea8e323f823
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cb/cb09b7dbea138b7ab19ecea8e323f823
+    projectPath: Library/Artifacts/cb/cb09b7dbea138b7ab19ecea8e323f823
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cc/cc15e055c6b4b51ef880f356cd2bc615
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cc/cc15e055c6b4b51ef880f356cd2bc615
+    projectPath: Library/Artifacts/cc/cc15e055c6b4b51ef880f356cd2bc615
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cc/cc5c2fc4f64485991aa585133bf40bac
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cc/cc5c2fc4f64485991aa585133bf40bac
+    projectPath: Library/Artifacts/cc/cc5c2fc4f64485991aa585133bf40bac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cd/cda2aae17dbf70ba7d360baebe66b3b1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cd/cda2aae17dbf70ba7d360baebe66b3b1
+    projectPath: Library/Artifacts/cd/cda2aae17dbf70ba7d360baebe66b3b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cd/cdaf575977b0cdd49af485b76e22ad01
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cd/cdaf575977b0cdd49af485b76e22ad01
+    projectPath: Library/Artifacts/cd/cdaf575977b0cdd49af485b76e22ad01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ce/ce6a2e174f82524faeebdf493bb61a23
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ce/ce6a2e174f82524faeebdf493bb61a23
+    projectPath: Library/Artifacts/ce/ce6a2e174f82524faeebdf493bb61a23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ce/ce7ef4988b0ded53ad7d9b1719b06abd
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ce/ce7ef4988b0ded53ad7d9b1719b06abd
+    projectPath: Library/Artifacts/ce/ce7ef4988b0ded53ad7d9b1719b06abd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ce/cea1f882012b0ebc7c214a62d8f28311
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ce/cea1f882012b0ebc7c214a62d8f28311
+    projectPath: Library/Artifacts/ce/cea1f882012b0ebc7c214a62d8f28311
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ce/ceec5c08f51e5bfc00c6d8333ccf37ce
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ce/ceec5c08f51e5bfc00c6d8333ccf37ce
+    projectPath: Library/Artifacts/ce/ceec5c08f51e5bfc00c6d8333ccf37ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ce/ceedaa7de8ac1994f9938be8f57ea9f3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ce/ceedaa7de8ac1994f9938be8f57ea9f3
+    projectPath: Library/Artifacts/ce/ceedaa7de8ac1994f9938be8f57ea9f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ce/ceeff8a095e9235a18bb5a4133d5cae4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ce/ceeff8a095e9235a18bb5a4133d5cae4
+    projectPath: Library/Artifacts/ce/ceeff8a095e9235a18bb5a4133d5cae4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cf/cf6685f759727029af50fff6976654ea
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cf/cf6685f759727029af50fff6976654ea
+    projectPath: Library/Artifacts/cf/cf6685f759727029af50fff6976654ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cf/cf7056feff10605a1b401c5e1131c356
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cf/cf7056feff10605a1b401c5e1131c356
+    projectPath: Library/Artifacts/cf/cf7056feff10605a1b401c5e1131c356
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cf/cf8767a76110fc278f1bfe2d14d80f9c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cf/cf8767a76110fc278f1bfe2d14d80f9c
+    projectPath: Library/Artifacts/cf/cf8767a76110fc278f1bfe2d14d80f9c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cf/cf9e996444246b3373ddc15d67487c05
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/cf/cf9e996444246b3373ddc15d67487c05
+    projectPath: Library/Artifacts/cf/cf9e996444246b3373ddc15d67487c05
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d1/d1b0dab11cb27da9705189d44a6d98c2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d1/d1b0dab11cb27da9705189d44a6d98c2
+    projectPath: Library/Artifacts/d1/d1b0dab11cb27da9705189d44a6d98c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d4/d470e0f9af7227a369476fedd2ec73c1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d4/d470e0f9af7227a369476fedd2ec73c1
+    projectPath: Library/Artifacts/d4/d470e0f9af7227a369476fedd2ec73c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d4/d4ad6c795594e830db90484fc31c3442
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d4/d4ad6c795594e830db90484fc31c3442
+    projectPath: Library/Artifacts/d4/d4ad6c795594e830db90484fc31c3442
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d6/d66fe71ccad94b58d1fd383ebf22c37f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d6/d66fe71ccad94b58d1fd383ebf22c37f
+    projectPath: Library/Artifacts/d6/d66fe71ccad94b58d1fd383ebf22c37f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d6/d6dd9d70d02e9ff9484358825a3857c7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d6/d6dd9d70d02e9ff9484358825a3857c7
+    projectPath: Library/Artifacts/d6/d6dd9d70d02e9ff9484358825a3857c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d7/d7e142647bc8e01fc8fb250b5f743ec1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d7/d7e142647bc8e01fc8fb250b5f743ec1
+    projectPath: Library/Artifacts/d7/d7e142647bc8e01fc8fb250b5f743ec1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d8/d850a16b99b5b068c4d3047c4305f971
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d8/d850a16b99b5b068c4d3047c4305f971
+    projectPath: Library/Artifacts/d8/d850a16b99b5b068c4d3047c4305f971
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d8/d8fe56ab9489ed49edff430c85414db7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d8/d8fe56ab9489ed49edff430c85414db7
+    projectPath: Library/Artifacts/d8/d8fe56ab9489ed49edff430c85414db7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d9/d9abc1a2f4e7a07e0aa9bcc794d46d06
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d9/d9abc1a2f4e7a07e0aa9bcc794d46d06
+    projectPath: Library/Artifacts/d9/d9abc1a2f4e7a07e0aa9bcc794d46d06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d9/d9d34b7ede45cd1194c0d5be96ac072c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d9/d9d34b7ede45cd1194c0d5be96ac072c
+    projectPath: Library/Artifacts/d9/d9d34b7ede45cd1194c0d5be96ac072c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d9/d9e6c1e1bb2546a1b3818c9500f2e6dd
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/d9/d9e6c1e1bb2546a1b3818c9500f2e6dd
+    projectPath: Library/Artifacts/d9/d9e6c1e1bb2546a1b3818c9500f2e6dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/da/da0e421dd0319b2bb05d226365f5d318
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/da/da0e421dd0319b2bb05d226365f5d318
+    projectPath: Library/Artifacts/da/da0e421dd0319b2bb05d226365f5d318
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/da/da35a5a50416574589746c4b68355f8f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/da/da35a5a50416574589746c4b68355f8f
+    projectPath: Library/Artifacts/da/da35a5a50416574589746c4b68355f8f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/da/dab53658fa01bd717220d2dbf922fea1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/da/dab53658fa01bd717220d2dbf922fea1
+    projectPath: Library/Artifacts/da/dab53658fa01bd717220d2dbf922fea1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/da/dace037058b933e29d7016ed5a185e01
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/da/dace037058b933e29d7016ed5a185e01
+    projectPath: Library/Artifacts/da/dace037058b933e29d7016ed5a185e01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/da/dad346d3530d4eebdd7cb0e364dcdefe
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/da/dad346d3530d4eebdd7cb0e364dcdefe
+    projectPath: Library/Artifacts/da/dad346d3530d4eebdd7cb0e364dcdefe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/db230c1dee46f2fff60656cd4dc4461c
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/db/db230c1dee46f2fff60656cd4dc4461c
+    projectPath: Library/Artifacts/db/db230c1dee46f2fff60656cd4dc4461c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/db5707f34762abbecb5dd5a6036d56eb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/db/db5707f34762abbecb5dd5a6036d56eb
+    projectPath: Library/Artifacts/db/db5707f34762abbecb5dd5a6036d56eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/db7965a0cc70867411f70f2a19284e8f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/db/db7965a0cc70867411f70f2a19284e8f
+    projectPath: Library/Artifacts/db/db7965a0cc70867411f70f2a19284e8f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/db841d0ca5ef1b2be4278da8a79b8bbe
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/db/db841d0ca5ef1b2be4278da8a79b8bbe
+    projectPath: Library/Artifacts/db/db841d0ca5ef1b2be4278da8a79b8bbe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/dbad17f38a73edf908796f3de6af248a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/db/dbad17f38a73edf908796f3de6af248a
+    projectPath: Library/Artifacts/db/dbad17f38a73edf908796f3de6af248a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/dc/dc39b4e2e8e751fafd52180fbb6fc462
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/dc/dc39b4e2e8e751fafd52180fbb6fc462
+    projectPath: Library/Artifacts/dc/dc39b4e2e8e751fafd52180fbb6fc462
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/dc/dc8e4c0e8d555a3918a6dbabcbef3059
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/dc/dc8e4c0e8d555a3918a6dbabcbef3059
+    projectPath: Library/Artifacts/dc/dc8e4c0e8d555a3918a6dbabcbef3059
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/dc/dcd3142819c871d3943546b17a66d6ce
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/dc/dcd3142819c871d3943546b17a66d6ce
+    projectPath: Library/Artifacts/dc/dcd3142819c871d3943546b17a66d6ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/dd/dd4d1a0ffc76f37ceb08918ccfa5095f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/dd/dd4d1a0ffc76f37ceb08918ccfa5095f
+    projectPath: Library/Artifacts/dd/dd4d1a0ffc76f37ceb08918ccfa5095f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/df/df5516382dfe967b5034dad2ebdc578b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/df/df5516382dfe967b5034dad2ebdc578b
+    projectPath: Library/Artifacts/df/df5516382dfe967b5034dad2ebdc578b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/df/df6ae3c240f8535c03929b0e1b38753f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/df/df6ae3c240f8535c03929b0e1b38753f
+    projectPath: Library/Artifacts/df/df6ae3c240f8535c03929b0e1b38753f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/df/df7dd0901245c989f4beefc889287de8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/df/df7dd0901245c989f4beefc889287de8
+    projectPath: Library/Artifacts/df/df7dd0901245c989f4beefc889287de8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e0/e0d4ac1cd1e694261e859e862d4c3448
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e0/e0d4ac1cd1e694261e859e862d4c3448
+    projectPath: Library/Artifacts/e0/e0d4ac1cd1e694261e859e862d4c3448
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e1/e1506edb338a2ba47e414e8c996e1493
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e1/e1506edb338a2ba47e414e8c996e1493
+    projectPath: Library/Artifacts/e1/e1506edb338a2ba47e414e8c996e1493
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e215705f30f33e52d2c3e313829106bc
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e2/e215705f30f33e52d2c3e313829106bc
+    projectPath: Library/Artifacts/e2/e215705f30f33e52d2c3e313829106bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e215d1fdc9ae5f423563f86bd971344d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e2/e215d1fdc9ae5f423563f86bd971344d
+    projectPath: Library/Artifacts/e2/e215d1fdc9ae5f423563f86bd971344d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e217ba9c277411bfe02505d253fa8c68
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e2/e217ba9c277411bfe02505d253fa8c68
+    projectPath: Library/Artifacts/e2/e217ba9c277411bfe02505d253fa8c68
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e2aef29fbba7dca25c0dd2e4a11117b5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e2/e2aef29fbba7dca25c0dd2e4a11117b5
+    projectPath: Library/Artifacts/e2/e2aef29fbba7dca25c0dd2e4a11117b5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e2bdc37773af0295ea1fe62225ac2034
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e2/e2bdc37773af0295ea1fe62225ac2034
+    projectPath: Library/Artifacts/e2/e2bdc37773af0295ea1fe62225ac2034
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e2f01fc94edfa433261d48d9b7227ba6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e2/e2f01fc94edfa433261d48d9b7227ba6
+    projectPath: Library/Artifacts/e2/e2f01fc94edfa433261d48d9b7227ba6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e3/e3f654d9cd6ddc049241de725a1c8d2e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e3/e3f654d9cd6ddc049241de725a1c8d2e
+    projectPath: Library/Artifacts/e3/e3f654d9cd6ddc049241de725a1c8d2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e4/e406a9e2110bce6497f082532aba5271
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e4/e406a9e2110bce6497f082532aba5271
+    projectPath: Library/Artifacts/e4/e406a9e2110bce6497f082532aba5271
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e4/e407de64de576771d49d5feef329cbf2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e4/e407de64de576771d49d5feef329cbf2
+    projectPath: Library/Artifacts/e4/e407de64de576771d49d5feef329cbf2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e4/e423472a41dd723e62153c52d392ae2e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e4/e423472a41dd723e62153c52d392ae2e
+    projectPath: Library/Artifacts/e4/e423472a41dd723e62153c52d392ae2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e4/e44c7833fea62613e9421389ce1ed8a5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e4/e44c7833fea62613e9421389ce1ed8a5
+    projectPath: Library/Artifacts/e4/e44c7833fea62613e9421389ce1ed8a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e5/e515c7b6bc42fef21b7d608a20f8d0a8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e5/e515c7b6bc42fef21b7d608a20f8d0a8
+    projectPath: Library/Artifacts/e5/e515c7b6bc42fef21b7d608a20f8d0a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e5/e55e217e109f40319af215b4c401a558
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e5/e55e217e109f40319af215b4c401a558
+    projectPath: Library/Artifacts/e5/e55e217e109f40319af215b4c401a558
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e5/e569d6d45739848e87c28deb37de41e9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e5/e569d6d45739848e87c28deb37de41e9
+    projectPath: Library/Artifacts/e5/e569d6d45739848e87c28deb37de41e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e6/e626b8a45bd4ee0c422cdd84dcfdc298
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e6/e626b8a45bd4ee0c422cdd84dcfdc298
+    projectPath: Library/Artifacts/e6/e626b8a45bd4ee0c422cdd84dcfdc298
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e6/e69e7e43a3d7fe4843f5a7804ef31782
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e6/e69e7e43a3d7fe4843f5a7804ef31782
+    projectPath: Library/Artifacts/e6/e69e7e43a3d7fe4843f5a7804ef31782
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e8/e80b622c21e00733a0c486bec4313ff4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e8/e80b622c21e00733a0c486bec4313ff4
+    projectPath: Library/Artifacts/e8/e80b622c21e00733a0c486bec4313ff4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e8/e8a6b4e735043f05f6a007b83b9708de
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/e8/e8a6b4e735043f05f6a007b83b9708de
+    projectPath: Library/Artifacts/e8/e8a6b4e735043f05f6a007b83b9708de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/eb/eb1f8876d0d0be23e33636b126b4b561
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/eb/eb1f8876d0d0be23e33636b126b4b561
+    projectPath: Library/Artifacts/eb/eb1f8876d0d0be23e33636b126b4b561
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/eb/eb45778842b2fbcd9c945435928922e6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/eb/eb45778842b2fbcd9c945435928922e6
+    projectPath: Library/Artifacts/eb/eb45778842b2fbcd9c945435928922e6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/eb/eb68f7824a18f14e8565f3ceaae15589
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/eb/eb68f7824a18f14e8565f3ceaae15589
+    projectPath: Library/Artifacts/eb/eb68f7824a18f14e8565f3ceaae15589
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ec/ec41cf42c18c8ee0705688983b1d53c8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ec/ec41cf42c18c8ee0705688983b1d53c8
+    projectPath: Library/Artifacts/ec/ec41cf42c18c8ee0705688983b1d53c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ed/ed528d4db1dbb24eefbac9982d030cd0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ed/ed528d4db1dbb24eefbac9982d030cd0
+    projectPath: Library/Artifacts/ed/ed528d4db1dbb24eefbac9982d030cd0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ed/edb603a607e037acde436aa62c6abd4f
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ed/edb603a607e037acde436aa62c6abd4f
+    projectPath: Library/Artifacts/ed/edb603a607e037acde436aa62c6abd4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ee/ee332293d090fdcbe0c98a3891152439
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ee/ee332293d090fdcbe0c98a3891152439
+    projectPath: Library/Artifacts/ee/ee332293d090fdcbe0c98a3891152439
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ee/ee338fd4f7bba5433464d0126e67105e
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ee/ee338fd4f7bba5433464d0126e67105e
+    projectPath: Library/Artifacts/ee/ee338fd4f7bba5433464d0126e67105e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ee/eebad493702c9dd6704ff47fbf63de43
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ee/eebad493702c9dd6704ff47fbf63de43
+    projectPath: Library/Artifacts/ee/eebad493702c9dd6704ff47fbf63de43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ee/eedb5ac4cab8886164ea42df0fd59f60
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ee/eedb5ac4cab8886164ea42df0fd59f60
+    projectPath: Library/Artifacts/ee/eedb5ac4cab8886164ea42df0fd59f60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ee/eee8232785da7aa0409d76422866f82b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ee/eee8232785da7aa0409d76422866f82b
+    projectPath: Library/Artifacts/ee/eee8232785da7aa0409d76422866f82b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ef/efa45b45fe0440caa337407122ecff43
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ef/efa45b45fe0440caa337407122ecff43
+    projectPath: Library/Artifacts/ef/efa45b45fe0440caa337407122ecff43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f1/f1df23faf4e676c25c6488e53e0ffb24
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f1/f1df23faf4e676c25c6488e53e0ffb24
+    projectPath: Library/Artifacts/f1/f1df23faf4e676c25c6488e53e0ffb24
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f2/f271a8bb17c113edfcd6f1d436adba57
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f2/f271a8bb17c113edfcd6f1d436adba57
+    projectPath: Library/Artifacts/f2/f271a8bb17c113edfcd6f1d436adba57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f3/f393f3e84d7398f5a2aff3eab6bfc222
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f3/f393f3e84d7398f5a2aff3eab6bfc222
+    projectPath: Library/Artifacts/f3/f393f3e84d7398f5a2aff3eab6bfc222
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f3/f3cd075983aea416c7500494aada4d80
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f3/f3cd075983aea416c7500494aada4d80
+    projectPath: Library/Artifacts/f3/f3cd075983aea416c7500494aada4d80
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f4/f4712ab88ec3570b3b37bae79565814d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f4/f4712ab88ec3570b3b37bae79565814d
+    projectPath: Library/Artifacts/f4/f4712ab88ec3570b3b37bae79565814d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f4/f49b5cee376d13c44ddd84c54e58893a
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f4/f49b5cee376d13c44ddd84c54e58893a
+    projectPath: Library/Artifacts/f4/f49b5cee376d13c44ddd84c54e58893a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f5/f546cf77020c3214bbac2c09bb1393ce
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f5/f546cf77020c3214bbac2c09bb1393ce
+    projectPath: Library/Artifacts/f5/f546cf77020c3214bbac2c09bb1393ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f7/f721e29733562ad634108ec91bf53db5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f7/f721e29733562ad634108ec91bf53db5
+    projectPath: Library/Artifacts/f7/f721e29733562ad634108ec91bf53db5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f7/f7aacb18f88688181df621577170f91d
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f7/f7aacb18f88688181df621577170f91d
+    projectPath: Library/Artifacts/f7/f7aacb18f88688181df621577170f91d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f7/f7fab2bd60f190216aab6aad9c20ded7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f7/f7fab2bd60f190216aab6aad9c20ded7
+    projectPath: Library/Artifacts/f7/f7fab2bd60f190216aab6aad9c20ded7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f9/f93776857c24dc4522bc64da54cd7eae
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/f9/f93776857c24dc4522bc64da54cd7eae
+    projectPath: Library/Artifacts/f9/f93776857c24dc4522bc64da54cd7eae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fa/fa2c25618c4e1a47e25c5e92ac63abb7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fa/fa2c25618c4e1a47e25c5e92ac63abb7
+    projectPath: Library/Artifacts/fa/fa2c25618c4e1a47e25c5e92ac63abb7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fa/fad440af6ab25bb27f2c359f4f1baeae
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fa/fad440af6ab25bb27f2c359f4f1baeae
+    projectPath: Library/Artifacts/fa/fad440af6ab25bb27f2c359f4f1baeae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fc/fcda25c89adb7cabc102d3008920aaad
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fc/fcda25c89adb7cabc102d3008920aaad
+    projectPath: Library/Artifacts/fc/fcda25c89adb7cabc102d3008920aaad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fd/fd0d9a63af65e6487fe7b270b5097282
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fd/fd0d9a63af65e6487fe7b270b5097282
+    projectPath: Library/Artifacts/fd/fd0d9a63af65e6487fe7b270b5097282
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fd/fd915f7295e45697049df7284e748541
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fd/fd915f7295e45697049df7284e748541
+    projectPath: Library/Artifacts/fd/fd915f7295e45697049df7284e748541
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fd/fdce8c9761612fd7d42d6f803e46e4b8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fd/fdce8c9761612fd7d42d6f803e46e4b8
+    projectPath: Library/Artifacts/fd/fdce8c9761612fd7d42d6f803e46e4b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fe/fe0e623dc82e430e47ccb5ae28f1ab38
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fe/fe0e623dc82e430e47ccb5ae28f1ab38
+    projectPath: Library/Artifacts/fe/fe0e623dc82e430e47ccb5ae28f1ab38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fe/fe5d8763b10f937c55fb1bb5f069edc8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fe/fe5d8763b10f937c55fb1bb5f069edc8
+    projectPath: Library/Artifacts/fe/fe5d8763b10f937c55fb1bb5f069edc8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fe/fe9c658c3a7ca267108288f39c6ef169
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fe/fe9c658c3a7ca267108288f39c6ef169
+    projectPath: Library/Artifacts/fe/fe9c658c3a7ca267108288f39c6ef169
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fe/feeef376e30db2b5827d85ef496615df
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fe/feeef376e30db2b5827d85ef496615df
+    projectPath: Library/Artifacts/fe/feeef376e30db2b5827d85ef496615df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fe/feef1aeee8242e249fa028e7cef1bf7b
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/fe/feef1aeee8242e249fa028e7cef1bf7b
+    projectPath: Library/Artifacts/fe/feef1aeee8242e249fa028e7cef1bf7b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ff/ffc1988691947c23eeac6ea55476dbe7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Artifacts/ff/ffc1988691947c23eeac6ea55476dbe7
+    projectPath: Library/Artifacts/ff/ffc1988691947c23eeac6ea55476dbe7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/BuildPlayerData/Editor/TypeDb-All.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/BuildPlayerData/Editor/TypeDb-All.json
+    projectPath: Library/BuildPlayerData/Editor/TypeDb-All.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json
+    projectPath: Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BuildPlayerData/Player/TypeDb-All.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/BuildPlayerData/Player/TypeDb-All.json
+    projectPath: Library/BuildPlayerData/Player/TypeDb-All.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BuildPlayerData/response.rsp
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/BuildPlayerData/response.rsp
+    projectPath: Library/BuildPlayerData/response.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorUserBuildSettings.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/expandedItems
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/expandedItems
+    projectPath: Library/expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/k20025/github/MyPersonalDrone/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -142,15 +2982,423 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastBuild.buildreport
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/LastBuild.buildreport
+    projectPath: Library/LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/CanvasUpdateRegistry.cs
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/CanvasUpdateRegistry.cs
+    projectPath: Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/CanvasUpdateRegistry.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/InputField.cs
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/InputField.cs
+    projectPath: Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/InputField.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/InputField/TouchInputFieldTests.cs
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/InputField/TouchInputFieldTests.cs
+    projectPath: Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/InputField/TouchInputFieldTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageManager/ProjectCache
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PackageManager/ProjectCache
+    projectPath: Library/PackageManager/ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageManager/ProjectCache.md5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PackageManager/ProjectCache.md5
+    projectPath: Library/PackageManager/ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level0
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level0
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level0.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level0.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level0.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level1
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level1
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level1.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level1.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level1.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level10
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level10
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level10
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level10.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level10.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level10.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level2
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level2
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level2.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level2.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level2.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level3
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level3
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level3.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level3.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level3.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level4
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level4
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level4.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level4.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level4.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level5
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level5
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level5.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level5.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level5.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level6
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level6
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level6.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level6.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level6.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level7
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level7
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level7.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level7.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level7.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level8
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level8
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level8.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level8.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level8.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level9
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/level9
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.InputSystem.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.InputSystem.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.InputSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UI.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UI.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads.json
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets10.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets10.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets10.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets10.assets.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets10.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets10.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets4.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets4.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets4.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets4.assets.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets4.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets4.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets5.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets5.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets5.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets6.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets6.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets6.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets7.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets7.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets7.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets8.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets8.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets8.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets9.assets
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets9.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets9.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets9.assets.resS
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/Data/sharedassets9.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets9.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    projectPath: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SceneVisibilityState.asset
     fullPath: /Users/k20025/github/MyPersonalDrone/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ScriptAssemblies/UnityEngine.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptMapper
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ScriptMapper
+    projectPath: Library/ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache.db
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/ShaderCache.db
+    projectPath: Library/ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ShaderCache/EditorEncounteredVariants
     fullPath: /Users/k20025/github/MyPersonalDrone/Library/ShaderCache/EditorEncounteredVariants
     projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB-lock
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -166,15 +3414,87 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/TerrainTools/PaintTexture
-    fullPath: /Users/k20025/github/MyPersonalDrone/Library/TerrainTools/PaintTexture
-    projectPath: Library/TerrainTools/PaintTexture
+  - path: Library/Style.catalog
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/Style.catalog
+    projectPath: Library/Style.catalog
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: /Users/k20025/github/MyPersonalDrone/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/AssetImportWorker0-prev.log
+    fullPath: /Users/k20025/github/MyPersonalDrone/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/k20025/github/MyPersonalDrone/Logs/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages/manifest.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages/packages-lock.json
+    fullPath: /Users/k20025/github/MyPersonalDrone/Packages/packages-lock.json
+    projectPath: Packages/packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/GraphicsSettings.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/ProjectSettings/GraphicsSettings.asset
+    projectPath: ProjectSettings/GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/InputManager.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Users/k20025/github/MyPersonalDrone/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: ProjectSettings/QualitySettings.asset
     fullPath: /Users/k20025/github/MyPersonalDrone/ProjectSettings/QualitySettings.asset
     projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/URPProjectSettings.asset
+    fullPath: /Users/k20025/github/MyPersonalDrone/ProjectSettings/URPProjectSettings.asset
+    projectPath: ProjectSettings/URPProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/workerlic
+    fullPath: /Users/k20025/github/MyPersonalDrone/Temp/workerlic
+    projectPath: Temp/workerlic
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

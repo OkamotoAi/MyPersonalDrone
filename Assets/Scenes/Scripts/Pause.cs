@@ -20,7 +20,7 @@ public class Pause : MonoBehaviour
 	// Update is called once per frame
 	void Update () {
 		//pキー
-		if (Input.GetKey(KeyCode.P)) {
+		if (Input.GetKeyDown(KeyCode.P)) {
 			//　ポーズUIのアクティブ、非アクティブを切り替え
 			pauseUI.SetActive (true);
 			Time.timeScale = 0f;

@@ -64,7 +64,7 @@ public class ButtonScript : MonoBehaviour
     // モード選択(Practice)→マップ選択(Shrine)→選択確定→ゲーム画面
     public void GameStart_Pra_Shr()
     {
-        SceneManager.LoadScene("Drone_Shr_Pra");
+        SceneManager.LoadScene("shDemo");
     }
 
     // モード選択(Racing)→マップ選択(11-201)→選択確定→ゲーム画面

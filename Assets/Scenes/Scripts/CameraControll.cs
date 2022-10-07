@@ -21,7 +21,7 @@ public class CameraControll : MonoBehaviour {
 	//単位時間ごとに実行される関数
 	void Update () {
         
-         if(Input.GetKey(KeyCode.Space)){
+         if(Input.GetKeyDown(KeyCode.Space)){
              Debug.Log("changed");
             mainCamera.SetActive (!mainCamera.activeSelf);
             fpsCamera.SetActive (!fpsCamera.activeSelf);

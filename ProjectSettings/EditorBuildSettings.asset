@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: e3affb2d630374a00bac8bf523fa5028
+  - enabled: 1
     path: Assets/Scenes/ModeSelect.unity
     guid: e091febd3ea2e447894b276f1039905e
   - enabled: 1
@@ -36,6 +39,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Start_Rac_Shr.unity
     guid: 0918f706a7fa240db8627bf1e3699dd1
   - enabled: 1
-    path: Assets/Scenes/Title.unity
-    guid: e3affb2d630374a00bac8bf523fa5028
+    path: Assets/Scenes/Drone_Shr_Race.unity
+    guid: f10108c0857144d85acf06bca90d4d9a
   m_configObjects: {}
